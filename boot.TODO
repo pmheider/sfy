@@ -1,0 +1,14 @@
+;;;; The following packages have all been removed from Sfy until they work in
+;;;; a stable manner.
+
+(load "/projects/pmheider/porterstemmer/porterstemmer")
+(load "/projects/pmheider/cmudict/interface")
+(snepslog::load "/projects/pmheider/cmudict/pronunciation.snepslog")
+
+;;;; MAP:  The Cambridge Edinburgh Morphological Analyser and Dictionary System
+(load "/projects/pmheider/MAP3.1/common/mapcl")   ;; to load in some low level
+(compile-map)                 ;; compatability functions to compile the system
+(load "/projects/pmheider/MAP3.1/common/morphan")
+(D-Start "/projects/pmheider/MAP3.1/common")
+
+(load "/projects/pmheider/wn/wn-interface")

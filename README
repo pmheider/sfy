@@ -1,0 +1,70 @@
+;;;;
+;;;;  Acquiring a copy of Sfy
+;;;;
+
+Sfy is stored in a GIT repository (http://git.or.cz/).  To make a local copy of
+the current stable versin of Sfy, you will need to:
+
+1)  Create a clone of the GIT repository.
+2)  Change to the stable branch of Sfy.
+
+Assuming you have a working version of GIT, the following should work:
+
+1)  git clone /projects/pmheider/sfy-stable/.git
+2)  cd sfy-stable
+3)  git checkout -b tiny-stable
+
+Be sure to localize the variables to your particular installation.
+
+;;;;
+;;;;  Localizing Sfy
+;;;;
+
+BOOT.CL contains several variable folder names that need to be set to localize
+any installation of Sfy.
+
+For users on nickelback.buffalo.edu, the following variables should be updated:
+
+  --  *SFY-DIRECTORY*
+  --  *PREDICATE-DICTIONARY-DIR*
+
+For users on any other system, they will need to also change the values of
+these additional variables:
+
+  --  *LKB-DIRECTORY*
+  --  *ERG-DIRECTORY*
+  --  *LOAD-SNEPS-COMMAND*
+
+The directories for Sfy, LKB, and ERG have to be set multiple times for now
+because of a scoping bug.
+
+The predicate dictionaries are kept in a sub-directory of Sfy by default.
+
+The other user-defined variables will be explained below:
+
+*USE-FIRST-PARSE*
+*BOOTSTRAP-LEXICON*
+*INCLUDE-PHONOLOGY*
+
+*SFY-VERBOSE-MODE*
+*SFY-DEMO-MODE*
+
+*SFY-CHESS-MODE*
+*SFY-ISA-MODE*
+*SFY-ISACAN-MODE*
+*SFY-ISA-COMPLEX-MODE*
+*SFY-ISACAN-COMPLEX-MODE*
+
+;;;;
+;;;;  Running Sfy
+;;;;
+
+From within your preferred means of running ALISP, execute the command:
+
+1)  (load "boot")
+
+A single sentence at a time (e.g., "Kim is an elephant") may be parsed by
+running the command:
+
+1)  (sfy::parse "Kim is an elephant.")
+

@@ -1,0 +1,861 @@
+8	FALSE	IR		69	13	1	42	8	1
+Crude oil for April delivery traded at $37.80 a barrel, down 28 cents
+Crude oil prices rose to $37.80 per barrel
+12	FALSE	IR		55	10	1	39	5	1
+Oracle had fought to keep the forms from being released
+Oracle released a confidential document
+13	TRUE	IR		48	8	1	34	6	1
+iTunes software has seen strong sales in Europe.
+Strong sales for iTunes in Europe.
+15	FALSE	IR		131	21	1	68	8	1
+All genetically modified food, including soya or maize oil produced from GM soya and maize, and food ingredients, must be labelled.
+Companies selling genetically modified foods don&apos;t need labels.
+19	TRUE	IR		218	38	1	36	5	1
+Researchers at the Harvard School of Public Health say that people who drink coffee may be doing a lot more than keeping themselves awake - this kind of consumption apparently also can help reduce the risk of diseases.
+Coffee drinking has health benefits.
+20	TRUE	IR		116	23	1	35	5	1
+Eating lots of foods that are a good source of fiber may keep your blood glucose from rising too fast after you eat.
+Fiber improves blood sugar control.
+21	FALSE	PP		103	18	1	28	6	1
+Canada rig count at 148, down 46 compared to last week&apos;s and down 27 compared to last year&apos;s.
+Last year, the tally was 148
+46	FALSE	IR		108	18	1	38	7	1
+The Yankees split Hollywood with something to feel OK about after last night&apos;s 5-4 loss to the Dodgers.
+Dodgers lose first game ever at Fenway
+50	FALSE	IR		161	24	1	74	10	1
+Scientists at the Genome Institute of Singapore (GIS) have discovered the complete genetic sequence of a coronavirus isolated from a Singapore patient with SARS.
+Singapore scientists reveal that SARS virus has undergone genetic changes.
+52	TRUE	IR		58	11	1	47	8	1
+Phish disbands after a final concert in Vermont on Aug. 15
+Rock band Phish holds final concert in Vermont.
+56	TRUE	IR		52	7	1	23	4	1
+Euro-Scandinavian media cheer Denmark v Sweden draw.
+Denmark and Sweden tie.
+58	TRUE	IR		181	28	1	28	4	1
+Iraqi militants said Sunday they would behead Kim Sun-Il, a 33-year-old translator, within 24 hours unless plans to dispatch thousands of South Korean troops to Iraq were abandoned.
+translator kidnapped in Iraq
+59	FALSE	IR		87	13	1	28	4	1
+Two Turkish engineers and an Afghan translator kidnapped in December were freed Friday.
+translator kidnapped in Iraq
+60	FALSE	IR		86	14	1	43	6	1
+If a Mexican approaches the border, he&apos;s assumed to be trying to illegally cross.
+Mexicans continue to illegally cross border
+62	TRUE	IR		50	8	1	39	7	1
+Green cards are becoming more difficult to obtain.
+Green card is now difficult to receive.
+63	TRUE	IR		81	12	1	27	3	1
+Iran will soon release eight British servicemen detained along with three vessels
+British servicemen detained
+64	TRUE	IR		91	19	1	34	7	1
+The wait time for a green card has risen from 21 months to 33 months in those same regions.
+It takes longer to get green card.
+65	TRUE	IR		205	34	1	17	3	1
+Coal company stocks got a lift Monday morning after an article in Barron&apos;s said the industry was benefiting from soaring natural gas prices and the advent of new power plants that emit less pollution.
+Coal stocks rise.
+66	TRUE	IR		84	15	1	27	3	1
+The Royal Navy servicemen being held captive by Iran are expected to be freed today.
+British servicemen detained
+67	FALSE	IR		141	26	1	17	3	1
+Total coal stocks with the thermal power stations came down to 9.6 million tonnes on March 3, 2003 from 11 million tonnes on October 1, 2002.
+Coal stocks rise.
+69	FALSE	IR		101	16	1	33	5	1
+Anorexia in males accounted for approximately six percent of cases seen in an eating disorder clinic.
+Anorexia becomes common in males.
+73	FALSE	IR		103	15	1	64	7	1
+There are discussions in California and Arizona to allow illegal aliens to have driver&apos;s licenses.
+California driver&apos;s licenses granted to illegal immigrants.
+74	TRUE	IR		179	27	1	37	6	1
+South Korea&apos;s deputy foreign minister says his country won&apos;t change its plan to send three-thousand soldiers to Iraq, despite the kidnapping of a South Korean man there.
+South Korea continues to send troops.
+77	FALSE	IR		80	16	1	18	4	1
+The media always talk about the Dow being up or down a certain number of points.
+Dow Jones is down.
+78	FALSE	IR		47	8	1	36	6	1
+Clinton&apos;s new book is not big seller here.
+Clinton&apos;s book is a big seller.
+79	TRUE	IR		211	34	1	26	3	1
+The privately owned spacecraft only got about 400 feet into space, according to radar measurements, but it was enough to confirm that it no longer takes a well-heeled government project to organize space travel.
+private spaceship launches
+80	FALSE	IR		326	42	1	27	3	1
+The Federal Aviation Administration&apos;s Associate Administrator for Commercial Space Transportation (FAA/AST) has given license approval to Scaled Composites of Mojave, California, permitting the firm to expand flight testing of SpaceShipOne  -- a privately-financed rocket plane to carry passengers to suborbital altitude.
+Private spaceship launches.
+83	FALSE	IR		128	20	1	28	4	1
+The Los Angeles Lakers rolled over the Indiana Pacers in Wednesday&apos;s the opening round game of the NBA championship series.
+Lakers win the championship.
+84	TRUE	IR		238	39	1	29	4	1
+World health officials warned yesterday that West Africa and Central Africa were on the verge of the worst polio outbreak in years, stemming from the refusal of a single state in northern Nigeria to vaccinate children against the disease.
+African polio outbreak feared
+85	TRUE	IR		191	32	1	39	5	1
+The country&apos;s largest private employer, Wal-Mart Stores Inc., is being sued by a number of its female employees who claim they were kept out of jobs in management because they are women.
+Wal-Mart sued for sexual discrimination
+86	FALSE	IR		57	11	1	29	4	1
+The last polio outbreak in the United States was in 1979.
+African polio outbreak feared
+96	TRUE	IR		236	35	1	48	8	1
+The Massachusetts Supreme Judicial Court has cleared the way for lesbian and gay couples in the state to marry, ruling that government attorneys &quot;failed to identify any constitutionally adequate reason&quot; to deny them the right.
+U.S. Supreme Court in favor of same-sex marriage
+97	FALSE	IR		75	11	1	48	8	1
+In June the Supreme Court ruled that anti-sodomy laws are unconstitutional.
+U.S. Supreme Court in favor of same-sex marriage
+98	FALSE	IR		56	8	1	41	5	1
+Sharon warns Arafat could be targeted for assassination.
+prime minister targeted for assassination
+99	TRUE	IR		106	14	1	41	5	1
+Kurdistan Regional Government Prime Minister Dr. Barham Salih was unharmed after an assassination attempt.
+prime minister targeted for assassination
+110	TRUE	IR		43	6	1	40	5	1
+Wal-Mart faces huge sex discrimination suit
+Wal-Mart faces a sex-discrimination suit
+114	FALSE	IR		158	20	1	23	4	1
+International journalists&apos; organisations are accusing the U.S. government of committing war crimes in Iraq by intentionally firing at war correspondents.
+US withdraws war crimes
+117	FALSE	IR		219	34	1	48	6	1
+It has become increasingly clear that Iran is making rapid progress toward attaining a nuclear weapons capability as U.S. officials have confirmed the presence of various nuclear sites that Tehran has failed to disclose
+Iranian chemical weapons threaten United States.
+119	TRUE	IR		61	10	1	29	4	1
+A Cuban American who is accused of espionage pleads innocent.
+American accused of espionage
+121	TRUE	IR		117	17	1	29	4	1
+A Syrian-American airman accused of espionage complained about prisoner treatment at the US base in Guantanamo, Cuba.
+American accused of espionage
+122	TRUE	IR		137	20	1	24	4	1
+The Daily Telegraph, most prized asset in Lord Conrad Black&apos;s crumbling media empire, has been sold to Britain&apos;s Barclay twins.
+Daily telegraph is sold.
+123	FALSE	IR		102	18	1	24	4	1
+The Daily Mail has confirmed it has pulled out of the bidding for rival newspaper the Daily Telegraph.
+Daily telegraph is sold.
+125	TRUE	IR		91	17	1	18	3	1
+On November 25, 2001, a baby Asian elephant was born at the National Zoo in Washington, DC.
+baby elephant born
+127	TRUE	IR		115	17	1	18	3	1
+The 10-day-old &quot;test-tube&quot; baby elephant born at Colchester Zoo has found a name, thanks to the internet!
+baby elephant born
+130	FALSE	IR		145	22	1	29	4	1
+Weinstock painstakingly reviewed dozens of studies for evidence of any link between sunscreen use and either an increase or decrease in melanoma.
+skin cancer numbers increase.
+131	TRUE	IR		77	15	1	23	5	1
+Wasp and bee stings can be life threatening if you are allergic to the venom.
+bee stings can be fatal
+135	TRUE	IR		185	26	1	23	3	1
+The State of California Department of Occupational Health and Safety released its report on the September 5 fatal accident on Disneyland&apos;s Big Thunder Mountain Railroad attraction.
+Disneyland has accident
+140	TRUE	RC		152	27	1	47	10	1
+A senior coalition official in Iraq said the body, which was found by U.S. military police west of Baghdad, appeared to have been thrown from a vehicle.
+A body has been found by U. S. military police.
+143	TRUE	RC		153	21	1	38	6	1
+U.S. forces have been engaged in intense fighting after insurgents launched simultaneous attacks in several Iraqi cities, including Fallujah and Baqubah.
+Fallujah and Baqubah are Iraqi cities.
+144	TRUE	RC		147	22	1	44	6	1
+Paul Bremer, the top U.S. civilian administrator in Iraq, and Iraq&apos;s new president, Ghazi al-Yawar, visited the northern Iraqi city of Kirkuk.
+Ghazi al-Yawar is Iraq&apos;s new president.
+145	TRUE	RC		109	17	1	66	11	1
+Arroyo was the favorite of investors because of her experience as a trained economist and government manager.
+Arroyo has experience as an economist and as a government manager.
+147	TRUE	RC		74	11	1	51	7	1
+The Philippine Stock Exchange Composite Index rose 0.1 percent to 1573.65.
+The Philippine Stock Exchange Composite Index rose.
+148	FALSE	RC		74	11	1	54	7	1
+The Philippine Stock Exchange Composite Index rose 0.1 percent to 1573.65.
+The Philippine Stock Exchange Composite Index dropped.
+150	TRUE	RC		262	34	1	36	4	1
+The government operations came a day after guerrillas in camouflage fatigues rampaged through the streets of Nazran, Ingushetia&apos;s capital, firing rocket-propelled grenades at police stations, taking over checkpoints and setting fire to government buildings.
+Ingushetia&apos;s capital is Nazran.
+152	FALSE	RC		107	19	1	30	6	1
+Twenty-five of the dead were members of the law enforcement agencies and the rest of the 67 were civilians.
+25 of the dead were civilians.
+153	TRUE	RC		95	15	1	27	6	1
+The Mona Lisa, painted by Leonardo da Vinci from 1503-1506, hangs in Paris&apos; Louvre Museum.
+The Mona Lisa is in France.
+154	TRUE	RC		125	22	1	52	11	1
+A male gorilla escaped from his cage in the Berlin zoo and sent terrified visitors running for cover, the zoo said yesterday.
+A gorilla escaped from his cage in a zoo in Germany.
+155	TRUE	RC		203	30	1	29	5	1
+Clonaid, which claims to have produced 13 cloned babies worldwide, told the Streats daily newspaper two Singaporean couples had signed deals agreeing to pay $200,000 to conceive children through cloning.
+Clonaid has cloned 13 babies.
+157	TRUE	RC		149	26	1	53	10	1
+Four days of talks got underway with the US announcing the first significant overture to North Korea since George W Bush took office three years ago.
+George W. Bush entered the US presidency 3 years ago.
+160	TRUE	RC		176	31	1	89	15	1
+If you suffer from certain genetic illnesses, or carry a gene for that illness, scientists can take one or two cells to check for those genes and transfer only healthy embryos.
+Scientists can determine whether an embryo has genetic illnesses or is a carrier of them.
+162	FALSE	RC		84	13	1	81	15	1
+Vodafone&apos;s share of net new subscribers in Japan has dwindled in recent months.
+There have been many new subscribers to Vodafone in Japan in the past few months.
+163	FALSE	RC		95	18	1	42	10	1
+This case is one of the first to be prosecuted under a new U.S. law regulating unwanted e-mail.
+There is a new U. S. law that bans e-mail.
+167	TRUE	RC		119	20	1	45	9	1
+Peter Voser, a 46-year-old who joined ABB from Shell 2-1/2 years ago, will rejoin the Anglo-Dutch company on October 4.
+Peter Voser has worked for Shell in the past.
+170	FALSE	RC		98	17	1	37	6	1
+Bombs exploded in two Turkish cities Thursday only days before Turkey plays host to a NATO summit.
+Turkey plays host to suicide bombers.
+171	FALSE	RC		108	17	1	35	5	1
+The terrorist is suspected of being behind several deadly kidnappings and dozens of suicide attacks in Iraq.
+Terrorist kidnaps dozens of Iraqis.
+173	FALSE	RC		241	38	1	57	9	1
+However, witnesses said some of the black-clad gunmen who attacked a police station and government buildings in Baquba, 60 km (40 miles) northwest of Baghdad, proclaimed loyalty to Zarqawi and wore yellow headbands linking them to his group.
+Some of the gunmen showed loyalty to Baquba&apos;s group.
+175	FALSE	RC		273	42	1	60	12	1
+South Korean President Roh Moo-hyun Thursday asked the Board of Audit and Inspection (BAI) to investigate questions arising about the Foreign Ministry&apos;s response to the kidnapping of a South Korean in Iraq who was later killed by Muslim militants, according to Yonhap.
+Roh Moo-hyun asked the BAI to kidnap a South Korean in Iraq.
+176	TRUE	RC		273	42	1	54	10	1
+South Korean President Roh Moo-hyun Thursday asked the Board of Audit and Inspection (BAI) to investigate questions arising about the Foreign Ministry&apos;s response to the kidnapping of a South Korean in Iraq who was later killed by Muslim militants, according to Yonhap.
+A South Korean in Iraq was killed by Muslim militants.
+177	FALSE	RC		136	19	1	58	8	1
+Increased storage isn&apos;t all Microsoft will be offering its Hotmail users--they can also look forward to free anti-virus protection.
+Microsoft won&apos;t offer increased storage to its users.
+178	TRUE	RC		136	19	1	50	6	1
+Increased storage isn&apos;t all Microsoft will be offering its Hotmail users--they can also look forward to free anti-virus protection.
+Microsoft will provide free anti-virus protection.
+189	FALSE	RC		111	19	1	45	6	1
+One year after shareholders approved a massive expansion in its pool of stock options, eBay is asking for more.
+Shareholders approved expansion for one year.
+192	FALSE	RC		177	32	1	64	8	1
+Oil prices edged up today as Norwegian employers said they would respond to a strike by locking out all workers next week, threatening to shut off almost all oil and gas output.
+Workers strike in response to Norwegian employers&apos; threats.
+193	TRUE	RC		228	34	1	53	6	1
+Wal-Mart has received a lot of negative publicity recently, including allegations that it used illegal workers and made employees work without pay during lunch breaks, as well as complaints that it generally underpays employees.
+Wal-Mart faces allegations for underpaying employees.
+195	FALSE	RC		228	36	1	54	9	1
+Ashley Olsen has decided to remain with her twin sister, Mary-Kate, instead of going on a planned trip to Australia to promote the opening of the siblings&apos; latest movie adventure &quot;New York Minute,&quot; reports the AP.
+Ashley Olsen plans a trip to Australia with Mary-Kate.
+196	TRUE	RC		228	36	1	52	8	1
+Ashley Olsen has decided to remain with her twin sister, Mary-Kate, instead of going on a planned trip to Australia to promote the opening of the siblings&apos; latest movie adventure &quot;New York Minute,&quot; reports the AP.
+The Olsen twins star in &quot;New York Minute.&quot;
+199	FALSE	RC		128	24	1	47	9	1
+Traditionally, 60 percent of the tickets sold for a stop on the Vans Warped Tour, for example, occur six days prior to the show.
+Most tours only sell 60 percent of the tickets.
+201	FALSE	RC		207	32	1	61	9	1
+Passions surrounding Germany&apos;s final match at the Euro 2004 soccer championships turned violent when a woman stabbed her partner in the head because she didn&apos;t want to watch the game on television.
+A woman passionately wanted to watch the soccer championship.
+202	TRUE	RC		207	32	1	43	9	1
+Passions surrounding Germany&apos;s final match at the Euro 2004 soccer championships turned violent when a woman stabbed her partner in the head because she didn&apos;t want to watch the game on television.
+A man was stabbed because of a soccer game.
+203	FALSE	RC		165	30	1	48	6	1
+Draft experts say as many as eight U.S. high school prospects could be taken in the first round of the two-round draft, as well as up to eight international players.
+Draft experts draft eight international players.
+205	FALSE	RC		219	38	1	66	10	1
+In any case, the fact that this week Michael Melvill, a 63-year-old civilian pilot, guided a tiny rocket-ship more than 100 kilometres above the Earth and then glided it safely back to Earth, is a cause for celebration.
+Michael Melvill guided more than 100 rocket-ships above the Earth.
+209	FALSE	RC		213	37	1	66	9	1
+A joint survey by two conservation groups, World Conservation Union and the World Wildlife Fund, says the black rhino population has risen to over 3,600. That is an increase of 500 animals over the last two years.
+Two conservation groups have increased the black rhino population.
+211	FALSE	RC		103	17	1	48	7	1
+The German-based team say their study is the only report of prolonged hibernation in a tropical mammal.
+The team studies hibernating mammals in Germany.
+213	FALSE	RC		189	33	1	41	7	1
+Comdex -- once among the world&apos;s largest trade shows, the launching pad for new computer and software products, and a Las Vegas fixture for 20 years -- has been canceled for this year.
+Comdex launches trade shows for 20 years.
+214	TRUE	RC		189	33	1	52	10	1
+Comdex -- once among the world&apos;s largest trade shows, the launching pad for new computer and software products, and a Las Vegas fixture for 20 years -- has been canceled for this year.
+Los Vegas hosted the Comdex trade show for 20 years.
+217	TRUE	RC		190	29	1	68	12	1
+A variety of devices could be powered selectively from a single-power source carried on the body via multiple power supply signals at different frequencies, according to the patent abstract.
+The patent abstract shows a number of devices using a single source.
+220	FALSE	RC		221	29	1	66	10	1
+Canadian wireless technology licensing company Wi-LAN has begun legal action against Cisco, alleging the networking giant&apos;s Linksys and Aironet products are making use of its intellectual property without permission.
+Linksys and Aironet begin legal action against a Canadian company.
+221	TRUE	RC		183	29	1	62	8	1
+The organisation reports that it has recently seen a significant rise in the number of complaints and some of these involve modem connections being redirected, unbeknown to the users.
+Users were unaware of the modem connections&apos; redirection.
+222	FALSE	RC		183	29	1	86	12	1
+The organisation reports that it has recently seen a significant rise in the number of complaints and some of these involve modem connections being redirected, unbeknown to the users.
+Complaints arose in the organisation about users who redirect their modem connections.
+227	FALSE	RC		215	38	1	73	12	1
+A closely divided U.S. Supreme Court said on Thursday its 2002 ruling that juries and not judges must impose a death sentence applies only to future cases, a decision that may affect more than 100 death row inmates.
+The Supreme Court decided that only judges can impose the death sentence.
+230	FALSE	RC		226	35	1	125	20	1
+In Johannesburg, about 500 angry AIDS activists, many wearing red and white T-shirts that said &quot;HIV Positive,&quot; criticized Bush, saying he had hurt the global fight against AIDS by spending billions of dollars on war.
+In Johannesburg, activists complained that Bush spent billions of dollars on the global fight against AIDS instead of on war.
+231	TRUE	RC		112	19	1	45	9	1
+The memorandum noted the United Nations estimated that 2.5 million to 3.5 million people died of AIDS last year.
+Over 2 million people died of AIDS last year.
+232	TRUE	RC		188	32	1	43	7	1
+A compound in breast milk has been found to destroy many skin warts, raising hopes it also might prove effective against cervical cancer and other lethal diseases caused by the same virus.
+Breast milk may help fight cervical cancer.
+234	TRUE	RC		239	41	1	66	9	1
+Only a week after it had no comment on upping the storage capacity of its Hotmail e-mail service, Microsoft early Thursday announced it was boosting the allowance to 250MB to follow similar moves by rivals such as Google, Yahoo, and Lycos.
+Microsoft&apos;s Hotmail has raised its storage capacity to 250MB.
+235	FALSE	RC		70	9	1	48	8	1
+Saddam Hussein was being treated with &quot;dignity and respect.&quot;
+Saddam Hussein was being treated as a dignitary.
+240	FALSE	RC		90	14	1	74	12	1
+Shares of Salesforce closed Wednesday at $17.20, more than 50% above their offering price.
+Salesforce shares were more than 50% above their offering price of $17.20.
+241	TRUE	RC		211	29	1	64	7	1
+Nevertheless, Salesforce.com&apos;s stock--which began trading on the New York Stock Exchange under the symbol &quot;CRM&quot;--got a Wall Street reception in line with that of other recent successful tech IPOs.
+Salesforce.com started trading under the symbol &quot;CRM.&quot;
+244	TRUE	RC		132	21	1	97	17	1
+Binge drinking among young women is on the rise, bringing with it a number of health consequences, including fetal alcohol syndrome.
+Young women are binge drinking more, which can lead to the health risk of fetal alcohol syndrome.
+249	TRUE	RC		95	15	1	35	6	1
+Other wildlife, such as gemsbok, zebras and springbok, are also dependent on the Ugab wetlands.
+Zebras depend on the Ugab wetlands.
+268	TRUE	IE		213	32	1	43	7	1
+There can be no doubt that the Administration already is weary of Aristide, a populist Roman Catholic priest who in December, 1990, won an overwhelming victory in Haiti&apos;s only democratic presidential election
+Aristide became president of Haiti in 1990.
+269	FALSE	IR		185	29	1	78	13	1
+U.S. Embassy spokesman Stanley Shrager said that the Americans hope to help Port-au-Prince&apos;s elected mayor, Evans Paul, return from hiding and resume his post as mayor of the city.
+Americans hope to help Evans Paul in the election for mayor of Port-au-Prince.
+270	FALSE	IR		202	31	1	70	10	1
+Like the United States, U.N. officials are also dismayed that Aristide killed a conference called by Prime Minister Robert Malval in Port-au-Prince in hopes of bringing all the feuding parties together.
+Aristide had Prime Minister Robert Malval  murdered in Port-au-Prince.
+271	FALSE	IE		245	35	1	39	6	1
+Evans Paul, the pro-Aristide mayor of Port-au-Prince, said he had been told that the money will go to American lobbyists, politicians and journalists to campaign against the return of Aristide, Haiti&apos;s first democratically elected president
+Aristide is the mayor of Port-au-Prince
+273	FALSE	IE		137	19	1	30	5	1
+Cedras, Biamby, and Francois also led the 1991 coup that drove Aristide, Haiti&apos;s first democratically elected president, from office
+Aristide seized power in 1991.
+274	TRUE	IE		210	34	1	27	4	1
+U.S. officials said they hope to install Aristide presidential palace in Port-au-Prince about 10 days after U.S. troops land in Haiti, a schedule that an Aristide aide said is acceptable to the ousted president
+Port-au-Prince is in Haiti.
+275	FALSE	IR		194	28	1	48	8	1
+Gladys Lauture, a close Aristide friend and longtime supporter, said she and a team of carpenters, plumbers and decorators spent 18 days making Aristide&apos;s Port-au-Prince home livable again.
+Aristide is due to live at Port-au-Prince again.
+282	FALSE	IR		169	26	1	72	9	1
+Juan Antonio Samaranch, president of the International Olympic Committee, left Lillehammer for Sarajevo to pay tribute to the besieged host city of the 1984 Winter Games
+The International Olympic Commitee&apos;s head office is in Lillehammer.
+350	TRUE	MT		193	28	1	150	22	1
+The American Defense Department reported today, that the bombing runs against Iraq are being especially carried out via cruise missiles launched from American aircraft carriers and B52 bombers.
+The Pentagon reported today, that the bombing runs against Iraq are being especially carried out via cruise missiles launched from American aircrafts.
+352	FALSE	MT		164	23	1	172	26	1
+The American State Department announced that Russia recalled her ambassador to the United States &quot;for consultation&quot; due to the bombing operations on Iraq.
+An official source in the American Ministry of Foreign Affairs announced that Russia called the United States &quot;for consultation&quot; because of the bombings on Iraq .
+353	FALSE	MT		261	38	1	210	31	1
+The humane organization, Caritas, quoting its branch in Iraq, announced today, in Germany, that several Iraqi hospitals, especially Saddam Hospital, which is considered the biggest hospital in Iraq, were hit in the American-British bombing of the Iraqi capital.
+An official source for Caritas announced today in Germany, that several Iraqi hospitals, (excluding Saddam Hospital, which is the biggest hospital in Iraq,) were hit in the American-British shelling of Baghdad.
+355	TRUE	MT		187	32	1	163	28	1
+An Iraqi official reported today, Saturday, that 68 Iraqi civilians were killed as a result of the American and British bombing on Iraq and that their funerals were held today in Baghdad.
+Reports from an Iraqi official today, Saturday, said that the 68 civilians killed as a result of the Anglo-American bombing of Iraq, were buried today in Baghdad .
+357	TRUE	MT		194	27	1	152	22	1
+The funeral procession headed to the headquarters of the United Nations Development Programme in Baghdad, where funeral goers held banners denouncing the Americans as &quot;Enemies of God.&quot;
+The funeral procession had been directed to the UNDP headquarters in Baghdad, where signs denouncing Americans as &quot;enemies of God,&quot; were seen.
+363	FALSE	MT		130	21	1	116	20	1
+Baghdad had announced that it will stop cooperating with UNSCOM completely but indicated that it will not ask for their departure.
+Baghdad announced the complete halt in their cooperation with UNSCOM, and said also, that it will ask them to leave.
+378	TRUE	MT		151	28	1	133	27	1
+This opinion poll was conducted on the sixth and seventh of October, and included a cross section of 861 adults with a margin of error estimated at 4%.
+This poll was carried out on the 6th and 7th of October, and included a segment of 861 people with a margin of error estimated at 4%.
+380	FALSE	MT		195	26	1	154	22	1
+Nevertheless, 58 percent of Americans expressed their satisfaction with the President&apos;s job performance. 44 percent supported Nixon at the very beginning of the investigation into Watergate.
+Although 58% of Americans are unsatisfied with Clinton&apos;s job performance, 44% found Nixon&apos;s work adequate at the start of the Watergate scandal.
+465	FALSE	PP		126	22	1	27	4	1
+Boise and OfficeMax customers will have the opportunity to get involved with the Belief in Hope campaign in a variety of ways.
+Boise to acquire OfficeMax.
+466	TRUE	PP		174	24	1	123	17	1
+The Yellowstone Park Foundation recognizes the following organizations for their generous support in helping to protect the wonders and wildlife of Yellowstone National Park.
+The Yellowstone Park Foundation would like to acknowledge and thank the following organizations for their generous support.
+468	TRUE	PP		58	11	1	39	7	1
+Ostriches put their heads into the sand to avoid the wind.
+Ostriches bury their heads in the sand.
+469	TRUE	PP		75	11	1	45	5	1
+In 1997, insurance companies paid out $51.6 billion for prescription drugs.
+Insurance companies cover prescription drugs.
+474	TRUE	PP		161	23	1	116	18	1
+Representatives from 142 nations are expected to sit down in Doha Qatar, next Friday for the World Trade Organization&apos;s (WTO) fourth Ministerial Conference.
+Representatives of the 142 member countries of the World Trade Organization will gather in Doha, Qatar, next Friday.
+476	TRUE	PP		88	17	1	44	6	1
+Two women from two counties are dead and police have some clues as to who murdered them.
+Police gather clues in double assassination.
+477	TRUE	PP		132	19	1	32	4	1
+Trained volunteers are collecting baseline data on water quality, and testing for selected suspected contaminants of the coral reef.
+Volunteers gather baseline data.
+478	FALSE	PP		65	10	1	54	10	1
+Putin and Bush say Iran doesn&apos;t have evil nuclear ambitions.
+Bush and Putin urge Iran to give up nuclear ambitions.
+480	TRUE	PP		41	9	1	33	6	1
+Iran is said to give up al Qaeda members.
+Iran hands over al Qaeda members.
+482	TRUE	PP		96	17	1	66	10	1
+Hollywood actress Minnie Driver is taking a break from films to work in a sweatshop in Cambodia.
+Actress Minnie Driver gives up Hollywood for Cambodian sweat shop.
+483	TRUE	PP		51	10	1	40	9	1
+By clicking here, you can return to the login page.
+Click here to go back to the login page.
+484	FALSE	PP		103	17	1	40	7	1
+The weapon Inspectors have had since 1991 to peacefully disarm Iraq of its weapons of mass destruction.
+Weapons inspectors will go back to Iraq.
+486	TRUE	PP		220	37	1	29	6	1
+Following the successful bid to bring the 2010 Ryder Cup to Wales, the Wales Tourist Board has wasted little time in commissioning work to ensure that the benefits accruing from the event are felt throughout the country.
+Wales to host 2010 Ryder Cup.
+487	TRUE	PP		190	35	1	40	9	1
+Located just three miles from Tullamore and only 45 minutes from the K Club, venue of the 2006 Ryder Cup, is Esker Hills, a genuine hidden gem and one of Irish golf&apos;s best kept secrets.
+The K Club will host the 2006 Ryder Cup.
+489	FALSE	PP		186	30	1	42	7	1
+Coronado High School English teacher Lori Rosales has read the Harry Potter books and sees them as educational and something that children can relate to because the stories are timeless.
+Teacher wins right to market Harry Potter.
+491	TRUE	PP		232	39	1	56	10	1
+The magnitude 7 earthquake that occurred today on the Hayward fault (a part of the San Andreas fault system, along the densely populated eastern side of San Francisco bay) caused hundreds of deaths and almost $100 billion of damage.
+There was a magnitude 7 earthquake on the Hayward fault.
+493	FALSE	PP		252	40	1	46	6	1
+After insulting the UN committee insinuating they were irrelavant, Bush no sooner had approval from Congress to use &quot;force/war&quot; if Hussein did not permit unfettered access for inspections - and the war ships were moved into place on the Gulf.
+Hussein gives UN inspectors unfettered access.
+496	TRUE	PP		64	11	1	25	3	1
+Like Jews and Christians, Muslims believe there is only one God.
+Muslims are monotheistic.
+497	FALSE	PP		65	11	1	39	7	1
+Muslims are commanded not to take Jews or Christians for friends.
+Jews and Christians pray as Muslims do.
+498	TRUE	PP		221	36	1	27	4	1
+Medieval Christians said the rosary as Catholics still do today: by praying five decades of Ave Marias (Hail Marys), each introduced by a Pater Noster (Our Father), while meditating on three series of five mysteries each.
+Christians pray the rosary.
+501	TRUE	PP		107	20	1	27	5	1
+Then the most important part of the day begins as Muslims go to the mosque, their special place of worship.
+Muslims pray at the mosque.
+503	TRUE	PP		96	15	1	45	9	1
+During Ramadan, Muslims will gather at the mosque for nightly prayer sessions and evening meals.
+The mosque is a place of worship for Muslims.
+506	FALSE	PP		198	29	1	67	10	1
+Robert Szabo concludes that circumcision, as practiced by Muslims, would be the most immediately effective intervention for reducing HIV transmission since it is done before men are sexually active.
+It is incorrect to assert that circumcision prevents HIV infection.
+509	FALSE	PP		107	18	1	85	15	1
+Those teens who are gay, lesbian or confused about their sexuality are also more likely to attempt suicide.
+Teens who are depressed are much more at risk of attempting suicide than other teens.
+510	TRUE	PP		281	44	1	65	10	1
+Exercising the powers referred to in article 15, paragraph 3, of the protocol to suppress and punish trafficking in persons, especially women and children, the government of Ecuador makes a reservation with regard to article 15, paragraph 2, relating to the settlement of disputes.
+The government of Ecuador aims to prevent trafficking in persons.
+514	TRUE	PP		251	40	1	53	8	1
+Cyrus captured Babylon without a battle, and remedied the evils done by previous Assyrian and Babylonian rulers by sending prisoners in Babylonia back to their original homelands and aiding in the restoration of temples of the gods of various nations.
+Babylon surrendered to Cyrus without going to battle.
+515	FALSE	PP		142	21	1	38	6	1
+After trial, Family Court found defendant guilty of willfully violating the order of protection and sentenced him to six months incarceration.
+Family Court cannot punish the guilty.
+516	FALSE	PP		103	15	1	53	8	1
+If this challenge interests you, you might enjoy reading &quot;Punished by Rewards&quot; by Alfie Kohn.
+I read &quot;Punished by Rewards&quot; by Alfie Kohn.
+518	FALSE	PP		114	22	1	89	17	1
+In the year 538, Cyrus set in place a policy which demanded the return of the various gods to their proper places.
+Cyrus issued a declaration in 538 that would allow the Jews to go back to their homeland.
+519	TRUE	PP		155	25	1	60	8	1
+American Airlines began laying off hundreds of flight attendants on Tuesday, after a federal judge turned aside a union&apos;s bid to block the job losses.
+American Airlines will recall hundreds of flight attendants.
+520	TRUE	PP		146	23	1	127	19	1
+Only 18 states, including Massachusetts, have specific provisions that allow women who quit their jobs due to domestic violence to qualify for UI.
+18 states have provisions that permit women who quit their jobs because of domestic violence to collect unemployment insurance.
+521	TRUE	PP		86	12	1	85	12	1
+California voters recall Gray Davis and elect Arnold Schwarzenegger as their governor.
+California voters dumped Gov. Gray Davis and replaced him with Arnold Schwarzenegger.
+523	TRUE	PP		236	40	1	49	7	1
+If any legal action is due to enforcement, dispute, breach, or default, the successful party shall be entitled to reasonable attorney fees and other costs incurred in the actions, in addition to any relief to which they may be entitled.
+The prevailing party shall recover attorney fees.
+524	FALSE	PP		89	15	1	51	8	1
+The trial court may allow the prevailing party reasonable attorney fees as part of costs.
+The prevailing party may not recover attorney fees.
+525	TRUE	PP		124	20	1	115	22	1
+Texas Data Recovery is also successful at retrieving lost data from notebooks and laptops, regardless of age, make or model.
+In the event of a disaster you could use Texas Data Recovery and you will have the capability to restore lost data.
+526	FALSE	PP		95	13	1	74	11	1
+Successful plaintiffs recovered punitive damages in Texas discrimination cases 53% of the time.
+Legal costs to recover punitive damages are a deductible business expense.
+527	FALSE	PP		393	61	1	177	27	1
+The Heads of state reiterated their deep concern for the serious threat that the rising trend in drug abuse poses for society and the lives and future of children and youth, and for the destabilizing effects that illegal use, production, trafficking and distribution of narcotic drugs psychotropic substances and drug-related offences have for the affected countries of the South Asian region.
+The Heads of state expressed their deep concern at the fast and continuing degradation of the environment, including extensive destruction of forests, in the South Asian region.
+528	TRUE	PP		226	36	1	38	5	1
+Swedish massage is used to help relax muscles, increase circulation, remove metabolic waste products, help the recipient obtain a feeling of connectedness, a better awareness of their body and the way they use and position it.
+Swedish massage loosens tense muscles.
+531	FALSE	PP		257	44	1	79	10	1
+If you &apos;re feeling playful, visit our games area for a game of billiards, surf the Internet or just sit back and relax with a good book from our extensive library. Alternatively, soothe away those tired muscles, aches and pains with a Balinese massage.
+Traditional Balinese massage is a therapy where pushing techniques predominate.
+533	FALSE	PP		230	39	1	59	10	1
+Two years ago Moore had a 5,300-pound monument showcasing the Ten Commandments placed in the rotunda of the Judicial Building, which is just down the street from the Capitol, and a federal judge ordered Moore to remove the plaque.
+Moore now has the commandments plaque posted in his office.
+534	FALSE	PP		108	20	1	29	4	1
+The substances that our company uses do not leave stains, do not have an unpleasant smell and are not toxic.
+Our substances remove stains.
+535	FALSE	PP		164	28	1	64	10	1
+Moore had the monument, along with other references to God, installed in the rotunda of the Judicial Building six months after he was elected Chief Justice in 2000.
+Moore had the monument installed before he became Chief Justice.
+537	FALSE	PP		267	43	1	200	28	1
+Sentiment is growing in the Bush administration and global energy circles to place Iraqi professionals in charge of their country&apos;s oil production after any war, despite a push by some officials for the United States to seize control of the lucrative oil fields.
+The United States threatened the &quot;severest consequences&quot; if Iraq were to use chemical or biological weapons against the United States, destroy Kuwaiti oil fields or participate in terrorism.
+538	TRUE	PP		157	27	1	77	14	1
+The Japanese invasion of Manchuria in 1931 and their eventual attack on China in 1937 also lead to vast areas of China not being under Chiang&apos;s control.
+The Japanese seized Manchuria in 1931, and began a war against China in 1937.
+540	FALSE	PP		160	24	1	42	6	1
+Microsoft for instance, one of the world&apos;s largest software companies, lost more than an estimated 500 million dollars last year because of software theft.
+Microsoft would spend 500 million dollars.
+541	FALSE	PP		182	31	1	105	17	1
+The richest provinces, Ontario, Alberta and B.C, have spent billions on tax cuts and slashing services while at the same time howling for Ottawa to give them more money for medicare.
+Ottawa promises more money to upgrade the literacy levels and skills of natives and high school dropouts.
+542	TRUE	PP		98	19	1	92	18	1
+It would help the economy by putting people back to work and more money in the hands of consumers.
+More money in the hands of consumers means more money can be spent to get the economy going.
+543	FALSE	PP		118	21	1	60	11	1
+US Catholic bishops are all but unanimous in believing that Cardinal Law must leave Boston for the good of the church.
+Cardinal Law returns from Rome with plans to stay in Boston.
+544	FALSE	PP		199	28	1	57	9	1
+The United States would like to see U.N. weapons inspectors return to Iraq providing the Iraqis take concrete, affirmative and demonstrable actions &quot;to show full co-operation&quot; Clinton said.
+U.N. weapons inspectors could stay in Iraq, Clinton said.
+546	TRUE	PP		121	20	1	47	7	1
+The decision by the British government to suspend flights to Kenya is regrettable, it plays into the hands of terrorists.
+The British government banned flights to Kenya.
+547	FALSE	PP		259	38	1	100	14	1
+North Korea states intention to restart reactors, throws out IAEA inspectors and takes down inspection cameras, announces immediate withdrawal from the Nuclear Non-Proliferation Treaty and makes threats of war if the UN or the United States imposes sanctions.
+North Korea has announced its withdrawal from liaison meetings with United States military officers.
+557	FALSE	PP		121	20	1	36	6	1
+If you have rheumatic heart disease, high blood pressure, or diabetes, or take digitalis drugs, vitamin E can be harmful.
+Vitamin E can prevent heart disease.
+558	FALSE	PP		271	45	1	100	15	1
+When Albright was the US ambassador to the United Nations, Lesley Stahl of &quot;60 Minutes&quot; asked her about the sanctions and the deaths of Iraqi children. Albright said it was America&apos;s responsibility to make sure the Gulf War did not have to be fought again.
+Albright said that to punish Saddam Hussein, the deaths of those children were &quot;worth it.&quot;
+561	TRUE	QA		125	22	1	36	6	1
+The incident in Mogadishu, the Somali capital, came as U.S. forces began the  final phase of their promised March 31 pullout.
+The capital of Somalia is Mogadishu.
+562	TRUE	QA		191	29	1	55	9	1
+The two attacks last week by the Islamic Resistance Movement, as Hamas is formally known, dramatized for both Israelis and Palestinians the dangers they face in pursuing peaceful coexistence.
+The Islamic Resistance Movement is also known as Hamas.
+563	FALSE	QA		223	35	1	46	8	1
+But most Israelis, including those sympathetic to the settlers&apos; efforts to reclaim all the territory that was part of the biblical Land of Israel, reacted with horror to the Hebron killings and the subsequent violence.
+Hebron is located 20 miles south of Jerusalem.
+564	FALSE	QA		136	23	1	35	6	1
+The Republic of Tajikistan, which declared independence from the Soviet Union in 1991, is in a region that has changed hands many times.
+The Soviet Union collapsed in 1991.
+565	TRUE	QA		163	27	1	48	9	1
+Soprano&apos;s Square: Milan, Italy, home of the famed La Scala opera house, honored soprano Maria Callas on Wednesday when it renamed a new square after the diva.
+La Scala opera house is located in Milan, Italy.
+566	FALSE	QA		176	25	1	57	9	1
+&quot;I just hope I don&apos;t become so blissful I become boring.&quot; -- Nirvana leader Kurt Cobain, giving meaning to his &quot;Teen Spirit&quot; coda &quot;a denial&quot;.
+&quot;Smells Like Teen Spirit&quot; is a song by Nirvana.
+567	TRUE	QA		151	23	1	48	7	1
+Prime Minister Silvio Berlusconi was elected March 28 with a mandate to reform Italy&apos;s business regulations and pull the economy out of recession.
+The Italian Prime Minister is Silvio Berlusconi.
+568	TRUE	QA		160	23	1	44	5	1
+Norway&apos;s most famous painting, &quot;The Scream&quot; by Edvard Munch, was recovered Saturday, almost three months after it was stolen from an Oslo museum.
+Edvard Munch painted &quot;The Scream&quot;.
+569	TRUE	QA		146	24	1	52	8	1
+Government forces killed the head of the Armed Islamic Group, or GIA, which has claimed responsibility for killing 61 foreigners in the last year.
+The abbreviation GIA stands for Armed Islamic Group.
+570	TRUE	QA		224	39	1	61	11	1
+&quot;I guess you have to expect this in a growing community,&quot; said Mardelle Kean, who lives across the street from John Joseph Famalaro, charged in the death of Denise A. Huber, who was 23 when she disappeared in 1991.
+John J. Famalaro is accused of having killed Denise A. Huber.
+571	FALSE	QA		146	27	1	37	7	1
+In the very same room in fall, 1992, George Bush prepped to debate Clinton and Ross Perot in practice sessions with Chief of Staff John H. Sununu.
+Ross Perot ran for president in 1992.
+572	FALSE	QA		173	27	1	49	7	1
+Camacho is a Mexican version of Japan&apos;s Morihiro Hosokawa -- a pragmatic tactician using a crisis and the attendant outcry for reform to further his political standing.
+The Japanese Prime Minister is Morihiro Hosokawa.
+573	TRUE	QA		157	31	1	85	11	1
+A farmer who was in contact with cows suffering from BSE -- the so-called mad cow disease -- has died from what is regarded as the human form of the disease.
+Bovine spongiform encephalopathy is another name for the &quot;mad cow disease&quot;.
+574	TRUE	QA		157	26	1	81	15	1
+Doctors who treated Ayrton Senna after he crashed during the San Marino Grand Prix have denied allegations that the Brazilian driver died at the Imola track.
+Ayrton Senna had the accident that caused his death at the San Marino Grand Prix.
+575	TRUE	QA		242	39	1	44	7	1
+The black Muslim activist said that he had relieved Muhammad of his duties &quot;until he demonstrates that he is willing to conform to the manner of representing Allah and the honorable Elijah Muhammad (founder of the Nation of Islam)&quot;.
+Elijah Muhammad founded the Nation of Islam.
+577	TRUE	QA		115	20	1	32	7	1
+Oil prices, notoriously vulnerable to political events, spiked as high as $40 a barrel during the Gulf War in 1991.
+The Gulf War was fought in 1991.
+578	TRUE	QA		225	35	1	71	10	1
+Easter is over but that doesn&apos;t mean you can&apos;t enjoy &quot;Ben-Hur,&quot; the granddaddy of biblical epics and winner of a record 11 Oscars, including best picture and best actor (Charlton Heston in the title role).
+Charlton Heston played the title role in the movie &quot;Ben-Hur&quot;.
+579	TRUE	QA		163	26	1	30	5	1
+The anti-terrorist court found two men guilty of murdering Shapour Bakhtiar and his secretary Sorush Katibeh, who were found with their throats cut in August 1991.
+Shapour Bakhtiar died in 1991.
+580	TRUE	QA		213	28	1	60	8	1
+The program will include Falla&apos;s &quot;Night in the Gardens of Spain,&quot; Ravel&apos;s Piano Concerto in G, Berlioz&apos;s Overture to &quot;Beatrice and Benedict,&quot; and Roy Harris&apos; Symphony No. 3.
+&quot;Beatrice and Benedict&quot; is an overture by Berlioz.
+581	TRUE	QA		168	27	1	62	11	1
+To the world, M. Larry Lawrence, the new U.S. emissary to Switzerland who hosted President Clinton on his Southern California vacation, will be known as Mr. Ambassador.
+Larry Lawrence is the head of the U.S. Embassy in Switzerland.
+582	TRUE	QA		311	50	1	30	6	1
+Amid rumors that China&apos;s 90-year-old senior leader, Deng Xiaoping, is near death, the visit also comes at a propitious moment to establish relationships with top officials, both military and civilian, who are likely to play a role in the post-Deng succession period as China struggles to find a new leader.
+Deng Xiaoping is 90 years old.
+583	FALSE	QA		182	28	1	34	6	1
+While civilians ran for cover or fled to the countryside, Russian forces were seen edging their artillery guns closer to Grozny, and Chechen fighters were offering little resistance.
+Grozny is the capital of Chechnya.
+585	TRUE	QA		164	26	1	51	7	1
+Former tennis star Vitas Gerulaitis died in such fashion in September, from a lethal carbon monoxide buildup related to the faulty installation of a propane heater.
+Vitas Gerulaitis died of carbon monoxide poisoning.
+586	TRUE	QA		240	41	1	48	8	1
+The two suspects belong to the 30th Street gang, which became embroiled in one of the most notorious recent crimes in Mexico: a shootout at the Guadalajara airport in May, 1993, that killed Cardinal Juan Jesus Posadas Ocampo and six others.
+Cardinal Juan Jesus Posadas Ocampo died in 1993.
+587	TRUE	QA		246	37	1	51	9	1
+Two midsummer cruises aboard Clipper Adventure Cruises&apos; 140-passenger World Discoverer (July 8 and Aug. 9) will take you to the wind-swept cliffs of the Pribilof Islands in the Bering Sea, where cartoon-faced horned and tufted puffins stare.
+The Pribilof Islands are located in the Bering Sea.
+589	TRUE	QA		117	19	1	53	7	1
+That prompted Clinton, wife Hillary Rodham Clinton and daughter Chelsea to spend a cold and dreary Saturday in Minsk.
+Clinton&apos;s wife is called Hillary Rodham Clinton.
+590	TRUE	QA		229	35	1	49	10	1
+Judie Vivian, chief executive at ProMedica, a medical service company that helps sustain the 2-year-old Vietnam Heart Institute in Ho Chi Minh City (formerly Saigon), said that so far about 1,500 children have received treatment.
+The previous name of Ho Chi Minh City was Saigon.
+591	TRUE	QA		280	47	1	57	9	1
+A jury is slated to decide for the first time whether Jack Kevorkian, famed as &quot;Dr. Death,&quot; has violated Michigan&apos;s assisted-suicide ban, while the state continues to grapple with the issue of what to allow when the ill want to end their pain by ending their lives.
+Jack Kevorkian is the real name of &quot;Dr. Death&quot;.
+592	TRUE	QA		258	39	1	52	8	1
+He endeared himself to artists by helping them in lean years and following their careers, said Henry Hopkins, chairman of UCLA&apos;s art department, director of the UCLA/Armand Hammer Museum and Cultural Center and former director of the Weisman foundation.
+The UCLA/Hammer Museum is directed by Henry Hopkins.
+593	TRUE	QA		180	26	1	39	5	1
+Before the game, Alabama Birmingham Athletic Director and Coach Gene Bartow presented Cal State Northridge with a $5,000 check from Rust International Corp., for earthquake relief.
+Gene Bartow coaches Alabama Birmingham.
+594	TRUE	QA		158	26	1	41	7	1
+&quot;For the first time in history, the players are investing their own money to ensure the future of the game,&quot; Atlanta Brave pitcher Tom Glavine said.
+Tom Glavine plays for the Atlanta Braves.
+601	FALSE	QA		300	45	1	67	11	1
+Wilson has, after all, produced all three Offspring albums, including &quot;Smash,&quot; the one that has astonished everybody by selling 1 million copies in four months, establishing the heretofore unknown group as the leader, with Green Day, of an unprecedented wave of commercial success for punk.
+&quot;Smash&quot; is the title of the third album of the Offspring.
+602	FALSE	QA		144	23	1	33	4	1
+Historians estimate that 800,000 Chechens were stuffed into rail cars and deported to Kazakhstan and Siberia, and 240,000 of them died en route.
+Stalin deported 800,000 Chechens.
+603	FALSE	QA		139	24	1	54	9	1
+Germans vote for a party, rather than a person, and the left-of-center Social Democrats do not score as well in polls as Scharping himself.
+Rudolph Scharping is a member of the Social Democrats.
+606	FALSE	QA		171	24	1	47	7	1
+&quot;That film wasn&apos;t too successful, but then &apos;WarGames,&apos; which was successful, came out right when I won the Tony for &apos;Brighton Beach&apos; in 1983.
+The film &quot;WarGames&quot; was shot in 1983.
+609	FALSE	QA		120	20	1	51	10	1
+About half were along a 20-mile stretch of Santa Monica Bay from Topanga Canyon Boulevard to the Palos Verdes Peninsula.
+The coastline of Santa Monica Bay is 50 miles long.
+611	FALSE	QA		160	21	1	51	8	1
+The Chapin Library&apos;s main attraction is its collection of Revolutionary-era documents, including a 1776 printed version of the Declaration of Independence.
+The Declaration of Independence was signed in 1776.
+613	FALSE	QA		192	31	1	69	12	1
+20th Century spokesman Rick Dinon said that between the time it applied for the rate increase and changed its mind, the estimated quake losses had ballooned by several hundred million dollars.
+Rick Dinon is the senior vice president of 20th Century Insurance Co.
+614	FALSE	QA		171	23	1	35	6	1
+In naming Guillermo Ortiz to be Mexico&apos;s finance minister, President Ernesto Zedillo appointed a friend, former colleague and, like himself, a U.S.-trained economist.
+Guillermo Ortiz was born in Mexico.
+616	FALSE	QA		225	40	1	45	8	1
+This was, after all, Chuck Yeager, a guy with all the right stuff, the biggest top gun of them all, whose post-World War II exploits in the topsy-turvy world of supersonic air travel helped pave the way for space exploration.
+Chuck Yeager broke the sound barrier in 1947.
+619	FALSE	QA		189	30	1	42	7	1
+Fiat&apos;s Gianni Agnelli, owner of Juventus, was quoted by Italian newspapers as saying that when Baggio came off the field after the Mexico game, &quot;He looked like a wet rabbit.&quot;
+Giovanni Agnelli is the president of Fiat.
+620	FALSE	QA		55	9	1	43	7	1
+PERSPECTIVE ON BOSNIA; A BALKANS PEACE THAT CANNOT LAST
+Bosnia is located in the former Yugoslavia.
+623	FALSE	QA		173	26	1	41	7	1
+Gunmen loyal to Bosnian Serb nationalist leader Radovan Karadzic conquered 70% of Bosnia with their arsenal of tanks, aircraft and howitzers bequeathed by the Yugoslav army.
+Radovan Karadzic is the leader of Bosnia.
+625	FALSE	QA		247	40	1	40	7	1
+This year, however, the contest has taken on a new urgency as the Clinton Administration, moving to block the Pyongyang government&apos;s bid to build a nuclear arsenal, has rekindled some of the passion in North Korea&apos;s defiance of the West.
+Pyongyang is the capital of North Korea.
+626	FALSE	QA		281	44	1	45	9	1
+In Seoul, Han confirmed that all North Korean media on Monday had started referring to Kim Jong Il as &quot;His Excellency&quot; or by the term previously reserved for his father, &quot;the Great Leader.&quot; Until now, the younger Kim has been called &quot;the Dear Leader.&quot;
+Kim Il Sung&apos;s son is called Kim Jong Il.
+627	FALSE	QA		188	29	1	59	12	1
+Swiss police confirmed Thursday that cult leader Luc Jouret was among the dead found in the Order of the Solar Temple&apos;s fire-gutted chalet in the alpine village of Granges-sur-Salvan.
+Luc Jouret was the leader of the Order of the Solar Temple.
+629	FALSE	QA		248	39	1	77	11	1
+It is an image familiar to many Southern Californians but vividly illustrative in this Egyptian metropolis, where a U.N. conference on global population is trying for the first time to draw clear links between population growth and the environment.
+The International Conference on Population and Development was held in Cairo.
+632	FALSE	QA		175	29	1	24	5	1
+It rewrites the rules of global trade, established by the General Agreement on Tariffs and Trade, or GATT, in 1947, and modified in multiple rounds of negotiations since then.
+GATT was formed in 1947.
+639	FALSE	QA		220	37	1	57	7	1
+But the retired teacher comes down on the other side of an emotional debate about whether Estonia, Sweden and Finland should spend the $70 million needed to raise the Estonia and the estimated 800 bodies entombed inside.
+910 passengers died in the &quot;Estonia&quot; shipwreck.
+641	FALSE	QA		145	22	1	37	7	1
+&quot;Mayday! Here is Estonia! Outside Uto lighthouse. We have listed 20 to 30 degrees,&quot; the Finnish Coast Guard quoted the distress signal.
+The Estonia sank south of Uto island.
+667	TRUE	CD		114	15	1	103	15	1
+Traditional performances in Jakarta include wayang dance and drama, gamelan music, and wayang shadow-puppet shows.
+Gamelan music, in which percussion instruments are key, and shadow-puppet shows are popular in Jakarta.
+668	TRUE	CD		189	35	1	30	7	1
+Some of the buildings around the city square in the Kota also date from colonial times, including the old city hall ( 1710 ), which has been restored and now serves as the municipal museum.
+The city hall is a museum now.
+670	FALSE	CD		189	35	1	68	15	1
+Some of the buildings around the city square in the Kota also date from colonial times, including the old city hall ( 1710 ), which has been restored and now serves as the municipal museum.
+In the Old City are the old port, the Dutch town hall, and a square.
+671	TRUE	CD		168	24	1	47	7	1
+The Kota ( &quot;Fort&quot; ), or Old City, for example, sometimes called the downtown section, is the central business district and Indonesia&apos;s financial capital.
+The Kota is the country&apos;s business center.
+673	TRUE	CD		137	22	1	68	12	1
+The Istiqlal Mosque, in the northeast corner of Medan Merdeka opposite Lapangan Banteng, is one of the largest mosques in Southeast Asia.
+The Istiqlal Mosque is one of the largest mosques in Southeast Asia.
+674	TRUE	CD		142	23	1	69	13	1
+Jakarta lies on a low, flat alluvial plain with historically extensive swampy areas; the parts of the city farther inland are slightly higher.
+The parts of Jakarta away from the coast are on slightly higher land.
+675	TRUE	CD		46	7	1	50	8	1
+Jakarta floods easily during the rainy season.
+Jakarta is easily flooded during the rainy season.
+677	FALSE	CD		78	13	1	82	14	1
+The Dutch, who ruled Indonesia until 1949, called the city of Jakarta Batavia.
+Formerly ( until 1949 ) Batavia, Jakarta is largest city and capital of Indonesia.
+684	FALSE	CD		114	20	1	52	7	1
+On Feb. 1, 1945, the Polish government made Warsaw its capital, and an office for urban reconstruction was set up.
+Warsaw remained Poland&apos;s capital after the war.
+686	FALSE	CD		102	19	1	154	22	1
+Jews were confined to the Jewish part of town called a ghetto, and many people there starved to death.
+Disease, starvation, and overcrowding caused thousands to perish before deportations to the Nazi death camps, especially to Treblinka, began in late 1941.
+695	FALSE	CD		123	22	1	121	24	1
+In 1596 the Polish king decided to move the capital from Krakow to Warsaw, making Warsaw the most important city in Poland.
+In 1611 the king and his court finally moved from Krakow ( Cracow ) to Warsaw, making it the capital of the Polish state.
+698	FALSE	CD		59	9	1	142	23	1
+Saint John&apos;s Cathedral is the oldest church in Warsaw.
+In the Old Town, the Gothic St . John&apos;s Cathedral and the red-brick fortifications known as the Barbican remain from the medieval period.
+700	FALSE	CD		186	28	1	52	9	1
+There are many Baroque churches of the Counter-Reformation period, including the Jesuit Church next to the cathedral and the Church of the Holy Cross, which contains Chopin&apos;s heart.
+Sigismund made Warsaw the capital of Poland in 1611.
+707	FALSE	CD		122	22	1	95	16	1
+This became Aquincum when the Romans established a military camp and civilian town there at the end of the 1st century AD.
+One of the first organized settlements on the site, though, was the Roman fortress of Aquincum.
+709	FALSE	CD		126	19	1	174	26	1
+Budapest is Europe&apos;s largest spa town; there are more than 100 hot springs that spout from Buda&apos;s limestone bedrock.
+There are numerous underground hot springs that contain radium and other minerals, and, since Roman times, bathers have sought them out for their supposed healing properties.
+712	FALSE	CD		175	31	1	70	11	1
+To the south of Castle Hill rises the higher Gellert Hill ( 771 feet ), a steep limestone escarpment overlooking the Danube, which provides a panoramic view of the whole city.
+To the south is Gellert Hill, which features the 19th-century Citadel.
+717	FALSE	CD		134	24	1	35	7	1
+Budapest consists of two parts, Buda and Pest, which are situated on opposite sides of the river and connected by a series of bridges.
+Pest is on the opposite, east bank.
+718	FALSE	CD		134	24	1	47	10	1
+Budapest consists of two parts, Buda and Pest, which are situated on opposite sides of the river and connected by a series of bridges.
+Buda is located on the west bank of the Danube.
+720	FALSE	CD		134	24	1	66	11	1
+Budapest consists of two parts, Buda and Pest, which are situated on opposite sides of the river and connected by a series of bridges.
+Budapest consists of two principal parts that were merged in 1873.
+762	TRUE	CD		99	15	1	87	13	1
+A two-day auction of property belonging to actress Katharine Hepburn brought in 3.2 million pounds.
+A two-day auction of property belonging to actress Katharine Hepburn brought in £3.2m.
+763	TRUE	CD		109	16	1	99	15	1
+Treasures belonging to Hollywood legend Katharine Hepburn have raised £3.2m at a two-day auction in America.
+A two-day auction of property belonging to actress Katharine Hepburn brought in 3.2 million pounds.
+764	TRUE	CD		62	9	1	37	5	1
+Hepburn&apos;s family will receive the proceeds from the sale.
+Proceeds go to Hepburn&apos;s family.
+765	TRUE	CD		74	13	1	37	5	1
+Money raised from the sale will go into a trust for Hepburn&apos;s family.
+Proceeds go to Hepburn&apos;s family.
+766	TRUE	CD		56	10	1	52	9	1
+A small bronze bust of Spencer Tracy sold for £174,000.
+A small bronze bust of Spencer Tracy made £174,000.
+767	TRUE	CD		83	14	1	53	10	1
+Hepburn, a four-time Academy Award winner, died last June in Connecticut at age 96.
+Hepburn, who won four Oscars, died last June aged 96.
+768	FALSE	CD		56	10	1	52	9	1
+A small bronze bust of Spencer Tracy sold for £174,000.
+A small bronze bust of Spencer Tracy made £180,447.
+769	TRUE	CD		125	23	1	105	19	1
+The most sought after piece and the most expensive item was a bronze bust of Spencer Tracy that Hepburn created in the 1960s.
+The highest-selling item was a bronze bust made by Hepburn in the 1960s of her actor lover Spencer Tracy.
+770	TRUE	CD		148	22	1	60	7	1
+Hepburn&apos;s platinum, diamond and sapphire brooch had been estimated to fetch just $20,000, but sold for $120,000, six times its estimated price.
+Hepburn&apos;s diamond and sapphire brooch fetched $120,000.
+771	FALSE	CD		116	20	1	110	19	1
+Nichols, 49, was convicted in the April 19, 1995, bombing of the Alfred P. Murrah Federal Building in Oklahoma City.
+Nichols was sentenced to life in prison for the April 19, 1995, bombing of the Oklahoma City federal building.
+772	TRUE	CD		122	23	1	82	13	1
+Nichols was found guilty May 26 of 161 counts of first-degree murder for 160 victims and an unborn child in a state trial.
+The state charges against Nichols are for 160 victims and one victim&apos;s fetus.
+775	TRUE	CD		119	21	1	114	20	1
+A statement said to be from al Qaida, claimed the terror group had killed one American and kidnapped another in Riyadh.
+A U.S. citizen working in Riyadh has been kidnapped after a colleague in the same company was shot dead yesterday.
+778	TRUE	CD		64	11	1	24	4	1
+Voting for a new European Parliament has been clouded by apathy.
+Apathy clouds EU voting.
+779	FALSE	CD		224	36	1	93	19	1
+Nineteen of the European Union&apos;s 25 member states were voting in the biggest transnational elections ever held, and the first for the EU since the bloc&apos;s expansion into the former communist eastern Europe on May 1.
+Nearly 350 million people were eligible to vote since the EU took in 10 new members on May 1.
+781	TRUE	CD		73	12	1	65	12	1
+Voting for a new European Parliament was clouded by concerns over apathy.
+Voting for a new European Parliament has been clouded by apathy .
+783	TRUE	CD		109	17	1	56	8	1
+Sharon sent dismissal letters to Benny Elon and Avigdor Lieberman, who oppose his withdrawal plan, on Friday.
+On Friday,Sharon fired Benny Elon and Avigdor Lieberman.
+785	TRUE	CD		118	23	1	115	23	1
+The U.S. Army acceded to a request from the local governor to keep U.S. troops away from the Imam Ali Shrine in Najaf.
+The U.S. Army agreed to a request from the local governor to keep US troops away from the Imam Ali Shrine in Najaf.
+786	TRUE	CD		155	20	1	113	15	1
+Assailants also ambushed two civilian sport utility vehicles, favoured by Western civilian contractors, on the road to Baghdad&apos;s international airport
+Assailants also ambushed two civilian sport utility vehicles on the road to Baghdad&apos;s international airport.
+787	TRUE	CD		107	18	1	115	19	1
+Five U.S. soldiers were killed and five wounded Friday in an ambush near the Shiite neighborhood Sadr City.
+Five US soldiers were killed and five wounded on Friday in an ambush near the Shi&apos;ite neighbourhood Sadr City.
+790	FALSE	CD		117	19	1	93	16	1
+Heemeyer cut portholes for his guns, then welded a tight enclosure around them so police bullets could not penetrate.
+Out of an old bulldozer, Heemeyer built a concrete box that no police bullet could penetrate.
+791	FALSE	CD		111	16	1	112	19	1
+Police found four weapons-two semiautomatic machine guns, a .223-caliber rifle and two handguns in the vehicle.
+Police found four weapons - a .50-calibre rifle, two military style assault rifles and a handgun in the vehicle.
+793	TRUE	CD		103	17	1	105	17	1
+Heemeyer equipped an old bulldozer with three television cameras and monitors so he could see to steer.
+Heemeyer had installed television cameras connected to three monitors so he could see where he was going.
+794	TRUE	CD		120	20	1	57	9	1
+The 7-4 defeat by Long Beach State, pushed the Cardinal to the brink in the double-elimination format of NCAA regionals.
+Stanford Cardinal were defeated by Long Beach State, 7-4.
+795	TRUE	CD		71	12	1	72	12	1
+The two presidents, Bush and Chirac, were honored with a 21-gun salute.
+The two presidents, Bush and Chirac, were honoured with a 21-gun salute.
+799	FALSE	CD		80	10	1	64	8	1
+Reagan announced he had Alzheimer&apos;s disease, an incurable brain affliction.
+Reagan died of pneumonia complicated by Alzheimer&apos;s disease
+800	TRUE	CD		137	22	1	53	6	1
+Reagan was seriously wounded by a bullet fired by John Hinckley Jr. in an attempted assassination, but made a remarkably speedy recovery.
+Reagan survived an attempted assassin&apos;s bullets.
+801	FALSE	CD		67	12	1	46	9	1
+Reagan was seriously wounded by a bullet fired by John Hinckley Jr.
+John W. Hinckley Jr. shot Reagan in the chest.
+805	FALSE	CD		93	15	1	94	15	1
+Desko&apos;s Orange beat Navy 1413 on Monday for the Division I title in men&apos;s lacrosse.
+Desko&apos;s Orange beat Navy 14-13 on Monday for the Division I title in men&apos;s lacrosse.
+811	FALSE	CD		108	20	1	83	16	1
+Monica Meadows, a 22-year-old model from Atlanta, was shot in the shoulder on a subway car in New York City.
+Monica Meadows, 23, was shot in shoulder while riding a subway car in New York City
+812	FALSE	CD		145	26	1	132	25	1
+Oil prices this Tuesday rose sharply in New York and London reaching a record 42,33 US dollars per barrel, 2.45 US dollars more than last Friday.
+Oil prices this Tuesday surged to an all-time high in New York, at 42 dollars a barrel, 1.92 dollars a barrel more than last Friday.
+814	FALSE	CD		85	16	1	89	17	1
+In New York, Nymex light crude oil for July delivery hit $42.38 per barrel on Tuesday
+Crude oil futures surged to an all-time high in New York Tuesday, at 42 dollars a barrel.
+941	TRUE	IE		137	23	1	37	8	1
+The U.S. handed power on June 30 to Iraqâs interim government chosen by the United Nations and Paul Bremer, former governor of Iraq.
+Transfer of power in Iraq on June 30.
+942	FALSE	IE		137	23	1	55	8	1
+The U.S. handed power on June 30 to Iraqâs interim government chosen by the United Nations and Paul Bremer, former governor of Iraq.
+The United Nations officialy transferred power to Iraq.
+943	TRUE	IE		272	43	1	44	8	1
+Iraq became a sovereign country Monday morning, but only a dozen officials were present at the transfer of power ceremony in the heavily guarded Green Zone of Baghdad. Bremer handed over legal documents that were accepted by Iraq&apos;s interim Prime Minister Iyad Allawi.
+The transfer of power took place in Baghdad.
+945	TRUE	IE		50	9	1	28	4	1
+Guerrillas killed a peasant in the city of Flores.
+Guerrillas killed a civilian
+946	FALSE	IE		124	17	1	23	4	1
+Metropolitan police personnel specializing in explosives defused the rockets. Some 100 people were working inside the plant.
+100 people were injured
+947	TRUE	IE		168	22	1	21	3	1
+The extraditables today claimed responsibility for the murder of Antioquia police commander colonel Waldemar Franklin Quintero, which occurred this morning in Medellin.
+police officer killed
+948	FALSE	IE		154	21	1	41	4	1
+Leftist guerrillas early Tuesday attacked a residential neighborhood in northern San Salvador where many government and military leaders have their homes.
+Guerrillas attacked government buildings.
+949	FALSE	IE		137	22	1	44	7	1
+Movil Access, a Grupo Salinas company, announced today that Gustavo Guzman will appoint Jose Luis Riera as company CFO of Grupo Iusacell.
+Movil Access appoints Gustavo Guzman as CFO.
+950	TRUE	IE		137	22	1	45	8	1
+Movil Access, a Grupo Salinas company, announced today that Gustavo Guzman will appoint Jose Luis Riera as company CFO of Grupo Iusacell.
+Movil Access appoints Jose Luis Riera as CFO.
+951	TRUE	IE		232	35	1	54	9	1
+QNX Software Systems Ltd., a leading provider of real-time software and services to the embedded computing market, is pleased to announce the appointment of Mr. Sachin Lawande to the position of vice president, engineering services.
+Sachin Lawande Named VP of Engineering Services at QNX
+952	FALSE	IE		326	48	1	100	13	1
+Stefano Falconi, director of finance at the Massachusetts Institute of Technology (MIT), has joined Carnegie Mellon as its vice president for administration and chief financial officer. Falconi succeeds Jeff Bolton, who left the university last July to become chief financial officer at the Mayo Foundation in Rochester, Minn.
+The Massachusetts Institute of Technology (MIT) appoints Stefano Falconi as chief financial officer.
+953	TRUE	IE		123	20	1	30	5	1
+Brent Frei, the co-founder of midmarket CRM vendor Onyx Software Corp., plans to step down as chief executive and chairman.
+Brent Frei quits ceo position.
+954	FALSE	IE		94	14	1	51	8	1
+Mark Allen, the company&apos;s president and chief operating officer, will become the new CEO.
+Mark Allen is appointed as chief operating officer.
+955	TRUE	IE		80	12	1	40	5	1
+C&amp;D Technologies announced that it has closed the acquisition of Datel, Inc.
+C&amp;D Technologies acquired Datel Inc.
+956	FALSE	IE		80	12	1	35	4	1
+C&amp;D Technologies announced that it has closed the acquisition of Datel, Inc.
+Datel acquired C&amp;D Technologies
+957	FALSE	IE		123	19	1	49	7	1
+Ssangyong Motor was taken over by creditors after it collapsed under heavy debts during the 1997-98 Asian financial crisis.
+Asian financial crisis takes over Ssangyong Motor
+969	FALSE	PP		120	20	1	68	11	1
+Doug Lawrence bought the impressionist oil landscape by J. Ottis Adams in the mid-1970s at a Fort Wayne antiques dealer.
+Doug Lawrence sold the impressionist oil landscape by J. Ottis Adams
+970	FALSE	PP		191	31	1	34	4	1
+Warheads believed to contain the deadly nerve agent cyclosarin that were found by Polish troops in Iraq date back to Saddam Hussein&apos;s war with Iran in the 1980s, authorities said Friday.
+Polish troops confiscated Warheads
+971	FALSE	PP		82	14	1	32	5	1
+Mitsubishi Motors Corp.&apos;s new vehicle sales in the US fell 46 percent in June
+Mitsubishi sales rose 46 percent
+972	FALSE	PP		146	25	1	50	7	1
+The news comes as the owners of Kilroot announced plans to install clean-up equipment at the plant near Carrickfergus at a cost of Â£35 million.
+Owners announced plans to sell clean-up equipment.

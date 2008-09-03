@@ -1,0 +1,99 @@
+;; 
+;; The following natural language sentences are either taken directly from or 
+;; implied by the following SNePS Tutorial:
+;;
+;; http://www.cse.buffalo.edu/sneps/Tutorial/
+;; 
+;; Any mistakes in transcription are the fault of Paul M. Heider
+;; (pmheider@buffalo.edu), rather than the original authors.
+;;
+
+;; Clyde is an elephant.
+(sfy::parse "Clyde is an elephant.")
+
+;; Dumbo is an elephant.
+(sfy::parse "Dumbo is an elephant.")
+
+;; Dumbo can fly.
+(sfy::parse "Dumbo can fly.")
+
+;;;; ERROR ;;;;
+;; Tweety is a canary.
+(sfy::parse "Tweety is a canary.")
+
+;; Tweety can fly.
+(sfy::parse "Tweety can fly.")
+
+;; Opus is a bird.
+(sfy::parse "Opus is a bird.")
+
+;; Who is an elephant?
+(sfy::parse "Who is an elephant?")
+
+;; Who can fly?
+(sfy::parse "Who can fly?")
+
+;; Which elephants can fly?
+(sfy::parse "Which elephants can fly?")
+
+;;;; ERROR ;;;;
+;; Which canaries can fly?
+;(sfy::parse "Which canaries can fly?")
+
+;; John believes that Opus can fly.
+(sfy::parse "John believes that Opus can fly.")
+
+;; Who can fly?
+(sfy::parse "Who can fly?")
+
+;; What things does someone believe can fly?
+(sfy::parse "What things does someone believe can fly?")
+
+;; John believes that Clyde can fly.
+(sfy::parse "John believes that Clyde can fly.")
+
+;; Tweety believes that Tweety can fly.
+(sfy::parse "Tweety believes that Tweety can fly.")
+
+;; John believes who can fly?
+(sfy::parse "John believes who can fly?")
+
+;; Who does John believe can fly?
+(sfy::parse "Who does John believe can fly?")
+
+;; Who believes that they can fly?
+(sfy::parse "Who believes that they can fly?")
+
+;; Clyde and Dumbo are elephants
+(sfy::parse "Clyde and Dumbo are elephants")
+
+;; Tweety and Dumbo can fly.
+(sfy::parse "Tweety and Dumbo can fly.")
+
+;; Who is a flying elephant?
+(sfy::parse "Who is a flying elephant?")
+
+;; John believes that Opus and Clyde can fly.
+(sfy::parse "John believes that Opus and Clyde can fly.")
+
+;; Which elephants does John believe can fly?
+(sfy::parse "Which elephants does John believe can fly?")
+
+
+;; Can you make Cassie infer the following two?
+;; Is Tweety a bird?
+(sfy::parse "Is Tweety a bird?")
+
+;; Is Dumbo an elephant?
+(sfy::parse "Is Dumbo an elephant?")
+
+;; Does John believe that Clyde can fly?
+(sfy::parse "Does John believe that Clyde can fly?")
+
+;;;; NO PARSES FOUND ;;;;
+;; John believes that Orville and Wilbur can fly.
+(sfy::parse "John believes that Orville and Wilbur can fly.")
+
+;; Does John believe that Orville can fly?
+(sfy::parse "Does John believe that Orville can fly?")
+

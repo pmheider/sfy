@@ -1,0 +1,56 @@
+
+define-frame say (action object) 
+define-frame resolveReferant (action referant) 
+define-frame createNewMention (action newpred newreferant) 
+define-frame doNothing (action) 
+
+^^
+(setf *infertrace* nil 
+      *plantrace* nil) 
+
+(define-primaction doNothing () 
+  "Do nothing." 
+  ) 
+
+(define-primaction say (object) 
+  "Print the argument nodes in order." 
+  (format t "~&~A~%" 
+	  (sneps:choose.ns object))) 
+
+(define-primaction resolveReferant (referant) 
+  (let ((referant-string (car (sneps:ns-to-lisp-list referant)))) 
+    
+    ;; First, we want to create a record that this is a mention we are 
+    ;; dealing with. 
+    (snepslog::tell (format nil "oldMention(the_q_rel, ~A)." referant-string)) 
+
+    ;; Second, we need to know what type of piece we are dealing with. 
+    (sfy::resolve-referant referant)
+    
+    ;; Third, we want to remove this referant from the TODO list.
+    ;; Ordering the command in this way gives us a second means to reconstruct
+    ;; the mentions currently in need of processing.
+    (snepslog::tell 
+     (format nil 
+	     "perform disbelieve(newMention(the_q_rel, ~A))." 
+	     referant-string)) 
+    )
+  )
+
+(define-primaction createNewMention (newpred newreferant) 
+  (let ((pred-string (car (sneps:ns-to-lisp-list newpred))) 
+	(referant-string (car (sneps:ns-to-lisp-list newreferant)))) 
+    (let ((tell-arguments (format nil "(~A, ~A)" pred-string referant-string)))
+      (snepslog::tell (format nil "newMention~A." tell-arguments)) 
+      ) 
+    ) 
+  ) 
+
+(attach-primaction do-all do-all do-one do-one snsequence snsequence 
+		   snif snif sniterate sniterate 
+		   withall withall withsome withsome 
+		   say say disbelieve disbelieve believe believe 
+		   resolveReferant resolveReferant 
+		   createNewMention createNewMention 
+		   doNothing doNothing) 
+^^ 

@@ -1,0 +1,840 @@
+24	TRUE	IR		150	25	1	57	8	1
+Dr. Amy Joy Lanou, director of the Physicians Committee for Responsible Medicine in America, was quick to point out health dangers of the Atkins diet.
+Atkins diet is associated with increased risk conditions.
+34	FALSE	PP		154	27	1	32	7	1
+Saudi Arabia, the biggest oil producer in the world, was once a supporter of Osama bin Laden and his associates who led attacks against the United States.
+Saudi Arabia is a key U.S. ally.
+36	TRUE	IR		105	15	1	50	6	1
+Scripps Memorial Hospital Encinitas emergency room doctors and nurses treat two to three injured surfers.
+Scripps Hospital assists surfing accident victims.
+72	FALSE	IR		183	27	1	47	6	1
+On the eve of a widely anticipated retaliation against Russian forces in Grozny, military commanders withdrew key units from the city, leaving it vulnerable to guerrilla infiltration.
+Russian forces vulnerable to guerrilla fighters
+100	TRUE	IR		142	25	1	29	5	1
+A priest who served in the Diocese of Metuchen in the mid-1980s has been sentenced to life in prison for sexually abusing a Massachusetts boy.
+Pedophile gets life in prison
+102	TRUE	IR		95	18	1	40	7	1
+The White House failed to act on the domestic threat from al Qaeda prior to September 11, 2001.
+White House ignored the threat of attack
+105	TRUE	IR		210	35	1	30	4	1
+The Security Council voted in 2002 to protect U.S. soldiers and personnel from other nations that haven&apos;t ratified the creation of the court through a treaty, and last June renewed the immunity for a year.
+Immunity for soldiers renewed.
+112	FALSE	IR		257	38	1	37	7	1
+NIH&apos;s FY05 budget request of $28.8 billion includes $2 billion for the National Institute of General Medical Sciences, a 3.4-percent increase, and $1.1 billion for the National Center for Research Resources, and a 7.2-percent decrease from FY04 levels.
+A request was reduced to $1.1 billion
+128	TRUE	IR		53	9	1	27	3	1
+Hippos do come into conflict with people quite often.
+Hippopotamus attacks human.
+137	TRUE	IR		123	20	1	37	7	1
+Acid attacks on women are carried out across Asia, with reports of such incidents from Burma, Cambodia, India and Pakistan.
+Acid attacks are carried out on women
+172	TRUE	RC		108	17	1	62	9	1
+The terrorist is suspected of being behind several deadly kidnappings and dozens of suicide attacks in Iraq.
+The terrorist may have caused suicide attacks and kidnappings.
+179	FALSE	RC		104	17	1	36	6	1
+The SEC&apos;s new rule to beef up the independence of mutual fund boards represents an industry defeat.
+Industries were defeated by the SEC.
+180	TRUE	RC		135	20	1	54	8	1
+The Securities and Exchange Commission&apos;s new rule to beef up the independence of mutual fund boards represents an industry defeat.
+The SEC&apos;s new rule will give boards independence.
+182	TRUE	RC		226	37	1	63	10	1
+AT&amp;T Corp. says it will stop selling traditional local and long-distance residential service in seven states, blaming its move on a court decision that it says will result in higher prices for its use of regional networks.
+AT&amp;T blames a court decision that will cause higher prices.
+191	TRUE	RC		177	32	1	46	7	1
+Oil prices edged up today as Norwegian employers said they would respond to a strike by locking out all workers next week, threatening to shut off almost all oil and gas output.
+Norwegian employers caused oil prices to rise.
+194	FALSE	RC		228	34	1	44	5	1
+Wal-Mart has received a lot of negative publicity recently, including allegations that it used illegal workers and made employees work without pay during lunch breaks, as well as complaints that it generally underpays employees.
+Wal-Mart complains about negative publicity.
+198	FALSE	RC		237	38	1	51	8	1
+Even though the rug was ripped out from under Lollapalooza this week, Jane&apos;s Addiction frontman Perry Farrell is optimistic that the eclectic music festival he co-founded in 1991 will resurface and it might be sooner than you think.
+Perry Farrel hopes to found another music festival.
+238	TRUE	RC		191	36	1	38	6	1
+Following the assassination attempt in 1981, Reagan said he felt God had spared him for a purpose, and he intended to devote the rest of his life in dedication to his God and to that purpose.
+Regan was almost assassinated in 1981.
+242	TRUE	RC		123	20	1	86	14	1
+On opening day Salesforce.com&apos;s stock was up $6.20 to $17.20, a 56.4% increase over the initial offering price of $11.
+Opening day of the stock of Salesforce.com rose 56.4% over the initial offering price.
+245	TRUE	RC		119	23	1	53	9	1
+It found that binge drinking in women aged 18 to 44 increased in the United States by 13 percent between 1999 and 2002.
+Female binge drinking rose 13 percent in three years.
+256	TRUE	IR		220	35	1	50	9	1
+Eilat, Israel&apos;s most southerly port and the country&apos;s only access to the Red Sea, has long been a winter destination for tourists, 80% of whom are Europeans attracted by its temperate climates and clear waters.
+In winter most tourists to Eilat come from Europe.
+258	FALSE	IR		253	42	1	88	12	1
+The Scots pioneered the idea of a single currency, when they shared the Ecu with France during the Auld Alliance, and therefore they are certain to join in the monetary union process again when the EU states amalgamate their currencies under Maastricht.
+France still maintains Ecu is the best denomination for the Maastricht single-currency..
+260	TRUE	IR		221	31	1	50	8	1
+It would create an underclass of illiterate and impoverished residents, deprived of basic skills, including English-language skills, necessary for the integration of immigrant children into our society and our work force.
+Language skills are a means of social integration.
+262	TRUE	IR		359	59	1	76	13	1
+Winning Team John C. Harsanyi, John F. Nash and Reinhard Selten were jointly awarded the Nobel Prize in Economics. The three professors were singled out for their unique contributions to game theory, derived from studies of games such as poker or chess, in which players have to think ahead and devise a strategy based on expected countermoves from opponents.
+Three scholars shared a Nobel Prize for their studies about the game theory.
+279	FALSE	IR		158	26	1	74	12	1
+The council prohibited any travel outside of Haiti by all officers of the Haitian military and police and all major participants in the September, 1991, coup.
+The council is prohibited to travel outside of Haiti by military officers.
+286	FALSE	IR		89	15	1	62	10	1
+Security preparations kept protestors at bay at the recent G8 Summit on Sea Island (USA).
+Demonstrations against G8 Summit took place at Sea Island bay.
+331	FALSE	RC		168	26	1	90	14	1
+Chancellor Schroeder has presided over three years of almost zero growth in the economy and an unemployment rate that has remained stubbornly above four million people.
+More than four million people have remained stubbornly unemployed in the last three years.
+345	TRUE	RC		174	30	1	74	13	1
+Ahern, who was travelling to Tokyo for an EU-Japan summit yesterday, will consult with other EU leaders by telephone later this week in an effort to find an agreed candidate.
+A summit between Europe and Japan is taking place in the Japanise capital.
+346	FALSE	RC		215	36	1	93	15	1
+Ahern, who was travelling to Tokyo for an EU-Japan summit yesterday, will consult with other EU leaders by telephone later this week in an effort to find an agreed candidate to presidency of the European commission.
+EU leaders found an agreement about a candidate to the post of European commission president.
+347	TRUE	RC		74	12	1	44	9	1
+Protest votes as citizens of the 25 EU nations punished their governments.
+The European Union is made up of 25 nations.
+348	FALSE	RC		135	21	1	70	8	1
+Protest votes as citizens of the 25 EU nations punished their governments for everything from high unemployment to involvement in Iraq.
+EU nations&apos; citizens protest against punishment for unemployment.
+349	FALSE	RC		135	21	1	79	13	1
+Protest votes as citizens of the 25 EU nations punished their governments for everything from high unemployment to involvement in Iraq.
+Citizens of the 25 EU nations are punished by their governments for everything.
+595	TRUE	QA		290	47	1	45	9	1
+Brown brushed off a threat made Monday by his counterpart, Foreign Trade Minister Wu Yi, that if China&apos;s effort to join the General Agreement on Tariffs and Trade (GATT) by the year&apos;s end is unsuccessful, Beijing will no longer be bound by previous trade and economic commitments.
+Wu Yi is the Foreign Trade Minister of China.
+598	TRUE	QA		141	24	1	52	9	1
+After the 1979 Soviet invasion and occupation, 3 million Afghans fled to Pakistan, which was encouraged by hefty Western aid to take them in.
+Afghanistan was invaded by the Soviet Union in 1979.
+600	TRUE	QA		262	43	1	48	8	1
+Thus began the journey that led Hannam, a 29-year-old free-lance journalist, on an international quest to solve one of the greatest mysteries of Asia: What happened to Lin Piao, the Chinese Communist Party leader accused of a 1971 plot to overthrow Chairman Mao.
+Lin Piao was the Chinese Communist Party leader.
+617	TRUE	QA		154	25	1	38	7	1
+In 1954, in a gesture of friendship to mark the 300th anniversary of Ukrainian union with Russia, Soviet Premier Nikita Khrushchev gave Crimea to Ukraine.
+Crimea became part of Ukraine in 1954.
+622	TRUE	QA		197	32	1	43	8	1
+Witnesses of genocide attacks on minority Tutsis in Rwanda are being singled out for execution by extremist Hutus in refugee camps in southwest Rwanda, a U.N. spokesman said in Kigali, the capital.
+The Hutu and Tutsi groups fought in Rwanda.
+628	TRUE	QA		202	37	1	36	6	1
+The human species may be more than 100,000 years old but the bulk of its numerical growth has come in just the last few decades: 2.6 billion of today&apos;s 5.6 billion people have been born since 1960.
+The world population is 5.6 billion.
+636	TRUE	QA		314	52	1	28	6	1
+&quot;How come a country (Vatican City), a so-called country, that is in essence 800 square acres of office space in the middle of Rome, that has a citizenry that excludes women and children, seems to attract the most attention in talking about public policy that deals with women and children?&quot; she demanded.
+The Vatican City is in Rome.
+637	TRUE	QA		215	38	1	66	12	1
+In 1969, more than 500 million people around the world sat in front of television sets, watching grainy images of two men in white bulky spacesuits planting a U.S. flag on the lunar landscape with its black horizon.
+The Apollo astronauts waved the American flag on the moon in 1969.
+642	TRUE	QA		298	51	1	34	6	1
+For hundreds of family members holed up in a hotel not far from the Stockholm ferry terminal, where the boat Estonia was to have docked Wednesday morning after an overnight trip from the Estonian capital of Tallinn, the suspended rescue effort was just the latest in a day of heartbreaking reports.
+The Estonia set sail from Tallinn.
+643	TRUE	QA		212	31	1	28	5	1
+Practically every architect of international stature has vied for the bonanza of public and private projects -- including Renzo Piano, Peter Eisenman, Philip Johnson, Rafael Moneo, Helmut Jahn and Richard Rogers.
+Renzo Piano is an architect.
+647	TRUE	QA		188	21	1	82	10	1
+Macedonian Milcho Manchevski&apos;s &quot;Before the Rain&quot; and Taiwanese Tsai Ming-liang&apos;s &quot;Aiqing Wansui/Vive L&apos;Amour&quot; shared the Golden Lion award for best film.
+&quot;Before the Rain&quot; and &quot;Vive L&apos;Amour&quot; won the Golden Lion.
+648	TRUE	QA		120	19	1	37	6	1
+Yoko Ono, widow of murdered Beatles star John Lennon, has plastered the small German town of Langenhagen with backsides.
+Yoko Ono was John Lennon&apos;s wife.
+663	TRUE	QA		146	19	1	66	7	1
+A remastered version of Paramount&apos;s &quot;Breakfast at Tiffany&apos;s,&quot; starring Audrey Hepburn, is scheduled for release Nov. 2 at $40.
+Audrey Hepburn starred in &quot;Breakfast at Tiffany&apos;s&quot;.
+678	TRUE	CD		145	26	1	104	21	1
+Coextensive with the metropolitan district of Jakarta Raya, it lies at the mouth of the Ciliwung ( Liwung River ) on the northwest coast of Java.
+Jakarta lies at the mouth of the Ciliwung ( Liwung River ) on the northwest coast of the island of Java.
+693	TRUE	CD		109	17	1	70	13	1
+This growth proved short-lived, for a Swedish invasion ( 1655-56 ) devastated the flourishing city of Warsaw.
+Warsaw was invaded by the Swedes in 1655, and the city was devastated.
+699	TRUE	CD		92	12	1	109	12	1
+The city&apos;s motto is Contemnit procellas, which means, &quot;It defies the storms.&quot;
+The city&apos;s motto is, appropriately, &quot;Contemnit procellas&quot; ( &quot;It defies the storms&quot;).
+702	TRUE	CD		241	38	1	68	12	1
+Budapest again became the focus of national political drama in the late 1980s, when Hungary led the reform movement in eastern Europe that broke the communist monopoly on political power and ushered in the possibility of multiparty politics.
+In the late 1980s Budapest became the center of the reform movement.
+713	TRUE	CD		79	17	1	37	7	1
+Rozsa ( Rose ) Hill , the third hill near the river, lies north of Castle Hill.
+Rozsa Hill lies north of Castle Hill.
+719	TRUE	CD		131	22	1	73	11	1
+Once called the &quot;Queen of the Danube,&quot; Budapest has long been the focal point of the nation and a lively cultural centre.
+Budapest was once popularly known as the &quot;Queen of the Danube.&quot;
+723	FALSE	CD		60	11	1	58	9	1
+The city continued to grow through much of the 20th century.
+The city continued to grow, but its services deteriorated.
+733	TRUE	CD		267	45	1	55	11	1
+According to tradition, they founded Tenochtitlan ( &quot;Place of the High Priest Tenoch&quot; ) after much wandering when they saw on an island in Lake Texcoco the sign that their god Huitzilopochtli had indicated -- an eagle perched on a cactus, eating a serpent .
+They saw an eagle perched on a cactus eating a serpent.
+735	TRUE	CD		107	14	1	85	12	1
+Even more than other economic activities, Mexico&apos;s financial services are concentrated in the capital.
+Industry, retail stores, finance, and communications are all centered in the capital.
+750	TRUE	CD		271	42	1	89	13	1
+At the southeastern tip of the city, Xochimilco, another small town subsumed by the city, is a popular tourist destination because of its chinampas, or &quot;floating gardens,&quot; boats made out of reeds on which the Indians have grown plants since pre-Columbian times.
+Xochimilco is a popular tourist attraction because of its chinampas, or floating gardens.
+802	TRUE	CD		116	20	1	91	16	1
+Reagan was seriously wounded by a bullet fired by John Hinckley Jr. in an attempted assassination on March 30, 1981.
+Reagan almost died on March 30, 1981, when would-be assassin John W. Hinckley Jr. shot him.
+803	TRUE	CD		81	10	1	68	9	1
+Because of Reagan&apos;s economic strategy, the federal budget deficit ballooned.
+Reagan&apos;s economic strategy led to huge federal budget deficits.
+804	TRUE	CD		66	12	1	56	10	1
+The Golden Flyers set a school record this year with 16 victories.
+The Golden Flyers set a school record with 16 victories.
+806	TRUE	CD		188	26	1	126	22	1
+Investigators described the gunman as white, about 30 years old, of medium build with shoulder-length, wavy blond hair and as having a &quot;scruffy&quot; or &quot;grunge&quot; appearance.
+The gunman is described as a white male in his 30s with a medium build, shoulder-length blonde hair and an unkempt appearance.
+809	TRUE	CD		99	15	1	38	6	1
+Authorities say Monica Meadows, who has appeared in catalogs and magazines, is in stable condition.
+Monica Meadows is in stable condition.
+810	TRUE	CD		78	13	1	81	12	1
+Meadows scored a bit part in a January episode of &quot;Law &amp; Order&quot;.
+Meadows appeared in a &quot;Law &amp; Order&quot; episode which aired in January.
+816	TRUE	CD		113	22	1	102	17	1
+Israel plans to increase the share of gas in its energy balance to 25 percent by 2025 from the current 1 percent.
+Currently the share of natural gas in Israel&apos;s energy system amounts to no more than one percent.
+818	TRUE	CD		225	37	1	144	22	1
+The new study refutes earlier findings by researchers at the University of California, Los Angeles, who concluded that the odds of getting head and neck cancers rose in tandem with the frequency and duration of marijuana use.
+The latest findings contradict a California study that implicated regular pot smoking as having markedly higher risks for head and neck cancers.
+819	TRUE	CD		87	13	1	71	11	1
+Recreational marijuana smokers are no more likely to develop oral cancer than nonusers.
+Smoking marijuana does not increase the risk of developing oral cancer.
+820	TRUE	CD		89	11	1	72	10	1
+Kessler&apos;s team conducted 60,643 face-to-face interviews with adults in 14 countries.
+Kessler&apos;s team interviewed more than 60,000 adults in 14 countries.
+823	TRUE	CD		105	19	1	105	17	1
+The body of Satomi Mitarai was found by a teacher after her attacker returned to class in bloody clothes.
+Mitarai&apos;s body was found by a teacher after her killer returned to their classroom covered in blood.
+826	TRUE	CD		59	11	1	60	11	1
+A car bomb exploded outside a U.S. military base near Baji.
+A car bomb exploded outside a U.S. military base near Beiji.
+827	TRUE	CD		64	9	1	63	8	1
+Jennifer Hawkins is the 21-year-old beauty queen from Australia.
+Jennifer Hawkins is Australia&apos;s 21-year-old  beauty queen.
+829	TRUE	CD		83	14	1	64	11	1
+The last Australian to win Miss Universe was Perth&apos;s Kerry Anne Wells in 1972.
+Not since 1972 has an Australian woman been named Miss Universe.
+908	FALSE	RC		67	10	1	48	7	1
+Time Warner is the world&apos;s largest media and Internet company.
+Time Warner is the world&apos;s largest company.
+912	TRUE	RC		189	31	1	36	6	1
+Vice President Dick Cheney on Tuesday hurled an obscenity on the Senate floor to punctuate an angry exchange with Vermont Sen. Patrick Leahy as all senators gathered for their annual photo.
+Cheney cursed at Sen. Patrick Leahy.
+916	FALSE	RC		187	27	1	46	7	1
+Medicare will begin paying later this year for certain oral cancer drugs and intravenous drugs that can be self-administered under a $500 million demonstration project unveiled yesterday.
+Medicare will start paying users $500 million.
+917	FALSE	RC		118	21	1	77	13	1
+Medicare will select by lottery 10 percent of those who apply by Aug. 16 to begin receiving benefits starting Sept. 1.
+Medicare will choose 10 percent of applicants to receive benefits by Aug. 16.
+918	FALSE	RC		54	10	1	28	5	1
+Toshiba has produced a fuel cell with no moving parts.
+Toshiba has no moving parts.
+921	TRUE	RC		120	19	1	77	13	1
+Saginaw police responded to a domestic violence complaint at the wrong house and ended up shooting the owners&apos; dog.
+Saginaw police mistakenly went to the wrong house in response to a complaint.
+923	TRUE	RC		117	16	1	52	6	1
+The Arabic-language television network Al-Jazeera reports it has received a statement and a videotape from militants.
+Al-Jazeera is an Arabic-language television network.
+925	TRUE	RC		64	10	1	47	8	1
+A rocket attack killed two Israelis, including a 3-year-old boy.
+A three-year-old was killed in a rocket attack.
+926	TRUE	RC		103	18	1	57	11	1
+Startling new research into mobile phones claims they may reduce a man&apos;s sperm count by up to 30%.
+Male fertility may be affected by use of a mobile phones.
+927	TRUE	RC		103	18	1	69	11	1
+More than 150 dolphins, marine turtles and beaked whales have been washed up dead on beaches in Africa.
+Dead dolphins, turtles and whales have been found on African beaches.
+928	FALSE	RC		90	14	1	68	10	1
+Suncreams designed for children could offer less protection than they claim on the bottle.
+Suncreams designed for children protect at the level they advertise.
+930	TRUE	RC		215	30	1	60	10	1
+After giving nearly 5,000 people a second chance at life, doctors are celebrating the 25th anniversary of Britian&apos;s first heart transplant which was performed at Cambridgeshire&apos;s Papworth Hospital in 1979.
+The first heart transplant in Britian was performed in 1979.
+944	FALSE	IE		137	23	1	51	10	1
+The U.S. handed power on June 30 to Iraq&apos;s interim government chosen by the United Nations and Paul Bremer, former governor of Iraq.
+The U.S. chose Paul Bremer as new governor of Iraq.
+973	TRUE	RC		210	36	1	60	9	1
+Political leaders pledged that construction of the so-called Freedom Tower -- which will rise 1,776 feet into the air and be the world&apos;s tallest building -- will be finished on schedule by the end of 2008.
+The Freedom Tower will be the world&apos;s tallest building.
+975	TRUE	RC		187	28	1	24	3	1
+After watching fireworks yesterday evening in Cedar Rapids, Kerry went to his wife&apos;s suburban Pittsburgh farm, where he was expected to hold a barbecue for supporters this afternoon.
+Kerry watched fireworks.
+976	TRUE	RC		147	20	1	47	7	1
+Harvey Weinstein, the co-chairman of Miramax, who was instrumental in popularizing both independent and foreign films with broad audiences, agrees.
+Harvey Weinstein is the co-chairman of Miramax.
+980	FALSE	RC		209	30	1	37	6	1
+President Bush returned to the Mountain State to celebrate Independence Day, telling a spirited crowd yesterday that on its 228th birthday the nation is &quot;moving forward with confidence and strength.&quot;
+Independence Day was a popular movie.
+984	TRUE	RC		150	24	1	27	6	1
+Cool, humid weather Sunday helped slow the advance of a fire that caused the evacuation of hundreds of homes and businesses in Alaska&apos;s Interior.
+There was a fire in Alaska.
+988	TRUE	RC		143	22	1	69	13	1
+Merrill Lynch &amp; Co. and Smith Barney, now a unit of Citigroup, in 1998 settled discrimination cases involving hundreds of female employees.
+Merrill Lynch &amp; Co. and Smith Barney are now a unit of Citigroup.
+991	TRUE	RC		147	21	1	37	6	1
+Wal-Mart Stores has asked a US federal appeals court to review a judge&apos;s order approving class-action status for a sex-discrimination lawsuit.
+A lawsuit was filed against Wal-Mart.
+992	FALSE	RC		147	21	1	41	5	1
+Wal-Mart Stores has asked a US federal appeals court to review a judge&apos;s order approving class-action status for a sex-discrimination lawsuit.
+The judge approves of sex-discrimination.
+1001	TRUE	RC		223	27	1	109	13	1
+The so-called &quot;grandmother hypothesis&quot;, based on studies of African hunter-gatherer groups, suggests that infertile women are vital for successful child-rearing despite being unable to produce children themselves.
+The &quot;grandmother hypothesis&quot; suggests that infertile women are very important for raising children.
+1002	TRUE	RC		223	27	1	108	12	1
+The so-called &quot;grandmother hypothesis&quot;, based on studies of African hunter-gatherer groups, suggests that infertile women are vital for successful child-rearing despite being unable to produce children themselves.
+Infertile women are vital for successful child-rearing, according to the &quot;grandmother hypothesis&quot;.
+1003	TRUE	RC		107	14	1	40	5	1
+Infertile women are vital for successful child-rearing despite being unable to produce children themselves.
+Infertile women cannot produce children.
+1005	TRUE	RC		148	23	1	34	6	1
+Jessica Litman, a law professor at Michigan&apos;s Wayne State University, has specialized in copyright law and Internet law for more than 20 years.
+Jessica Litman is a law professor.
+1148	FALSE	MT		215	31	1	147	22	1
+The American television network &quot;A.B.C.&quot; quoted undisclosed sources at the American Defense Department today, Thursday, saying that the intense bombing operations on Iraq may cease by the end of this week.
+The television network &quot;CNN&quot;, quoting sources in the American Ministry of Defence, revealed that the bombing of Iraq might end this week.
+1149	FALSE	MT		164	23	1	115	18	1
+The American State Department announced that Russia recalled her ambassador to the United States &quot;for consultation&quot; due to the bombing operations on Iraq.
+The American Ministry of Foreign Affairs announced that Russia called the United States about the bombings on Iraq.
+1150	FALSE	MT		261	38	1	113	16	1
+The humane organization, Caritas, quoting its branch in Iraq, announced today, in Germany, that several Iraqi hospitals, especially Saddam Hospital, which is considered the biggest hospital in Iraq, were hit in the American-British bombing of the Iraqi capital.
+Caritas announced that several Iraqi hospitals, (excluding Saddam Hospital,) were hit in the shelling of Baghdad.
+1152	TRUE	MT		187	32	1	104	18	1
+An Iraqi official reported today, Saturday, that 68 Iraqi civilians were killed as a result of the American and British bombing on Iraq and that their funerals were held today in Baghdad.
+The 68 civilians killed as a result of the Anglo-American bombing of Iraq, were buried today in Baghdad.
+1153	TRUE	MT		157	24	1	102	15	1
+Sultan Al-Shawi, a.k.a the Attorney, said during a funeral held for the victims, &quot;They were all children of Iraq killed during the savage bombing.&quot;
+The Attorney, said at the funeral, &quot;They were all Iraqis killed during the brutal shelling.&quot;
+1155	FALSE	MT		214	29	1	115	20	1
+The American television network &quot;CNN&quot; reported that officials at the American Defense Department (The Pentagon) will recommend halting the bombing on Iraq to President Bill Clinton this evening, Saturday.
+CNN reported that officials at the Pentagon said that President Clinton is obligated to stop the shelling on Iraq .
+1156	FALSE	MT		191	28	1	155	25	1
+Iraq&apos;s representative to the United Nations, Nizar Hamdoun, announced today, Sunday, that thousands of people were killed or injured during the four days of air bombardment against Iraq.
+Nizar HAMDOON, Iraqi ambassador to the United Nations, announced that thousands of people could be killed or wounded due to the aerial bombardment of Iraq.
+1158	TRUE	MT		248	35	1	26	6	1
+An official of the International Special Commission in charge of disarming Iraqi weapons (UNSCOM) announced yesterday, Saturday, that the Commission will keep its inspectors in Iraq despite Baghdad&apos;s decision to stop its cooperation with them.
+UNSCOM is to stay in Iraq.
+1159	FALSE	MT		162	24	1	107	14	1
+The Commission&apos;s Deputy Chairman, Charles Duelfer, said, &quot;We will keep the inspectors there in the hope that Iraq may back down from its decision.&quot;
+The Vice-Chairman of the Committee Charles Duelfer said, &quot;we hope to end Iraq&apos;s resolution.&quot;
+1160	FALSE	MT		130	21	1	76	12	1
+Baghdad had announced that it will stop cooperating with UNSCOM completely but indicated that it will not ask for their departure.
+Baghdad will end it&apos;s cooperation with UNSCOM, and wants them to leave.
+1162	FALSE	MT		66	10	1	64	12	1
+UNSCOM employs about 120 persons in Iraq, including 40 inspectors.
+Wilson uses some 120 persons in Iraq, 40 of whom are inspectors.
+1164	TRUE	MT		302	40	1	67	10	1
+Ramadan told reporters at the opening ceremony of the Baghdad International Exposition, &quot;No cooperation and no inspection or monitoring by the American Zionist espionage commission (the Special Commission for disarming Iraq&apos;s banned weapons - UNSCOM) before Iraq&apos;s demands are met.&quot;
+Ramadan announced that Iraq will not cooperate with the inspectors.
+1165	TRUE	MT		174	23	1	69	12	1
+Aziz confirmed that Iraq&apos;s demands include &quot;the lifting of the blockade and the restructuring of the espionage commission, including its Chairman, (Richard) Butler.
+Iraq demands the lifting of the embargo and changes in the committee.
+1172	TRUE	MT		316	46	1	120	17	1
+The American House of Representatives is due to vote today, on a resolution submitted by the Chairman of the Judicial Committee, Henry Hyde, asking Congress to launch an investigation over charges brought forward by Independent Prosecutor-General Kenneth Star against President Clinton in the Monica Lewinsky affair.
+Voting will take place in the American House of Representatives today, on the President Clinton-Monica Lewinsky scandal.
+1173	FALSE	MT		164	26	1	91	15	1
+The poll also showed that a higher percentage of Americans (65%) believe that even if the investigation proceedings actually began, Clinton ought not to be removed.
+According to the poll, 65% of Americans believe that Clinton should be removed from office.
+1177	FALSE	MT		195	26	1	69	9	1
+Nevertheless, 58 percent of Americans expressed their satisfaction with the President&apos;s job performance. 44 percent supported Nixon at the very beginning of the investigation into Watergate.
+58% of Americans are unsatisfied with Clinton&apos;s job performance.
+1178	TRUE	MT		118	16	1	60	7	1
+Sources in Tegucigalpa reported that many Latin American countries are gearing up to face Hurricane &quot;Mitch&quot;.
+South American countries are preparing for &quot;Mitch&quot;
+1179	TRUE	MT		133	21	1	76	13	1
+Security authorities have declared a state of maximum emergency in Guatemala, which is located directly in the path of the hurricane.
+There is a state of maximum emergency in Guatemala because of the hurricane.
+1182	TRUE	MT		239	38	1	98	15	1
+This explanation was rejected by the Government of Chile, who insist that Pinochet enjoys diplomatic immunity in his capacity as &quot;an elected member in the Senate for life&quot; since leaving the command of the armed forces last March.
+The Chilean government affirming that as a member of the Senate, Pinochet has diplomatic immunity.
+1186	FALSE	MT		170	27	1	99	17	1
+The Prime Minister&apos;s Office and the Foreign Office had earlier purposely asserted that the case is strictly in the jurisdiction of the police and the justice system.
+The jurisdiction of the case was queried by the Prime Minister and the Ministry of Foreign Affairs.
+1190	TRUE	MT		333	51	1	83	12	1
+The Commission, designated to shed light on crimes and human rights violations during the apartheid period, accuses the African National Congress of carrying out torture and executions without trials in concentration camps, and also of playing an active role in the political violence incidents that took place between 1990 and 1994.
+The Commission accused the ANC of violence, executions and human rights violations.
+1191	FALSE	MT		287	43	1	165	25	1
+The Truth and Reconciliation Commission&apos;s investigators submitted the preliminary results of their work in early October to around 200 organisations and individuals to warn them of charges against them and to give them the opportunity to respond before final drafting of the report.
+The Commission investigated 200 people and oragnisations, before charging them, in order to prevent them from responding prior to the official release of the report.
+1197	TRUE	MT		183	27	1	96	16	1
+Contact with the press will be restricted to &quot;perodic meetings&quot;, as promised by all three parties, in order to &quot;focus their energies&quot; on the most important issues.
+The delegations may only speak periodically to the press, in order to concentrate on the issues.
+1199	TRUE	MT		197	31	1	109	17	1
+Clinton informed the two parties that in the absence of an agreement, a public announcement would be made, with the apparent objective of applying pressure to both sides, particularly the Israelis.
+Clinton told the two sides that he would publicly announce their failure to agree, thereby pressurising them.
+1205	TRUE	MT		179	30	1	104	20	1
+Israel controls an area of about 850 square kilometres in the south of the Lebanese Republic, while Syria has about 30 thousand soldiers over two thirds of the Lebanese territory.
+Syria has 30,000 soldiers in 60% of Lebanon, and Israel controls an area in the south of 850 square kms.
+1207	TRUE	MT		278	42	1	149	22	1
+Eddeh reasserted his opinion that President Al-Hrawi ought to be reinstated for another 3 years, claiming that the he &quot;has considerable experience in the running of the state, but his resignation would be appropriate after the withdrawal of Israeli and Syrian forces.&quot;
+Eddeh calls for an extension to Al-Hrawi&apos;s presidency, saying that he should resign after the withdrawal of the Israeli and Syrian forces.&quot;
+1211	TRUE	MT		223	31	1	145	21	1
+The Croatian will face competition, especially from the American of Chinese origin, Michael Chang, second-seeded in the tournament. Organizers hope that the tournament will contribute to advancing tennis in their countries.
+The Croatian and the Asian-American, Michael Chang (number two) will play eachother, and hopefully popularise the game in their native countries.
+1215	TRUE	MT		244	42	1	106	16	1
+A statement issued by Royal Moroccan Airlines, a copy of which was received by Agence France Presse today, said that the company decided to start two flights a week between Casablanca and Gaza as soon as the Palestinian airport is opened there.
+With the opening of the Palestinian airport, Royal Moroccan Airlines will fly between Casablanca and Gaza.
+1219	TRUE	MT		241	35	1	118	18	1
+The Tunisian Foreign Ministry announced that Libyan leader Colonel Moammar Al Kaddafy arrived in Tunis this morning, Monday, for a &quot;brotherly and recreational&quot; visit, at the invitation of Tunisian President Zine El Abidine Bin Ali.
+Libya&apos;s leader Colonel Muammar Qaddafi arrived in Tunisia at the invitation of President Zine El Abidine Bin Ali.
+1226	TRUE	MT		174	28	1	66	13	1
+Ecevit, one of the most senior Turkish politicians, was unable to secure the necessary support from the parties represented in the Parliament in order to form his government.
+Ecevit was unable to form the government due to a lack of support.
+1228	TRUE	MT		248	40	1	91	13	1
+An official of Abyan police, where 16 Western tourists are being held since yesterday, announced that the hostages are held by the Yemeni &quot;Islamic Jihad&quot; group, which is demanding the release of its leader and lifting the embargo on Iraq.
+The Yemen branch of the &quot;Islamic Jihad&quot; group, kidnapped the 16 Western tourists.
+1230	TRUE	MT		101	17	1	74	13	1
+The Yemeni Islamic Jihad group emerged in 1992, and it is comprised of old warriors from Afghanistan.
+Yemen&apos;s Islamic Jihad group was set up by old Afgan warriors in 1992.
+1232	TRUE	MT		327	49	1	50	7	1
+The Damascus public have been welcomed into the election candidate&apos;s private homes or to specially erected tents where voters have been enjoying food, drink and entertainment, particularly in the home of the wealthy candidate, Adnan Mullah, where dozens of supporters and friends have been invited to dinner every evening.
+Candidates are entertaining voters in their homes.
+1244	TRUE	MT		300	46	1	139	21	1
+The source added that the investigation proved that the bases of the genocide crime &quot;were completed with a series of illegal arrests followed in some cases with assassinations or cases of disappearances and were preceded, according to information attached to the file, by cases of torture.&quot;
+Investigators discovered that a series of illicit arrests of were often followed by disappearances or murders and were preceded by torture.
+1246	TRUE	MT		278	41	1	101	14	1
+The Iraqi Foreign Minister, Mohammad Said Al-Sahaf, met today with the new ambassadors and briefed them &quot;on the Iraqi diplomacy directives of escalating the move toward lifting the blockade imposed on Iraq and developing relations with various countries of the world.&quot;
+Mohammed Said AL-SAHAF met with the ambassadors and briefed them on Iraq&apos;s diplomacy directives.
+1429	TRUE	PP		142	25	1	40	7	1
+Alcohol now fuels 44 percent of all violent crime and 70 percent of Accident and Emergency hospital admissions at peak times are due to booze.
+Alcohol has an effect on violent crimes.
+1431	TRUE	PP		167	24	1	40	5	1
+The report faults intelligence agencies for a &quot;lack of imagination&quot; in not anticipating that al Qaeda could attack the United States using hijacked aircraft.
+The report blames intelligence agencies.
+1433	TRUE	PP		112	19	1	110	19	1
+The report catalogues 10 missed opportunities within the CIA and FBI to uncover pieces of the September 11 plot.
+The report analyzes 10 missed opportunities within the CIA and FBI to uncover pieces of the September 11 plot.
+1434	TRUE	PP		112	19	1	76	13	1
+The report catalogues 10 missed opportunities within the CIA and FBI to uncover pieces of the September 11 plot.
+Ten missed opportunities within the CIA and FBI are uncovered in the report.
+1435	TRUE	PP		63	12	1	64	12	1
+Blair has sympathy for anyone who has lost their lives in Iraq.
+Blair is sympathetic to anyone who has lost their lives in Iraq.
+1436	TRUE	PP		63	12	1	59	12	1
+Blair has sympathy for anyone who has lost their lives in Iraq.
+Blair is sorry for anyone who has lost their lives in Iraq.
+1437	TRUE	PP		85	16	1	50	9	1
+Iraq would have been an unsafe, unsecure country that did pose a threat to the world.
+Iraq would have constituted a threat to the world.
+1438	TRUE	PP		85	16	1	50	10	1
+Iraq would have been an unsafe, unsecure country that did pose a threat to the world.
+A threat to the world would have arisen from Iraq.
+1439	TRUE	PP		103	16	1	111	17	1
+The prosecutor told the court that the incident had caused &quot;distress&quot; to one of the children.
+The prosecutor told the court that &quot;distress&quot; in one of the children is associated with the incident.
+1453	TRUE	QA		226	34	1	25	5	1
+The county Board of Supervisors accepted more than $700,000 in state grants Tuesday to extend a program that provides the controversial drug azidothymidine -- AZT -- to low-income residents with AIDS or AIDS-related illnesses.
+AZT is an AIDS treatment.
+1454	TRUE	QA		150	23	1	41	8	1
+In fact, Woolsey had had no first-hand experience with the world of spies until President Bill Clinton appointed him Director of Central Intelligence.
+James Woolsey is the director of the CIA.
+1456	FALSE	QA		259	49	1	40	8	1
+On his oak mantelpiece are a drinking bowl from Lake Turkana and an East African gourd, both of which he bought in Nairobi where he went in the fall of 1993 to visit Kitum Cave, the suspected host site for the Marburg virus, which is closely related to Ebola.
+The Ebola virus has been found in Zaire.
+1467	FALSE	IE		241	40	1	42	8	1
+In an address to the IAEA board of governors in Vienna, Hans Blix said a technical team that visited North Korea last month found that &quot;facilities subject to the freeze were not in operation and that construction work had stopped.&quot;
+Hans Blix is the director general of IAEA.
+1474	TRUE	QA		204	28	1	39	6	1
+To avoid further price-gouging, Norway&apos;s Ministry of Government Administration announced that it was freezing prices on lodging, food and beverages in the Lillehammer area during the Winter Olympics.
+Norway hosted the Winter Olympic Games.
+1486	TRUE	QA		221	38	1	41	8	1
+Now it&apos;s Romania-Argentina at the Rose Bowl today -- and with a victory, it&apos;s on to the quarterfinals at Stanford, and a victory there and Romania will be back in Pasadena for the semifinals and World Cup final.
+The World Cup final was held in Pasadena.
+1490	TRUE	QA		263	38	1	24	5	1
+&quot;It&apos;s Only a Play&quot; is Terrence McNally&apos;s &quot;Give My Regards to Broadway,&quot; a lightweight tribute to the theater as seen from the lofty but limited vantage point of Broadway artists who are consumed by New York&apos;s hit/flop mentality.
+Broadway is in New York.
+1493	TRUE	QA		211	32	1	50	7	1
+&quot;We&apos;ve never had a core (business) thing,&quot; founder Richard Branson told Reuters at the launch this month of Virgin Vodka, which, with Virgin cola and Virgin computers, are his latest bright ideas.
+Richard Branson&apos;s cola is called Virgin Cola.
+1494	TRUE	QA		201	33	1	37	6	1
+The demands on Italy&apos;s 53rd postwar government are apparent, as are the resentment and uncertainties Berlusconi has roused at the head of a new party with the catchy name Forza Italia (Go, Italy).
+Silvio Berlusconi is in Forza Italia.
+1599	TRUE	IE		104	16	1	52	9	1
+The board of Marks &amp; Spencer will take another look at Philip Green&apos;s increased takeover offer.
+Philip Green tries to take over Marks &amp; Spencer.
+1600	TRUE	IE		126	17	1	53	9	1
+Schroder Investment Management has indicated its intention to accept Revival&apos;s offer to buy retailer Marks &amp; Spencer.
+Revival tries to take over Marks &amp; Spencer Group.
+1601	FALSE	IE		114	18	1	48	9	1
+Mr Green, Marks &amp; Spencer&apos;s new owner, has made a lot of money by taking over underperforming businesses.
+Mr Green tries to take over Marks &amp; Spencer.
+1604	FALSE	IE		116	18	1	72	9	1
+A brother of Colombia&apos;s education minister has been killed by Marxist rebels who kidnapped him three years ago.
+Colombia&apos;s education minister has been kidnapped by Marxist rebels.
+1605	TRUE	IE		107	18	1	44	8	1
+Deployment of workers to Iraq has been halted after the reported hostage-taking of a Filipino man by gunmen
+A Filipino man has been kidnapped by gunmen.
+1612	TRUE	IE		116	18	1	41	7	1
+With South Carolina being Jesse Jackson&apos;s home state, there was a very strong incentive in the black community.
+Jesse Jackson was born in South Carolina.
+1614	TRUE	IE		85	14	1	44	8	1
+CBS newsman Harry Reasoner is returning to his Iowa hometown to get married Saturday.
+CBS newsman Harry Reasoner was born in Iowa.
+1619	TRUE	IE		156	24	1	37	6	1
+Illinois born Charlton Heston was a 27-year-old actor from Broadway and television when he arrived in Hollywood for a five-picture contract with Hal Wallis.
+Charlton Heston was born in Illinois.
+1626	TRUE	IE		154	28	1	35	7	1
+As a real native Detroiter, I want to remind everyone that Madonna is from Bay City, Mich., a nice place in the thumb of the state&apos;s lower peninsula.
+Madonna was born in Bay City, Mich.
+1631	TRUE	IE		124	17	1	35	6	1
+&quot;Sculptures by Duane Hanson&quot; is an exhibition of lifelike people sculptures created by this Minnesota born artist.
+Duane Hanson was born in Minnesota.
+1635	TRUE	IE		140	22	1	51	7	1
+In 1865, John Wilkes Booth, the assassin of President Abraham Lincoln, was surrounded by federal troops near Bowling Green, Va., and killed.
+John Wilkes Booth killed President Abraham Lincoln.
+1636	TRUE	IE		118	19	1	29	4	1
+Sirhan Sirhan, a Jordanian immigrant, was convicted of murdering Kennedy and is serving a life term at Soledad Prison.
+Sirhan Sirhan killed Kennedy.
+1637	TRUE	IE		188	34	1	51	8	1
+Twenty years ago, on June 6, 1968, Sen. Robert F. Kennedy died at Good Samaritan Hospital in Los Angeles, 25 -LCB- hours after he was shot at the Ambassador Hotel by Sirhan Bishara Sirhan.
+Sirhan Bishara Sirhan killed Sen. Robert F. Kennedy
+1638	TRUE	IE		268	46	1	46	7	1
+Yount, who was living in Coeur under the alias James Marvin Forsgren, was sentenced to life in prison for his conviction on first-degree murder and rape charges in the 1966 slaying of Pamela Sue Rimer, a student in his high school mathematics class in Luthersberg, Pa.
+James Marvin Forsgren killed Pamela Sue Rimer.
+1639	TRUE	IE		77	14	1	33	5	1
+Lennon was murdered by Mark David Chapman outside the Dakota on Dec. 8, 1980.
+Mark David Chapman killed Lennon.
+1652	TRUE	IE		49	9	1	34	6	1
+Rome is in Lazio province and Naples in Campania.
+Rome is located in Lazio province.
+1658	TRUE	IE		135	21	1	26	5	1
+DAYTON, Ohio. A cargo plane bound for Montreal with a small quantity of hazardous chemicals crashed and exploded shortly after takeoff.
+Dayton is located in Ohio.
+1659	TRUE	IE		186	36	1	54	10	1
+The Anzio beachhead, 33 miles south of Rome, saw some of the bloodiest fighting of World War II, and accounted for many of the 10,000 US battle deaths in Italy in the first half of 1944.
+The Anzio beachhead is located 33 miles south of Rome.
+1665	TRUE	IE		140	23	1	53	8	1
+He graduated from high school from Benton, Tenn. and from Tennessee Tech. in Cookville, and holds a doctorate in physics from Virginia Tech.
+Tennessee Tech is an organisation based in Cookville.
+1806	FALSE	CD		178	26	1	106	16	1
+Vanunu, 49, was abducted by Israeli agents and convicted of treason in 1986 after discussing his work as a mid-level Dimonatechnician with Britain&apos;s Sunday Times newspaper.
+Vanunu&apos;s disclosures in 1968 led experts to conclude that Israel has a stockpile of nuclear warheads.
+1902	FALSE	IE		67	13	1	32	6	1
+Sonia Gandhi can be defeated in the next elections in India by BJP.
+Sonia Gandhi is defeated by BJP.
+1908	FALSE	IE		108	18	1	33	6	1
+Romano Prodi will meet the US President George Bush in his capacity as president of the European commission.
+Romani Prodi is the US President.
+1910	FALSE	IE		108	18	1	56	9	1
+Romano Prodi will meet the US President George Bush in his capacity as president of the European commission.
+George Bush is the president of the European Commission.
+1914	FALSE	IE		202	31	1	43	6	1
+Like the United States, U.N. officials are also dismayed that Aristide killed a conference called by Prime Minister Robert Malval in Port-au-Prince in hopes of bringing all the feuding parties together.
+Aristide kills Prime Minister Robert Malval
+1917	TRUE	IE		213	32	1	70	9	1
+There can be no doubt that the Administration already is weary of Aristide, a populist Roman Catholic priest who in December, 1990, won an overwhelming victory in Haiti&apos;s only democratic presidential election
+Haiti&apos;s only democratic presidential election took place in 1990.
+1918	TRUE	IE		166	25	1	56	9	1
+The organizing committee said 65 countries have entered the Lillehammer Olympic Games, matching the number of nations at the 1992 Winter Games in Albertville, France.
+65 countries take part in the Lillehammer Olympic Games.
+1926	FALSE	IE		154	25	1	43	8	1
+Ahern, who was travelling to Tokyo for an EU-Japan summit yesterday, will consult with other EU leaders about the election of the EU commission president.
+EU leaders take part in an EU-Japan summit.
+1927	FALSE	IE		266	37	1	74	10	1
+The organizers of the 15th International AIDS Conference, scheduled for next month in Bangkok, Thailand, on Saturday responded to press reports that a prominent hotel in Bangkok discriminated against HIV-positive visitors attending a different conference this month.
+HIV-positive visitors take part in the 15th International AIDS Conference.
+1929	TRUE	IE		222	36	1	33	5	1
+Teenage sensation Wayne Rooney powered England into the quarter-finals of Euro 2004 with two goals in Monday&apos;s 4-2 defeat of Croatia and they were joined in the last eight by champions France who beat Switzerland 3-1.
+France participates in Euro 2004.
+1930	TRUE	IE		212	29	1	37	6	1
+The G8 summit, held June 8-10, brought together leaders of the world&apos;s major industrial democracies, including Canada, France, Germany, Italy, Japan, Russia, United Kingdom, European Union and United States.
+Canada participates in the G8 summit.
+1931	TRUE	IE		129	22	1	47	9	1
+Three of its five permanent members, France, Russia and China, are pushing the U.N. Security Council to lift the embargo on Iraq.
+China is a member of the U.N. Security Council.
+1933	FALSE	IE		202	31	1	80	13	1
+Like the United States, U.N. officials are also dismayed that Aristide killed a conference called by Prime Minister Robert Malval in Port-au-Prince in hopes of bringing all the feuding parties together.
+U.N. officials take part in a conference called by Prime Minister Robert Malval.
+1934	TRUE	IE		245	35	1	42	7	1
+Evans Paul, the pro-Aristide mayor of Port-au-Prince, said he had been told that the money will go to American lobbyists, politicians and journalists to campaign against the return of Aristide, Haiti&apos;s first democratically elected president
+Evans Paul is the mayor of Port-au-Prince.
+1935	FALSE	IE		245	35	1	40	6	1
+Evans Paul, the pro-Aristide mayor of Port-au-Prince, said he had been told that the money will go to American lobbyists, politicians and journalists to campaign against the return of Aristide, Haiti&apos;s first democratically elected president
+Aristide is the mayor of Port-au-Prince.
+1939	FALSE	IE		288	46	1	54	10	1
+The plan was released by Mr Dean on behalf of the Secretary of Health and Human Services, Tommy Thompson, still recovering from a recent accident, at a Secretarial Summit on Health Information Technology that was attended by many of the nation&apos;s leaders in electronic health records.
+Mr Dean is the Secretary of Health and Human Services.
+1946	FALSE	IE		152	23	1	16	3	1
+Oil prices eased back from record high levels after Russia&apos;s justice ministry said embattled oil giant Yukos can continue oil production and sales.
+Oil prices rise.
+1949	FALSE	IE		47	9	1	16	3	1
+Oil prices fall back as Yukos oil threat lifted
+Oil prices rise.
+1950	FALSE	IE		104	18	1	16	3	1
+Crude oil dips below $43 on news that Russia&apos;s justice ministry will not force Yukos to halt sales.
+Crude oil rises.
+1951	TRUE	IE		179	30	1	22	4	1
+Crude oil prices shot to new highs yesterday as markets reacted to a threat by Russian authorities to shut down most of the production from that country&apos;s largest oil company
+Crude oil prices rise.
+1953	FALSE	CD		100	16	1	122	16	1
+The latest attacks targeted the U-S embassy and a top prosecutor&apos;s office in the Uzbek capital.
+Yesterday&apos;s terrorist bombings killed two people at the entrance to the Israeli Embassy in Uzbekistan&apos;s capital.
+1959	FALSE	PP		54	12	1	16	3	1
+Kerry hit Bush hard on his conduct on the war in Iraq.
+Kerry shot Bush.
+1965	FALSE	PP		207	34	1	61	11	1
+Rich and poor nations struck a historic deal on Sunday to slash billions of dollars in farm subsidies, create more open industrial markets and revive stalled world trade talks that could boost global growth.
+Rich and poor nations crashed into a historic deal on Sunday.
+1966	TRUE	PP		165	29	1	88	15	1
+Relatives of a missing woman and her husband said late Saturday that new information from the husband has prompted them to call off a volunteer search for the woman.
+Relatives of a missing woman and her husband cancelled a volunteer search for the woman.
+1970	FALSE	PP		74	11	1	30	4	1
+The witness then spotted Rodriguez crouching behind a gate for protection.
+The witness rescued Rodriguez.
+1971	FALSE	PP		123	21	1	28	4	1
+Rodriguez was spotted by a witness running away from the stairwell where the backpack was found seconds before it went off.
+A witness rescued Rodriguez.
+1972	TRUE	PP		131	20	1	75	11	1
+Rodriguez told detectives he never touched the burning backpack, which was loaded with plastic pipes packed with gunpowder and BBs.
+The burning backpack contained plastic pipes packed with gunpowder and BBs.
+1975	FALSE	PP		51	8	1	52	8	1
+A matching fingerprint was discovered on the strap.
+A matching fingerprint was excavated from the strap.
+1976	FALSE	PP		75	9	1	77	9	1
+Bomb-sniffing dogs were brought to Rodriguez&apos;s Mulberry St. apartment.
+Bomb-sniffing dogs were estimated at Rodriguez&apos;s Mulberry St. apartment.
+1977	TRUE	PP		46	7	1	38	7	1
+His family has steadfastly denied the charges.
+The charges were denied by his family.
+1985	FALSE	PP		77	13	1	43	6	1
+Quebec woman and her mother accused of plotting to kill a four-year-old girl.
+Quebec woman murdered a four-year-old girl.
+1986	FALSE	PP		36	6	1	32	4	1
+The girl was found in Drummondville.
+Drummondville contains the girl.
+1989	FALSE	CD		118	22	1	94	16	1
+Intel has decided to push back the launch date for its 4-GHz Pentium 4 desktop processor to the first quarter of 2005.
+Intel would raise the clock speed of the company&apos;s flagship Pentium 4 processor to 4 GHz.
+1993	FALSE	PP		46	7	1	48	7	1
+Profits nearly doubled to nearly $1.8 billion.
+Profits nearly doubled from nearly $1.8 billion.
+2001	FALSE	IE		99	14	1	58	9	1
+Christoffer&apos;s family was identified only as an Air Force family living in Southern California.
+Air Force is an organisation based in Southern California.
+2002	FALSE	IE		109	17	1	67	10	1
+In 1973, the United States and Communist China agreed to establish liaison offices in Beijing and Washington.
+Communist China is an organisation based in Beijing and Washington.
+2004	FALSE	IE		85	16	1	25	4	1
+Bosch was found innocent in Venezuela of the bombing charges for a third time Aug. 7.
+Bosch lives in Venezuela.
+2007	FALSE	IE		207	34	1	83	12	1
+The program, financed with a grant from the UN Agency for International Development, is aimed at reducing infant mortality in Madagascar, an island nation in the Indian Ocean off the eastern coast of Africa.
+The UN Agency for International Development is an organisation based in Madagascar.
+2011	FALSE	IE		216	36	1	69	12	1
+Los Angeles Mayor James Hahn, along with top members of the Automobile Club of Southern California, along with will announce the kickoff of a $9 billion plan to fund Los Angeles County&apos;s Top Ten Traffic Busters.
+James Hahn is a member of the Automobile Club of Southern California.
+2013	TRUE	IE		162	27	1	36	7	1
+P. Prayong, who like Kevala belongs to the Theravada sect of Buddhism, chose India over other Buddhist majority nations as it is the birthplace of Gautama Buddha.
+P. Prayong is a member of Theravada.
+2015	FALSE	IE		164	27	1	28	5	1
+BTA said those injured in the fire at Borovets, 22 miles southeast of Sofia, were from Britain, the Soviet Union, West Germany, the Netherlands, Greece and Denmark.
+Sofia is located in Britain.
+2044	FALSE	QA		74	11	1	61	9	1
+Jacqueline B. Wender is Assistant to the President of Stanford University.
+Jacqueline B. Wender is the President of Stanford University.
+2046	FALSE	QA		69	7	1	47	7	1
+Hoover&apos;s director reports directly to Stanford&apos;s president.
+Hoover is the president of Stanford University.
+2050	FALSE	PP		61	9	1	61	9	1
+Five other soldiers have been ordered to face courts-martial.
+Five other soldiers have been refused to face courts-martial.
+2051	FALSE	PP		227	29	1	150	19	1
+Protesters, many from organized pro-government groups but including many ordinary citizens, carried anti-American banners and chanted slogans attacking U.N. Secretary-General Kofi Annan for his close alignment with U.S. policy.
+Protesters confiscated anti-American banners and chanted slogans attacking U.N. Secretary-General Kofi Annan for his close alignment with U.S. policy.
+2057	FALSE	QA		118	20	1	62	9	1
+The Hotel Moulin de Paris in 2.5km away from Disneyland Paris, and is located in the charming city of Magny-Le-Hongre.
+EuroDisney is located in the charming city of Magny-Le-Hongre.
+2059	FALSE	QA		119	20	1	46	7	1
+At eurodisney, once upon a time is now in this magical kingdom where childhood fantasies and make-believe come to life.
+EuroDisney is located in this magical kingdom.
+2060	FALSE	QA		208	35	1	60	7	1
+On this particular trip, Airbus, in cooperation with its partners, organized a trip for 80 children between the ages of 9 and 16 years from nearby National Children&apos;s Homes to visit EuroDisney for a day.
+EuroDisney is located nearby National Children&apos;s Homes.
+2061	FALSE	QA		131	23	1	43	7	1
+Although Eurodisney is a great family day out, visit also the chateaux in the area and the various parks and pretty small villages.
+EuroDisney is located in the various parks.
+2064	FALSE	QA		70	12	1	62	11	1
+The Osaka World Trade Center is the tallest building in Western Japan.
+The Osaka World Trade Center is the tallest building in Japan.
+2065	FALSE	QA		58	10	1	51	9	1
+The slender tower is the second tallest building in Japan.
+The slender tower is the tallest building in Japan.
+2066	FALSE	QA		187	31	1	38	7	1
+The tallest building in Tokyo and the second tallest building in Japan, the TMGO was conceived as a high-tech center from which Tokyo could be led into the promising twenty-first century.
+TMGO is the tallest building in Japan.
+2067	FALSE	QA		281	42	1	76	12	1
+Andreessen, who helped define the Internet revolution as part of team that created the first Internet browser (Mosaic) and his co-founding Netscape, told a packed hall at the San Francisco Marriott hotel Thursday that he is &quot;extremely committed&quot; to his startup Loudcloud.
+The Internet browser Mosaic was created at the San Francisco Marriott hotel.
+2068	FALSE	QA		76	14	1	38	7	1
+There are more than 4,000 street children in the capital city of Ulan Bator.
+The population of Ulan Bator is 4,000.
+2069	FALSE	QA		124	20	1	44	7	1
+Grieving father Christopher Yavelow hopes to deliver one million letters to the queen of Holland to bring his children home.
+Christopher Yavelow is the queen of Holland.
+2072	FALSE	QA		185	31	1	43	7	1
+In 1932 he joined the then illegal Communist party and held high government and party posts from 1942, becoming home secretary in 1948, when the Communist party took control in Hungary.
+Communist control in Hungary ended in 1948.
+2075	FALSE	IE		67	13	1	31	6	1
+Queen Victoria died in 1901, at Osborne House on the Isle of Wight.
+Queen Victoria was born in 1901
+2078	FALSE	QA		144	24	1	25	4	1
+Twelve of Jupiter&apos;s moons are relatively small and seem to have been more likely captured than to have been formed in orbit around Jupiter.
+Jupiter has Twelve moons.
+2080	FALSE	QA		78	16	1	25	5	1
+VCU School of the Arts In Qatar is located in Doha, the capital city of Qatar.
+Qatar is located in Doha.
+2081	FALSE	QA		73	14	1	30	5	1
+The main race track in Qatar is located in Shahaniya, on the Dukhan Road.
+Qatar is located in Shahaniya.
+2083	FALSE	IE		87	13	1	34	5	1
+The Irish Sales, Services and Marketing Operation of Microsoft was established in 1991.
+Microsoft was established in 1991.
+2084	FALSE	QA		100	17	1	34	5	1
+Microsoft Israel was founded in 1989 and became one of the first Microsoft branches outside the USA.
+Microsoft was established in 1989.
+2085	FALSE	IE		98	15	1	39	6	1
+The first Windows DNA lab outside Microsoft was established in suburban Philadelphia in June 1998.
+Microsoft was established in June 1998.
+2086	FALSE	QA		202	29	1	42	7	1
+Jigish Avalani, group manager of Windows DNA marketing at Microsoft, explains that Windows DNA refers to the Windows Distributed interNet Application architecture, launched by Microsoft in fall of 1997.
+Microsoft was established in fall of 1997.
+2089	FALSE	QA		105	19	1	61	10	1
+Prince Charles was previously married to Princess Diana, who died in a car crash in Paris in August 1997.
+Prince Charles and Princess Diana got married in August 1997.
+2094	FALSE	MT		32	6	1	33	6	1
+It was like hitting the jackpot.
+It was like removing the lottery.
+2095	FALSE	MT		66	10	1	84	14	1
+Scientists had thought all gamma-ray bursts had a standard energy.
+The scientists had thought that all explosions gamma the ray have a standard energy.
+2098	FALSE	MT		37	6	1	59	12	1
+U.S. consumer spending dived in June.
+The cost of the consumer of the United States fell in June.
+2099	FALSE	MT		59	12	1	37	6	1
+The cost of the consumer of the United States fell in June.
+U.S. consumer spending dived in June.
+2100	FALSE	MT		96	13	1	122	20	1
+Greenspan&apos;s stance has underpinned predictions the Fed will raise rates steadily this year.
+The position of Greenspan has propped up the predictions that the Fed will gradually elevate the east interest rates year.
+2101	FALSE	MT		48	9	1	54	9	1
+Both candidates are making a major push in Iowa.
+Both candidates are delivering a great attack in Iowa.
+2104	FALSE	MT		61	12	1	41	8	1
+It could mean to leave in the street to thousands of workers.
+It could lead to thousands of job losses.
+2105	FALSE	MT		212	32	1	230	41	1
+Brazil, Australia and Thailand argued that the EU, one of the world&apos;s largest exporters, broke WTO farm rules by exceeding limits on export subsidies laid down under WTO&apos;s 1994 Agreement on Agriculture.
+The three countries argued that UE, one of the greater exporter of the world, infringed the rules of the OMC when exceeding the limit of the subsidies to the exports indicated under the Agreement on Agriculture of the OMC in 1994.
+2107	FALSE	MT		50	9	1	90	15	1
+U.S. crude settled $1.32 lower at $42.83 a barrel.
+Crude the light American lowered to the closing 1.32 dollars, to 42.83 dollars the barrel.
+2110	FALSE	MT		111	16	1	91	12	1
+Journalists of the concealed BBC, that was made happen through advisers of London industralists, asked Slavkov.
+BBC undercover reporters, posing as consultants acting for London businessmen, ask Slavkov.
+2111	FALSE	MT		100	17	1	104	18	1
+Slavkov, accused in the Salt Lake scandal but later cleared, said he had been approached by Takatch.
+Slavkov, defendant in the scandal of Salt Lake but that later was exculpated, in fact said that Takatch.
+2115	FALSE	CD		104	18	1	108	17	1
+A senior al-Qaeda operative who was said to be planning an attack on Heathrow Airport has been arrested.
+Despite rumors, the British Home Office denied any specific threat had been made to target Heathrow airport.
+2116	FALSE	CD		148	23	1	70	13	1
+Abu Musa al-Hindi was arrested following a tip-off from Pakistani Intelligence who claimed that he was receiving direct orders from Osama bin Laden.
+The possibility of an attack began with the arrest of Naeem Noor Khan.
+2118	FALSE	CD		103	16	1	58	11	1
+Francis Deng believes the government will be receptive to the plan to deploy 1,800 peacekeeping troops.
+The AU said it may send a 2 000-strong peacekeeping force.
+2119	FALSE	CD		155	24	1	139	23	1
+Pakistani officials announced that two South African men in their custody had confessed to planning attacks at popular tourist spots in their home country.
+Two South Africans were arrested in Pakistan in the past week after a shoot-out at a house between al-Qaeda operatives and security forces.
+2120	FALSE	CD		32	6	1	68	11	1
+Six hostages in Iraq were freed.
+The four Jordanian hostages, kidnapped about a week ago, were freed.
+2128	FALSE	RC		155	28	1	59	10	1
+The kidnappers want the Kuwaiti firm that employs the men to stop doing business in Iraq and to pay compensation to the victims of U.S. strikes in Falluja.
+The kidnappers paid compensation to the victims of the U.S.
+2131	FALSE	RC		160	28	1	39	8	1
+U.S. light crude was trading erratically on the New York Mercantile Exchange, hitting $44.50 a barrel before easing back a bit to $44.10, still a gain of $1.27.
+The U.S. light crude is $1.27 a barrel.
+2132	FALSE	RC		204	29	1	55	10	1
+Ralph Fiennes, who has played memorable villains in such films as &apos;Red Dragon&apos; and &apos;Schindler&apos;s List,&apos; is to portray Voldemort, the wicked warlock, in the next Harry Potter movie.
+Ralph Fiennes will play Harry Potter in the next movie.
+2137	FALSE	IR		34	4	1	32	4	1
+Swedish Foreign Minister murdered.
+Swedish prime minister murdered.
+2140	FALSE	IR		155	27	1	35	6	1
+Turkey is unlikely to become involved in, or allow U.S. forces to use Turkish territory in a Middle East war that does not threaten her territory directly.
+U.S. to use Turkish military bases.
+2141	FALSE	IR		49	9	1	42	7	1
+No Weapons of Mass Destruction Found in Iraq Yet.
+Weapons of Mass Destruction Found in Iraq.
+2142	FALSE	IR		139	23	1	42	7	1
+No stockpiles of weapons of mass destruction have been found in Iraq since Saddam&apos;s regime was toppled in a US-led invasion last year.
+Weapons of mass destruction found in Iraq.
+2143	FALSE	IR		107	20	1	42	7	1
+There is none. They found as many weapons in this masjid as they found weapons of mass destruction in Iraq.
+Weapons of mass destruction found in Iraq.
+2147	FALSE	CD		204	34	1	130	18	1
+Witnesses told police a gas canister exploded to start the fire in a multilevel building which houses the Ycua Bolanos supermarket, a food court and a parking garage, causing the bottom floor to collapse.
+Television footage showed several levels of the multi-level supermarket covered in soot, including the lower level parking garage.
+2154	FALSE	CD		79	14	1	35	6	1
+The GDP report showed growth in business outlays advanced at a solid 8.9% pace.
+The GDP was a disappointing report.
+2156	FALSE	CD		137	22	1	71	12	1
+Gross domestic product, a measure of total output within the nation&apos;s borders, climbed at a 3% annual pace in the April-June period.
+Annual rate increase of 3% in second quarter much lower than forecasts.
+2158	FALSE	CD		238	34	1	168	27	1
+Prosecutors were still expected to unseal an 11-count manslaughter indictment against the ferry&apos;s captain, Michael Gansas. He violated procedure by his absence from the wheelhouse during docking, when Smith lost control of the ferry.
+Mr Smith entered his guilty plea to 11 counts of manslaughter and also to lying to investigators about his medical history, under an agreement reached with prosecutors.
+2159	FALSE	CD		160	27	1	79	13	1
+The city ferry fleet shuttles about 70,000 people a day between Staten Island and Manhattan, a 5.2-mile trip across New York Harbor that takes about 25 minutes.
+The ferry taking commuters from Manhattan to Staten Island crashed into a pier.
+2160	FALSE	CD		127	16	1	79	12	1
+Prosecutors were still expected to unseal an 11-count manslaughter indictment against the ferry&apos;s captain, Michael Gansas.
+Gansas&apos; attorneys have said that rule was not communicated to ferry staff.
+2161	FALSE	CD		68	11	1	67	10	1
+City officials fired the captain of the crashed Staten Island ferry.
+Staten Island ferry captain has refused to talk with investigators.
+2164	FALSE	CD		81	16	1	72	11	1
+With $549 million in cash as of June 30, Google can easily afford to make amends.
+Some 30 million shares have been assigned to the company&apos;s workers.
+2165	FALSE	CD		141	23	1	111	20	1
+Google Inc. is delaying its IPO by a week because of logistical problems related to institutional investors registering to bid on the shares.
+A delay for Google&apos;s IPO would push the deal later into a month that is traditionally light on IPO volume.
+2166	FALSE	CD		106	15	1	113	14	1
+In Wednesday&apos;s filing, Google said it planned to complete the IPO &quot;as soon as practicable.&quot;
+It&apos;s unclear whether Wednesday&apos;s twist will affect the timing of Google&apos;s initial public offering.
+2170	FALSE	CD		55	10	1	65	12	1
+Hacking reported his wife missing on July 19, a Monday.
+Mark Hacking was booked into the Salt Lake County Jail on Monday.
+2172	FALSE	CD		146	24	1	116	21	1
+Benjamin Vanderford, 22, said he posted the 55-second clip, which shows a knife sawing against his neck, on an online file-sharing network in May.
+Mr Vanderford said he filmed his own mock execution in a friend&apos;s garage to show how the media could be fooled.
+2174	FALSE	CD		83	12	1	87	12	1
+Al-Jazeera broadcasts to millions of Arab viewers from headquarters in Doha, Qatar.
+Al-Jazeera has occasionally run into problems with authorities in other Arab countries.
+2177	FALSE	CD		108	16	1	44	6	1
+Only 14 percent of U.S. mothers exclusively breast-feed their babies for the minimum recommended six months.
+There are many benefits from breast-feeding.
+2178	FALSE	CD		141	24	1	99	16	1
+For women who are HIV negative or who do not know their HIV status, breastfeeding should be protected, promoted and supported for six months.
+For HIV-positive mothers, the decision about whether or not to breastfeed a child can be difficult.
+2180	FALSE	RC		138	23	1	50	8	1
+Speaking outside the hospital moments after getting her child back, Ciancio said she was confident all along that the baby would be found.
+Ciancio was hospitalized for speaking to the baby.
+2181	FALSE	RC		178	29	1	40	7	1
+Two bombs planted near an Islamic school in Pakistan killed eight people and injured 42 others yesterday in the latest outbreak of violence gripping the southern port of Karachi.
+42 people killed in Karachi bomb attack.
+2182	FALSE	RC		178	29	1	66	11	1
+Two bombs planted near an Islamic school in Pakistan killed eight people and injured 42 others yesterday in the latest outbreak of violence gripping the southern port of Karachi.
+Eight people planted two bombs near an Islamic school in Pakistan.
+2183	FALSE	RC		112	21	1	35	7	1
+One of the dead was a child, passing by with his parents, said Iqrar Abbasi, a doctor at Civil Hospital Karachi.
+A doctor was killed by his parents.
+2184	FALSE	RC		154	25	1	83	12	1
+Scotland Yard has been granted two more days to question nine of the 13 men arrested in co-ordinated anti-terrorism raids across the country last Tuesday.
+13 men killed in co-ordinated anti-terrorism raids across the country last Tuesday.
+2185	FALSE	RC		120	21	1	104	18	1
+The nine men, aged between 19 and 32, are being held at Paddington Green high security police station in central London.
+between 19 and 32 men are being held at Paddington Green high security police station in central London.
+2186	FALSE	RC		238	32	1	75	9	1
+One of two men &quot;released&quot; early on Saturday Mohammed Dawoud, 19, of Willesden, north-west London will appear before Horseferry Road magistrates&apos; court today charged with possession of forged identity documents, police said.
+Willesden will appear before Horseferry Road magistrates&apos; court today.
+2188	FALSE	RC		214	32	1	50	8	1
+A second man, aged 24, technically freed yesterday was bailed after being questioned over alleged forged identity documents, but has been further detained on immigration matters, a spokesman for Scotland Yard said.
+A spokesman for Scotland Yard was freed yesterday.
+2189	FALSE	RC		228	37	1	53	10	1
+Abu Eisa al-Hindi was said to have been involved in a plot to attack Heathrow airport, details of which were allegedly discovered on the computer of Abu Eisa al-Hindi, 25, an al-Qa&apos;ida suspect recently arrested in Pakistan.
+Abu Eisa al-Hindi is the father of Abu Eisa al-Hindi.
+2191	TRUE	CD		41	6	1	45	7	1
+Saudi Arabia was boosting its production.
+Saudi Arabia was boosting its own production.

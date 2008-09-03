@@ -1,0 +1,30 @@
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;  GET-ALL-SYNONYMS
+;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+(defun get-all-synonyms (word-token)
+  (setf synonym-list '())
+  (setf mini-synonym-list '())
+  
+  (loop
+      for pos-set-list in (snewnet::get-synsets-for-word word-token) 
+      do
+	(loop
+	    for synset in pos-set-list 
+	    do
+	      (loop for word in (snewnet::get-words synset)
+		  do (if (not (string= word-token (car word)))
+			 (setf mini-synonym-list
+			   (cons (car word) mini-synonym-list)))))
+	
+	(setf synonym-list (cons mini-synonym-list synonym-list))
+	(setf mini-synonym-list '())
+	
+	)
+  
+  (reverse synonym-list))

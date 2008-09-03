@@ -1,0 +1,3296 @@
+  "_slip_n_1_rel" : ARG0 x.
+  "_slip_v_1_rel" : ARG0 e, ARG1 p.
+  "_slip_v_2_rel" : ARG0 e, ARG1 p.
+  "_slip_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_slip_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_slip_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_slipper_n_1_rel" : ARG0 x.
+  "_slippery_a_1_rel" : ARG0 e, ARG1 p.
+  "_slipway_n_1_rel" : ARG0 x.
+  "_slit_n_1_rel" : ARG0 x.
+  "_slit_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_slope_n_1_rel" : ARG0 x.
+  "_slope_v_1_rel" : ARG0 e, ARG1 p.
+  "_slosh_n_1_rel" : ARG0 x.
+  "_slosh_v_1_rel" : ARG0 e, ARG1 p.
+  "_slot_n_1_rel" : ARG0 x.
+  "_slot_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_slow_a_1_rel" : ARG0 e, ARG1 p.
+  "_slow_a_1_rel" : ARG0 e, ARG1 e.
+  "_slow_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_slow_v_down_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_slow_v_up_rel" : ARG0 e, ARG1 p.
+  "_slumber_n_1_rel" : ARG0 x.
+  "_slumber_v_1_rel" : ARG0 e, ARG1 p.
+  "_slump_n_1_rel" : ARG0 x.
+  "_slump_v_1_rel" : ARG0 e, ARG1 p.
+  "_slush_n_1_rel" : ARG0 x.
+  "_slushy_a_1_rel" : ARG0 e, ARG1 p.
+  "_sly_a_1_rel" : ARG0 e, ARG1 p.
+  "_smack_n_1_rel" : ARG0 x.
+  "_smack_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smack_v_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smack_x_deg_rel" : ARG0 e, ARG1 u.
+  "_small-town_a_1_rel" : ARG0 e, ARG1 p.
+  "_small_a_1_rel" : ARG0 e, ARG1 p.
+  "_smallholder_n_1_rel" : ARG0 x.
+  "_smallholding_n_1_rel" : ARG0 x.
+  "_smart_a_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_smart_a_1_rel" : ARG0 e, ARG1 e.
+  "_smart_v_1_rel" : ARG0 e, ARG1 p.
+  "_smash_n_1_rel" : ARG0 x.
+  "_smash_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_smash_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smash_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_smell_n_of_rel" : ARG0 x, ARG1 x.
+  "_smell_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_smell_v_2_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smell_v_of_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_smelt_n_1_rel" : ARG0 x.
+  "_smelt_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smile_n_1_rel" : ARG0 x.
+  "_smile_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smile_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smoke_n_1_rel" : ARG0 x.
+  "_smoke_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smoker_n_of_rel" : ARG0 x, ARG1 x.
+  "_smoking_n_1_rel" : ARG0 x.
+  "_smoky_a_1_rel" : ARG0 e, ARG1 p.
+  "_smooch_n_1_rel" : ARG0 x.
+  "_smooch_v_1_rel" : ARG0 e, ARG1 p.
+  "_smooth_a_1_rel" : ARG0 e, ARG1 p.
+  "_smooth_a_1_rel" : ARG0 e, ARG1 e.
+  "_smooth_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smooth_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smooth_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_smuggle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smuggle_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_smuggle_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snack_n_1_rel" : ARG0 x.
+  "_snag_n_1_rel" : ARG0 x.
+  "_snag_v_1_rel" : ARG0 e, ARG1 p.
+  "_snag_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snail_n_1_rel" : ARG0 x.
+  "_snake_n_1_rel" : ARG0 x.
+  "_snake_v_1_rel" : ARG0 e, ARG1 p.
+  "_snakebite_n_1_rel" : ARG0 x.
+  "_snap_n_1_rel" : ARG0 x.
+  "_snap_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_snap_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snap_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snap_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_snap_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snare_n_1_rel" : ARG0 x.
+  "_snare_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snarl_n_1_rel" : ARG0 x.
+  "_snarl_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_snarl_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snarl_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snatch_n_1_rel" : ARG0 x.
+  "_snatch_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snatch_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snatch_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sneak_n_1_rel" : ARG0 x.
+  "_sneak_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ], [ ARG3 h ].
+  "_sneaker_n_1_rel" : ARG0 x.
+  "_sniff_n_1_rel" : ARG0 x.
+  "_sniff_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sniff_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_sniff_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sniff_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snob_n_1_rel" : ARG0 x.
+  "_snore_v_1_rel" : ARG0 e, ARG1 p.
+  "_snort_n_1_rel" : ARG0 x.
+  "_snort_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snort_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_snort_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snout_n_1_rel" : ARG0 x.
+  "_snow+bunting_n_1_rel" : ARG0 x.
+  "_snow+bunting_n_kind_rel" : ARG0 x { NUM sg, DIV + }.
+  "_snow+plow_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snow-covered_a_1_rel" : ARG0 e, ARG1 p.
+  "_snow-filled_a_1_rel" : ARG0 e, ARG1 p.
+  "_snow_n_1_rel" : ARG0 x.
+  "_snow_v_1_rel" : ARG0 e.
+  "_snowcapped_a_1_rel" : ARG0 e, ARG1 p.
+  "_snowdrift_n_1_rel" : ARG0 x.
+  "_snowfield_n_1_rel" : ARG0 x.
+  "_snowmelt_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_snowmobile_n_1_rel" : ARG0 x.
+  "_snowpack_n_1_rel" : ARG0 x.
+  "_snowpatrol_n_1_rel" : ARG0 x.
+  "_snowplow_n_1_rel" : ARG0 x.
+  "_snowplow_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_snowslope_n_1_rel" : ARG0 x.
+  "_snowy_a_1_rel" : ARG0 e, [ ARG1 p ].
+  "_snug_a_1_rel" : ARG0 e, ARG1 p.
+  "_snug_a_1_rel" : ARG0 e, ARG1 e.
+  "_snuggle_v_down_rel" : ARG0 e, ARG1 p.
+  "_snuggle_v_up_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_so+as+to_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_so+called_a_1_rel" : ARG0 e, ARG1 p.
+  "_so+far_a_1_rel" : ARG0 e, ARG1 e.
+  "_so+so_a_1_rel" : ARG0 e, ARG1 h.
+  "_so+that_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_so+to+speak_a_1_rel" : ARG0 e, ARG1 e.
+  "_so_a_1_rel" : ARG0 e, ARG1 e.
+  "_so_a_thus_rel" : ARG0 e, ARG1 h.
+  "_so_a_true_rel" : ARG0 e, [ ARG1 u ].
+  "_soak_n_1_rel" : ARG0 x.
+  "_soak_v_1_rel" : ARG0 e, ARG1 p.
+  "_soak_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_soak_v_in_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_soak_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_soaking+wet_a_1_rel" : ARG0 e, ARG1 p.
+  "_soap_n_1_rel" : ARG0 x.
+  "_soap_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_soap_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_soapstone_n_1_rel" : ARG0 x.
+  "_soar_v_1_rel" : ARG0 e, ARG1 p.
+  "_sob_n_1_rel" : ARG0 x.
+  "_sob_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sober_a_1_rel" : ARG0 e, ARG1 p.
+  "_sober_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sober_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_soccer_n_1_rel" : ARG0 x.
+  "_social+security_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_social_a_1_rel" : ARG0 e, ARG1 p.
+  "_social_a_1_rel" : ARG0 e, ARG1 e.
+  "_socialism_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_socialist_n_1_rel" : ARG0 x.
+  "_socialize_v_1_rel" : ARG0 e, ARG1 p.
+  "_society_n_of_rel" : ARG0 x, ARG1 x.
+  "_sociological_a_1_rel" : ARG0 e, ARG1 p.
+  "_sociology_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sock_n_1_rel" : ARG0 x.
+  "_sock_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sock_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_socket_n_1_rel" : ARG0 x.
+  "_sod_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_soda_n_1_rel" : ARG0 x.
+  "_sodium_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sofa_n_1_rel" : ARG0 x.
+  "_soft_a_1_rel" : ARG0 e, ARG1 p.
+  "_soft_a_1_rel" : ARG0 e, ARG1 e.
+  "_soften_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_soften_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_softness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_software_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_soggy_a_1_rel" : ARG0 e, ARG1 p.
+  "_soil_n_1_rel" : ARG0 x.
+  "_soil_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_solace_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_solar+powered_a_1_rel" : ARG0 e, ARG1 p.
+  "_solar_a_1_rel" : ARG0 e, ARG1 p.
+  "_solar_n_1_rel" : ARG0 x.
+  "_solarium_n_1_rel" : ARG0 x.
+  "_sold+out_a_1_rel" : ARG0 e, ARG1 p.
+  "_soldier_n_1_rel" : ARG0 x.
+  "_soldiery_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_soldiery_n_1_rel" : ARG0 x { NUM pl }.
+  "_sole_a_1_rel" : ARG0 e, ARG1 e.
+  "_sole_a_1_rel" : ARG0 e, ARG1 p.
+  "_sole_n_1_rel" : ARG0 x.
+  "_solemn_a_1_rel" : ARG0 e, ARG1 p.
+  "_solemnity_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_solemnize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_solfeggio_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_solicit_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_solicitor_n_of_rel" : ARG0 x, ARG1 x.
+  "_solicitous_a_1_rel" : ARG0 e, ARG1 p.
+  "_solid_a_1_rel" : ARG0 e, ARG1 p.
+  "_solid_a_1_rel" : ARG0 e, ARG1 e.
+  "_solid_n_1_rel" : ARG0 x.
+  "_solidarity_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_solidify_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_solidity_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_solitary_a_1_rel" : ARG0 e, ARG1 p.
+  "_solitary_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_solitude_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_solmization_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_solo_a_1_rel" : ARG0 e, ARG1 e.
+  "_solo_n_1_rel" : ARG0 x.
+  "_solo_v_1_rel" : ARG0 e, ARG1 p.
+  "_solstice_n_1_rel" : ARG0 x.
+  "_solstitial_a_1_rel" : ARG0 e, ARG1 p.
+  "_solubility_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_soluble_a_1_rel" : ARG0 e, ARG1 p.
+  "_solution_n_of_rel" : ARG0 x, ARG1 x.
+  "_solve_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_solvent_a_1_rel" : ARG0 e, ARG1 p.
+  "_solvent_n_1_rel" : ARG0 x.
+  "_somber_a_1_rel" : ARG0 e, ARG1 p.
+  "_some+more_a_1_rel" : ARG0 e, ARG1 e.
+  "_some_n_meas_rel" : ARG0 x { DIV + }.
+  "_somehow+or+other_a_1_rel" : ARG0 e, ARG1 e.
+  "_somehow_a_1_rel" : ARG0 e, ARG1 e.
+  "_sometimes_a_1_rel" : ARG0 e, ARG1 e.
+  "_somewhat_a_1_rel" : ARG0 e, ARG1 e.
+  "_somewhat_x_deg_rel" : ARG0 e, ARG1 u.
+  "_son_n_of_rel" : ARG0 x, ARG1 x.
+  "_sonata_n_1_rel" : ARG0 x.
+  "_song_n_of_rel" : ARG0 x, ARG1 x.
+  "_songbird_n_1_rel" : ARG0 x.
+  "_sonnet_n_1_rel" : ARG0 x.
+  "_sonorous_a_1_rel" : ARG0 e, ARG1 p.
+  "_sonorous_a_1_rel" : ARG0 e, ARG1 e.
+  "_soon+after_a_1_rel" : ARG0 e, ARG1 e.
+  "_soon_a_1_rel" : ARG0 e, ARG1 e.
+  "_soot_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sooth_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_soothe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sooty_a_1_rel" : ARG0 e, ARG1 p.
+  "_sophisticate_n_1_rel" : ARG0 x.
+  "_sophisticated_a_1_rel" : ARG0 e, ARG1 p.
+  "_sore_a_1_rel" : ARG0 e, ARG1 p.
+  "_sore_n_1_rel" : ARG0 x.
+  "_sorry_a_1_rel" : ARG0 e, ARG1 h.
+  "_sorry_a_for_rel" : ARG0 e, ARG1 u, ARG2 h.
+  "_sorry_a_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sort+of_a_1_rel" : ARG0 e, ARG1 h.
+  "_sort+of_x_deg_rel" : ARG0 e, ARG1 u.
+  "_sort_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_sort_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sort_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_soul_n_1_rel" : ARG0 x.
+  "_soulful_a_1_rel" : ARG0 e, ARG1 p.
+  "_soulful_a_1_rel" : ARG0 e, ARG1 e.
+  "_sound_a_1_rel" : ARG0 e, ARG1 e.
+  "_sound_a_1_rel" : ARG0 e, ARG1 p.
+  "_sound_n_of_rel" : ARG0 x, ARG1 x.
+  "_sound_v_1_rel" : ARG0 e, ARG1 p.
+  "_sound_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sound_v_off_rel" : ARG0 e, ARG1 p.
+  "_sound_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sound_v_seem-to_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_sounding_n_1_rel" : ARG0 x.
+  "_soup_n_1_rel" : ARG0 x.
+  "_sour_a_1_rel" : ARG0 e, ARG1 e.
+  "_sour_a_1_rel" : ARG0 e, ARG1 p.
+  "_sour_a_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sour_v_1_rel" : ARG0 e, ARG1 p.
+  "_sour_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sour_v_on_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_source_n_of_rel" : ARG0 x, ARG1 u.
+  "_south+american_a_1_rel" : ARG0 e, ARG1 p.
+  "_south+korean_a_1_rel" : ARG0 e, ARG1 p.
+  "_south+korean_n_1_rel" : ARG0 x.
+  "_south_n_1_rel" : ARG0 x.
+  "_southbound_a_1_rel" : ARG0 e, ARG1 p.
+  "_southeast_n_1_rel" : ARG0 x.
+  "_southeast_n_of_rel" : ARG0 x, ARG1 x.
+  "_southeasterly_a_1_rel" : ARG0 e, ARG1 p.
+  "_southeastern_a_1_rel" : ARG0 e, ARG1 p.
+  "_southeastward_a_1_rel" : ARG0 e, ARG1 p.
+  "_southerly_a_1_rel" : ARG0 e, ARG1 p.
+  "_southern_a_1_rel" : ARG0 e, ARG1 p.
+  "_southward_a_1_rel" : ARG0 e, ARG1 p.
+  "_southwest_n_1_rel" : ARG0 x.
+  "_southwest_n_of_rel" : ARG0 x, ARG1 x.
+  "_southwesterly_a_1_rel" : ARG0 e, ARG1 p.
+  "_southwestern_a_1_rel" : ARG0 e, ARG1 p.
+  "_southwestward_a_1_rel" : ARG0 e, ARG1 p.
+  "_souvenir_n_1_rel" : ARG0 x.
+  "_sovereign_a_1_rel" : ARG0 e, ARG1 p.
+  "_sovereign_n_1_rel" : ARG0 x.
+  "_sovereignty_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_soviet_a_1_rel" : ARG0 e, ARG1 p.
+  "_sow_n_1_rel" : ARG0 x.
+  "_sow_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_space_n_of_rel" : ARG0 x, ARG1 x.
+  "_space_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_space_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spaceship_n_1_rel" : ARG0 x.
+  "_spacewalk_n_1_rel" : ARG0 x.
+  "_spacewalk_v_1_rel" : ARG0 e, ARG1 p.
+  "_spacious_a_1_rel" : ARG0 e, ARG1 p.
+  "_spade_n_1_rel" : ARG0 x.
+  "_spam_n_1_rel" : ARG0 x.
+  "_spammer_n_1_rel" : ARG0 x.
+  "_span_n_1_rel" : ARG0 x.
+  "_span_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spanish_a_1_rel" : ARG0 e, ARG1 p.
+  "_spanish_n_1_rel" : ARG0 x.
+  "_spanker_n_1_rel" : ARG0 x.
+  "_spar_n_1_rel" : ARG0 x.
+  "_spar_v_1_rel" : ARG0 e, ARG1 p.
+  "_spare_a_1_rel" : ARG0 e, ARG1 p.
+  "_spare_n_1_rel" : ARG0 x.
+  "_spare_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 x ].
+  "_spark_n_1_rel" : ARG0 x.
+  "_spark_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spark_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sparkle_v_1_rel" : ARG0 e, ARG1 p.
+  "_sparrow_n_1_rel" : ARG0 x.
+  "_sparse_a_1_rel" : ARG0 e, ARG1 p.
+  "_sparse_a_1_rel" : ARG0 e, ARG1 e.
+  "_spatial_a_1_rel" : ARG0 e, ARG1 p.
+  "_spawn_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_spawn_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_speak_v_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_speak_v_to_rel" : ARG0 e, ARG1 p, [ ARG2 u ], [ ARG3 x ].
+  "_speak_v_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_speaker_n_1_rel" : ARG0 x.
+  "_spear_n_1_rel" : ARG0 x.
+  "_spear_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_special+order_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_special_a_1_rel" : ARG0 e, ARG1 e.
+  "_special_a_1_rel" : ARG0 e, ARG1 p.
+  "_special_n_1_rel" : ARG0 x.
+  "_specialist_n_1_rel" : ARG0 x.
+  "_specialize_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_specialize_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_speciation_n_of_rel" : ARG0 x, ARG1 x.
+  "_species_n_of-n_rel" : ARG0 x, [ ARG1 x ].
+  "_specific_a_1_rel" : ARG0 e, ARG1 p.
+  "_specific_a_1_rel" : ARG0 e, ARG1 e.
+  "_specification_n_for_rel" : ARG0 x, ARG1 x.
+  "_specifics_n_of_rel" : ARG0 x { NUM pl }, ARG1 x.
+  "_specify_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_specify_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_specimen_n_1_rel" : ARG0 x.
+  "_specious_a_1_rel" : ARG0 e, ARG1 p.
+  "_speck_n_1_rel" : ARG0 x.
+  "_spectacle_n_of_rel" : ARG0 x, ARG1 x.
+  "_spectacular_a_1_rel" : ARG0 e, ARG1 p.
+  "_spectator_n_1_rel" : ARG0 x.
+  "_spectrometer_n_1_rel" : ARG0 x.
+  "_spectrometric_a_1_rel" : ARG0 e, ARG1 p.
+  "_spectrometry_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_spectrum_n_1_rel" : ARG0 x.
+  "_speculate_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_speculation_n_about_rel" : ARG0 x, ARG1 x.
+  "_speculative_a_1_rel" : ARG0 e, ARG1 p.
+  "_speech_n_1_rel" : ARG0 x.
+  "_speechless_a_1_rel" : ARG0 e, ARG1 p.
+  "_speed_n_1_rel" : ARG0 x.
+  "_speed_v_1_rel" : ARG0 e, ARG1 p.
+  "_speed_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_speeder_n_1_rel" : ARG0 x.
+  "_spell_n_1_rel" : ARG0 x.
+  "_spell_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spell_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spelling_n_1_rel" : ARG0 x.
+  "_spend_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_sperm_n_1_rel" : ARG0 x.
+  "_sphere_n_1_rel" : ARG0 x.
+  "_spherical_a_1_rel" : ARG0 e, ARG1 p.
+  "_spice_n_1_rel" : ARG0 x.
+  "_spice_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spicy_a_1_rel" : ARG0 e, ARG1 p.
+  "_spider_n_1_rel" : ARG0 x.
+  "_spike_n_1_rel" : ARG0 x.
+  "_spike_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spill_n_1_rel" : ARG0 x.
+  "_spill_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spill_v_out_rel" : ARG0 e, ARG1 p.
+  "_spill_v_over_rel" : ARG0 e, ARG1 p.
+  "_spin_n_1_rel" : ARG0 x.
+  "_spin_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spin_v_around_rel" : ARG0 e, ARG1 p.
+  "_spin_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_spindle_n_1_rel" : ARG0 x.
+  "_spindle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spine_n_1_rel" : ARG0 x.
+  "_spiral_n_1_rel" : ARG0 x.
+  "_spiral_v_1_rel" : ARG0 e, ARG1 p.
+  "_spire_n_1_rel" : ARG0 x.
+  "_spirit_n_1_rel" : ARG0 x.
+  "_spirit_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spirited_a_1_rel" : ARG0 e, ARG1 p.
+  "_spiritual_a_1_rel" : ARG0 e, ARG1 p.
+  "_spiritual_n_1_rel" : ARG0 x.
+  "_spirituous_a_1_rel" : ARG0 e, ARG1 p.
+  "_spit_n_1_rel" : ARG0 x.
+  "_spit_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spit_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spite_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_splash_n_1_rel" : ARG0 x.
+  "_splash_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_splendid_a_1_rel" : ARG0 e, ARG1 e.
+  "_splendid_a_1_rel" : ARG0 e, ARG1 p.
+  "_splendor_n_1_rel" : ARG0 x.
+  "_splint_n_1_rel" : ARG0 x.
+  "_splint_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_split_n_1_rel" : ARG0 x.
+  "_split_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_split_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_split_v_up-with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_split_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_splitoff_n_1_rel" : ARG0 x.
+  "_splurge_n_1_rel" : ARG0 x.
+  "_splurge_v_1_rel" : ARG0 e, ARG1 p.
+  "_spoil_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spoiled_a_1_rel" : ARG0 e, ARG1 p.
+  "_spoils_n_1_rel" : ARG0 x { NUM pl }.
+  "_spoke_n_1_rel" : ARG0 x.
+  "_spokesman_n_1_rel" : ARG0 x.
+  "_sponge_n_1_rel" : ARG0 x.
+  "_sponge_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sponge_v_off-of_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_spongy_a_1_rel" : ARG0 e, ARG1 p.
+  "_sponsor_n_of_rel" : ARG0 x, ARG1 x.
+  "_sponsor_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sponsorship_n_of_rel" : ARG0 x, ARG1 x.
+  "_spontaneous_a_1_rel" : ARG0 e, ARG1 e.
+  "_spontaneous_a_1_rel" : ARG0 e, ARG1 p.
+  "_spool_n_1_rel" : ARG0 x.
+  "_spool_v_1_rel" : ARG0 e, ARG1 p.
+  "_spool_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spoon_n_1_rel" : ARG0 x.
+  "_spoon_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_sporadic_a_1_rel" : ARG0 e, ARG1 p.
+  "_sporadic_a_1_rel" : ARG0 e, ARG1 e.
+  "_spore_n_1_rel" : ARG0 x.
+  "_sport_n_1_rel" : ARG0 x.
+  "_sport_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sporting_n_1_rel" : ARG0 x.
+  "_sports_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sportsman_n_1_rel" : ARG0 x.
+  "_spot_n_of_rel" : ARG0 x, ARG1 x.
+  "_spot_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_spotty_a_1_rel" : ARG0 e, ARG1 p.
+  "_spouse_n_of_rel" : ARG0 x, ARG1 x.
+  "_sprawl_n_1_rel" : ARG0 x.
+  "_sprawl_v_1_rel" : ARG0 e, ARG1 p.
+  "_sprawl_v_out_rel" : ARG0 e, ARG1 p.
+  "_spray_n_1_rel" : ARG0 x.
+  "_spray_v_with_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_spread_n_of_rel" : ARG0 x, ARG1 x.
+  "_spread_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spread_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_spreadsheet_n_1_rel" : ARG0 x.
+  "_sprig_n_1_rel" : ARG0 x.
+  "_sprightly_a_1_rel" : ARG0 e, ARG1 p.
+  "_spring_n_1_rel" : ARG0 x.
+  "_spring_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_spring_v_up_rel" : ARG0 e, ARG1 p.
+  "_sprinkle_n_of_rel" : ARG0 x, ARG1 x.
+  "_sprinkle_v_1_rel" : ARG0 e.
+  "_sprinkle_v_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sprint_v_1_rel" : ARG0 e, ARG1 p.
+  "_spry_a_1_rel" : ARG0 e, ARG1 p.
+  "_spur_n_1_rel" : ARG0 x.
+  "_spur_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spur_v_on_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 x ].
+  "_spurious_a_1_rel" : ARG0 e, ARG1 p.
+  "_spurn_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spy_n_1_rel" : ARG0 x.
+  "_spy_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_spy_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_squad_n_of_rel" : ARG0 x.
+  "_squad_n_of_rel" : ARG0 x { NUM pl, DIV - }.
+  "_squad_n_of_rel" : ARG0 x { NUM pl }, ARG1 x.
+  "_squadron_n_1_rel" : ARG0 x.
+  "_squander_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_square_a_1_rel" : ARG0 e, ARG1 p.
+  "_square_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_square_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_square_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_square_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_squash_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_squat_a_1_rel" : ARG0 e, ARG1 p.
+  "_squat_v_1_rel" : ARG0 e, ARG1 p.
+  "_squeeze_n_1_rel" : ARG0 x.
+  "_squeeze_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_squeeze_v_in_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_squeeze_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_squint_n_1_rel" : ARG0 x.
+  "_squint_v_1_rel" : ARG0 e, ARG1 p.
+  "_squint_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_squirrel_n_1_rel" : ARG0 x.
+  "_squirrel_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_squish_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_ssn_n_1_rel" : ARG0 x.
+  "_st_n_1_rel" : ARG0 x.
+  "_stab_n_1_rel" : ARG0 x.
+  "_stab_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stability_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_stabilize_v_1_rel" : ARG0 e, ARG1 p.
+  "_stabilize_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stable_a_1_rel" : ARG0 e, ARG1 p.
+  "_stable_n_1_rel" : ARG0 x.
+  "_stable_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stack_n_1_rel" : ARG0 x.
+  "_stack_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stack_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_stadium_n_1_rel" : ARG0 x.
+  "_staff_n_of_rel" : ARG0 x.
+  "_staff_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stag_n_1_rel" : ARG0 x.
+  "_stage_n_of_rel" : ARG0 x, ARG1 x.
+  "_stage_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stagger_n_1_rel" : ARG0 x.
+  "_stagger_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_stain_n_1_rel" : ARG0 x.
+  "_stain_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stair_n_1_rel" : ARG0 x.
+  "_staircase_n_1_rel" : ARG0 x.
+  "_stake_n_1_rel" : ARG0 x.
+  "_stake_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stale_a_1_rel" : ARG0 e, ARG1 p.
+  "_stall_n_1_rel" : ARG0 x.
+  "_stall_v_1_rel" : ARG0 e, ARG1 p.
+  "_stall_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stalwart_a_1_rel" : ARG0 e, ARG1 p.
+  "_stamen_n_1_rel" : ARG0 x.
+  "_stamp_n_1_rel" : ARG0 x.
+  "_stamp_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stamp_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stamp_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stance_n_1_rel" : ARG0 x.
+  "_stand_n_1_rel" : ARG0 x.
+  "_stand_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_stand_v_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stand_v_i_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stand_v_in-for_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_stand_v_in_rel" : ARG0 e, ARG1 p.
+  "_stand_v_out_rel" : ARG0 e, ARG1 p.
+  "_stand_v_up-for_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_stand_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_standard_a_1_rel" : ARG0 e, ARG1 p.
+  "_standard_n_1_rel" : ARG0 x.
+  "_standard_n_1_rel" : ARG0 x { NUM pl }.
+  "_standardize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_standby_a_1_rel" : ARG0 e, ARG1 e.
+  "_standby_n_1_rel" : ARG0 x.
+  "_stanza_n_1_rel" : ARG0 x.
+  "_star_n_1_rel" : ARG0 x.
+  "_star_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_stare_n_1_rel" : ARG0 x.
+  "_stare_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ], [ ARG3 h ].
+  "_stare_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stark_a_1_rel" : ARG0 e, ARG1 e.
+  "_stark_a_1_rel" : ARG0 e, ARG1 p.
+  "_start_n_1_rel" : ARG0 x.
+  "_start_v_1_rel" : ARG0 e, ARG1 p.
+  "_start_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_start_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_start_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_start_v_over_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_startac_n_1_rel" : ARG0 x.
+  "_started_a_1_rel" : ARG0 e, ARG1 p.
+  "_starter_n_of_rel" : ARG0 x, ARG1 x.
+  "_startle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_starvation_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_starve_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stash_n_1_rel" : ARG0 x.
+  "_stash_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_stash_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_state+of+the+art_a_1_rel" : ARG0 e, ARG1 p.
+  "_state_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_state_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_state_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_stated_a_1_rel" : ARG0 e, ARG1 e.
+  "_stately_a_1_rel" : ARG0 e, ARG1 p.
+  "_statement_n_of_rel" : ARG0 x, ARG1 x.
+  "_statesman_n_1_rel" : ARG0 x.
+  "_static_a_1_rel" : ARG0 e, ARG1 p.
+  "_static_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_station_n_1_rel" : ARG0 x.
+  "_station_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_stationary_a_1_rel" : ARG0 e, ARG1 p.
+  "_statistical_a_1_rel" : ARG0 e, ARG1 p.
+  "_statistical_a_1_rel" : ARG0 e, ARG1 e.
+  "_statistics_n_1_rel" : ARG0 x.
+  "_statuary_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_statue_n_1_rel" : ARG0 x.
+  "_status_n_of-as_rel" : ARG0 x, ARG1 x.
+  "_status_n_of-as_rel" : ARG0 x { NUM sg, DIV + }, ARG1 x.
+  "_statute_n_1_rel" : ARG0 x.
+  "_statutory_a_1_rel" : ARG0 e, ARG1 p.
+  "_stave_n_1_rel" : ARG0 x.
+  "_stave_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stavechurch_n_1_rel" : ARG0 x.
+  "_stay_n_1_rel" : ARG0 x.
+  "_stay_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_stay_v_over_rel" : ARG0 e, ARG1 p.
+  "_stay_v_prd_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_stead_n_1_rel" : ARG0 x.
+  "_steady_a_1_rel" : ARG0 e, ARG1 e.
+  "_steady_a_1_rel" : ARG0 e, ARG1 p.
+  "_steady_v_1_rel" : ARG0 e, ARG1 p.
+  "_steady_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_steak_n_1_rel" : ARG0 x.
+  "_steal_n_1_rel" : ARG0 x.
+  "_steal_v_from_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_steam_n_1_rel" : ARG0 x.
+  "_steam_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_steam_v_open_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_steamboat_n_1_rel" : ARG0 x.
+  "_steamer_n_1_rel" : ARG0 x.
+  "_steamship_n_1_rel" : ARG0 x.
+  "_steel_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_steel_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_steep_a_1_rel" : ARG0 e, [ ARG1 p ].
+  "_steep_a_1_rel" : ARG0 e, ARG1 e.
+  "_steep_v_1_rel" : ARG0 e, ARG1 p.
+  "_steep_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_steepen_v_1_rel" : ARG0 e, ARG1 p.
+  "_steeply_x_deg_rel" : ARG0 e, ARG1 u.
+  "_steepness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_steer_n_1_rel" : ARG0 x.
+  "_steer_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stellate_a_1_rel" : ARG0 e, ARG1 p.
+  "_stellate_n_1_rel" : ARG0 x.
+  "_stellate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stem_n_1_rel" : ARG0 x.
+  "_stem_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stem_v_from_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stench_n_1_rel" : ARG0 x.
+  "_step_n_1_rel" : ARG0 x.
+  "_step_n_of_rel" : ARG0 x, ARG1 x.
+  "_step_v_1_rel" : ARG0 e, ARG1 p.
+  "_step_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_step_v_out_rel" : ARG0 e, ARG1 p.
+  "_stereo_n_1_rel" : ARG0 x.
+  "_sterile_a_1_rel" : ARG0 e, ARG1 p.
+  "_sterilize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sterling_n_pound_rel" : ARG0 x { NUM pl }.
+  "_stern_a_1_rel" : ARG0 e, ARG1 p.
+  "_steward_n_1_rel" : ARG0 x.
+  "_stick_n_1_rel" : ARG0 x.
+  "_stick_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_stick_v_around_rel" : ARG0 e, ARG1 p.
+  "_stick_v_by_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stick_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_stick_v_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stick_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_stick_v_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sticker_n_1_rel" : ARG0 x.
+  "_sticky_a_1_rel" : ARG0 e, ARG1 p.
+  "_stiff_a_1_rel" : ARG0 e, ARG1 p.
+  "_stiff_n_1_rel" : ARG0 x.
+  "_stiffen_v_1_rel" : ARG0 e, ARG1 p.
+  "_stiffen_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stiffen_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_stifle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stigma_n_1_rel" : ARG0 x.
+  "_still_a_1_rel" : ARG0 e, ARG1 p.
+  "_still_a_1_rel" : ARG0 e, ARG1 e.
+  "_still_a_disc_rel" : ARG0 e, ARG1 h.
+  "_still_n_1_rel" : ARG0 x.
+  "_still_v_1_rel" : ARG0 e, ARG1 p.
+  "_still_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stillness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_stimulate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stimulation_n_of_rel" : ARG0 x, ARG1 x.
+  "_stimulus_n_of_rel" : ARG0 x, ARG1 x.
+  "_sting_n_1_rel" : ARG0 x.
+  "_sting_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stink_v_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stipulate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stipulate_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_stipulation_n_1_rel" : ARG0 x.
+  "_stir_n_1_rel" : ARG0 x.
+  "_stir_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stir_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stir_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stirring_n_1_rel" : ARG0 x.
+  "_stitch_n_1_rel" : ARG0 x.
+  "_stitch_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stoat_n_1_rel" : ARG0 x.
+  "_stock_n_1_rel" : ARG0 x.
+  "_stock_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stock_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_stockholder_n_1_rel" : ARG0 x.
+  "_stocking_n_1_rel" : ARG0 x.
+  "_stocky_a_1_rel" : ARG0 e, ARG1 p.
+  "_stolen_a_1_rel" : ARG0 e, ARG1 p.
+  "_stomach_n_1_rel" : ARG0 x.
+  "_stomach_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stone_n_1_rel" : ARG0 x.
+  "_stone_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stonepile_n_1_rel" : ARG0 x.
+  "_stony_a_1_rel" : ARG0 e, ARG1 p.
+  "_stool_n_1_rel" : ARG0 x.
+  "_stoop_n_1_rel" : ARG0 x.
+  "_stoop_v_1_rel" : ARG0 e, ARG1 p.
+  "_stop+payment_n_of_rel" : ARG0 x, ARG1 x.
+  "_stop_n_1_rel" : ARG0 x.
+  "_stop_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stop_v_by_rel" : ARG0 e, ARG1 p.
+  "_stop_v_from_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 h.
+  "_stop_v_in_rel" : ARG0 e, ARG1 p.
+  "_stop_v_off_rel" : ARG0 e, ARG1 p.
+  "_stop_v_over_rel" : ARG0 e, ARG1 p.
+  "_stop_v_prd_rel" : ARG0 e, ARG1 p.
+  "_stopover_n_1_rel" : ARG0 x.
+  "_storage_n_of_rel" : ARG0 x { NUM sg, DIV + }, ARG1 x.
+  "_store_n_1_rel" : ARG0 x.
+  "_store_v_1_rel" : ARG0 e, ARG1 p.
+  "_store_v_cause_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_storm_n_1_rel" : ARG0 x.
+  "_storm_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stormy_a_1_rel" : ARG0 e, ARG1 p.
+  "_story_n_of_rel" : ARG0 x, ARG1 x.
+  "_stout_a_1_rel" : ARG0 e, ARG1 p.
+  "_stout_n_1_rel" : ARG0 x.
+  "_stove_n_1_rel" : ARG0 x.
+  "_stow_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_straight_a_1_rel" : ARG0 e, ARG1 e.
+  "_straight_a_1_rel" : ARG0 e, ARG1 p.
+  "_straight_x_deg_rel" : ARG0 e, ARG1 u.
+  "_straighten_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_straighten_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_straighten_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_straightforward_a_1_rel" : ARG0 e, ARG1 p.
+  "_straightway_a_1_rel" : ARG0 e, ARG1 e.
+  "_strain_n_1_rel" : ARG0 x.
+  "_strain_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_strained_a_1_rel" : ARG0 e, ARG1 p.
+  "_strait_n_1_rel" : ARG0 x.
+  "_strake_n_1_rel" : ARG0 x.
+  "_strand_n_of_rel" : ARG0 x, ARG1 x.
+  "_strand_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_stranding_n_1_rel" : ARG0 x.
+  "_strange+looking_a_1_rel" : ARG0 e, ARG1 p.
+  "_strange_a_1_rel" : ARG0 e, ARG1 p.
+  "_strange_a_1_rel" : ARG0 e, ARG1 e.
+  "_stranger_n_1_rel" : ARG0 x.
+  "_strangle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_strap_n_1_rel" : ARG0 x.
+  "_strap_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_strap_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stratagem_n_1_rel" : ARG0 x.
+  "_strategic_a_1_rel" : ARG0 e, ARG1 p.
+  "_strategy_n_of_rel" : ARG0 x, ARG1 x.
+  "_stratum_n_1_rel" : ARG0 x.
+  "_straw_n_1_rel" : ARG0 x.
+  "_strawberry_a_1_rel" : ARG0 e, ARG1 p.
+  "_strawberry_n_1_rel" : ARG0 x.
+  "_stray_a_1_rel" : ARG0 e, ARG1 p.
+  "_stray_v_1_rel" : ARG0 e, ARG1 p.
+  "_streak_n_of_rel" : ARG0 x, ARG1 x.
+  "_streak_v_1_rel" : ARG0 e, ARG1 p.
+  "_stream_n_1_rel" : ARG0 x.
+  "_stream_n_of_rel" : ARG0 x, ARG1 x.
+  "_stream_v_1_rel" : ARG0 e, ARG1 p.
+  "_street_n_1_rel" : ARG0 x.
+  "_strength_n_1_rel" : ARG0 x.
+  "_strengthen_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_strenuous_a_1_rel" : ARG0 e, ARG1 p.
+  "_strenuous_a_1_rel" : ARG0 e, ARG1 e.
+  "_stress_n_1_rel" : ARG0 x.
+  "_stress_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stress_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_stressful_a_1_rel" : ARG0 e, ARG1 p.
+  "_stressful_a_1_rel" : ARG0 e, ARG1 e.
+  "_stretch_n_of_rel" : ARG0 x, ARG1 x.
+  "_stretch_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stretch_v_out_rel" : ARG0 e, ARG1 p.
+  "_stretch_v_over_rel" : ARG0 e, ARG1 p.
+  "_strew_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_strew_v_with_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_stricken_a_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_strict_a_1_rel" : ARG0 e, ARG1 e.
+  "_strict_a_1_rel" : ARG0 e, ARG1 p.
+  "_strictly+speaking_a_1_rel" : ARG0 e, ARG1 e.
+  "_stricture_n_1_rel" : ARG0 x.
+  "_stride_n_1_rel" : ARG0 x.
+  "_stride_v_1_rel" : ARG0 e, ARG1 p.
+  "_strike_n_1_rel" : ARG0 x.
+  "_strike_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_strike_v_as_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_strike_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_strike_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_striker_n_1_rel" : ARG0 x.
+  "_striking_a_1_rel" : ARG0 e, ARG1 e.
+  "_string_n_of_rel" : ARG0 x, ARG1 x.
+  "_string_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_string_v_along_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_string_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_strip_n_of_rel" : ARG0 x, ARG1 x.
+  "_strip_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_strip_v_of_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_strip_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stripe_n_1_rel" : ARG0 x.
+  "_stripe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_strive_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_strive_v_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stroke_n_1_rel" : ARG0 x.
+  "_stroke_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stroll_n_1_rel" : ARG0 x.
+  "_stroll_v_1_rel" : ARG0 e, ARG1 p.
+  "_stroll_v_along_rel" : ARG0 e, ARG1 p.
+  "_stroller_n_1_rel" : ARG0 x.
+  "_strong_a_1_rel" : ARG0 e, ARG1 e.
+  "_strong_a_1_rel" : ARG0 e, ARG1 p.
+  "_stronghold_n_1_rel" : ARG0 x.
+  "_structural_a_1_rel" : ARG0 e, ARG1 p.
+  "_structure_n_1_rel" : ARG0 x.
+  "_structure_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_structured_a_1_rel" : ARG0 e, ARG1 p.
+  "_struggle_n_1_rel" : ARG0 x.
+  "_struggle_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_struggle_v_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stubborn_a_1_rel" : ARG0 e, ARG1 p.
+  "_stuck+out_a_1_rel" : ARG0 e, ARG1 p.
+  "_stuck_a_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stud_n_1_rel" : ARG0 x.
+  "_stud_v_with_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_student_n_of_rel" : ARG0 x, ARG1 x.
+  "_studio_n_1_rel" : ARG0 x.
+  "_study_n_of_rel" : ARG0 x, ARG1 x.
+  "_study_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stuff_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_stuff_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stuffy_a_1_rel" : ARG0 e, ARG1 p.
+  "_stumble_n_1_rel" : ARG0 x.
+  "_stumble_v_1_rel" : ARG0 e, ARG1 p.
+  "_stumble_v_upon_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stump_n_1_rel" : ARG0 x.
+  "_stump_v_1_rel" : ARG0 e, ARG1 p.
+  "_stun_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stunt_n_1_rel" : ARG0 x.
+  "_stupendous_a_1_rel" : ARG0 e, ARG1 p.
+  "_stupendous_a_1_rel" : ARG0 e, ARG1 e.
+  "_stupid_a_1_rel" : ARG0 e, ARG1 p.
+  "_stupid_a_1_rel" : ARG0 e, ARG1 e.
+  "_sturdy_a_1_rel" : ARG0 e, ARG1 p.
+  "_style_n_1_rel" : ARG0 x.
+  "_style_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_stylish_a_1_rel" : ARG0 e, ARG1 p.
+  "_støl_n_1_rel" : ARG0 x.
+  "_sub+notebook_n_1_rel" : ARG0 x.
+  "_sub-_a_1_rel" : ARG0 e, ARG1 p.
+  "_sub_n_1_rel" : ARG0 x.
+  "_subarea_n_of_rel" : ARG0 x, ARG1 x.
+  "_subdivision_n_of_rel" : ARG0 x, ARG1 x.
+  "_subdue_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subgenus_n_1_rel" : ARG0 x.
+  "_subject_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subject_n_of_rel" : ARG0 x, ARG1 x.
+  "_subject_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_subjection_n_of_rel" : ARG0 x, ARG1 x.
+  "_subjective_a_1_rel" : ARG0 e, ARG1 p.
+  "_subjective_a_1_rel" : ARG0 e, ARG1 e.
+  "_subjunctive_a_1_rel" : ARG0 e, ARG1 p.
+  "_subjunctive_n_1_rel" : ARG0 x.
+  "_sublease_n_1_rel" : ARG0 x.
+  "_sublease_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sublimation_n_1_rel" : ARG0 x.
+  "_submarine_n_1_rel" : ARG0 x.
+  "_submerge_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_submission_n_of_rel" : ARG0 x, ARG1 x.
+  "_submissive_a_1_rel" : ARG0 e, ARG1 p.
+  "_submit_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_submit_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_subordinate_a_1_rel" : ARG0 e, ARG1 p.
+  "_subordinate_n_1_rel" : ARG0 x.
+  "_subordinate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subordination_n_of_rel" : ARG0 x, ARG1 x.
+  "_subpoena_n_1_rel" : ARG0 x.
+  "_subpoena_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subscribe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subscribe_v_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subscriber_n_to_rel" : ARG0 x, ARG1 x.
+  "_subscription_n_to_rel" : ARG0 x, ARG1 x.
+  "_subsequent_a_1_rel" : ARG0 e, ARG1 p.
+  "_subsequent_a_1_rel" : ARG0 e, ARG1 e.
+  "_subserve_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subservient_a_1_rel" : ARG0 e, ARG1 p.
+  "_subside_v_1_rel" : ARG0 e, ARG1 p.
+  "_subsidiary_a_1_rel" : ARG0 e, ARG1 p.
+  "_subsidiary_n_1_rel" : ARG0 x.
+  "_subsidy_n_of_rel" : ARG0 x, ARG1 x.
+  "_subsist_v_1_rel" : ARG0 e, ARG1 p.
+  "_subsist_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subsistence_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_substance_n_1_rel" : ARG0 x.
+  "_substandard_a_1_rel" : ARG0 e, ARG1 p.
+  "_substantial_a_1_rel" : ARG0 e, ARG1 p.
+  "_substantial_a_1_rel" : ARG0 e, ARG1 e.
+  "_substantiality_n_1_rel" : ARG0 x.
+  "_substantiate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_substantive_a_1_rel" : ARG0 e, ARG1 p.
+  "_substantive_a_1_rel" : ARG0 e, ARG1 e.
+  "_substantive_n_1_rel" : ARG0 x.
+  "_substitute_n_1_rel" : ARG0 x.
+  "_substitute_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_substitute_v_for_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_substitution_n_of_rel" : ARG0 x, ARG1 x.
+  "_substratum_n_1_rel" : ARG0 x.
+  "_subtend_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subtitle_n_1_rel" : ARG0 x.
+  "_subtitle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_subtle_a_1_rel" : ARG0 e, ARG1 p.
+  "_subtract_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suburb_n_1_rel" : ARG0 x.
+  "_suburbian_a_1_rel" : ARG0 e, ARG1 p.
+  "_subversive_a_1_rel" : ARG0 e, ARG1 p.
+  "_subversive_n_1_rel" : ARG0 x.
+  "_subway_n_1_rel" : ARG0 x.
+  "_succeed_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_succeed_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_success_n_1_rel" : ARG0 x.
+  "_successful_a_1_rel" : ARG0 e, ARG1 p.
+  "_successful_a_1_rel" : ARG0 e, ARG1 e.
+  "_succession_n_of_rel" : ARG0 x, ARG1 x.
+  "_successive_a_1_rel" : ARG0 e, ARG1 p.
+  "_successive_a_1_rel" : ARG0 e, ARG1 e.
+  "_successor_n_to_rel" : ARG0 x, ARG1 x.
+  "_succulence_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_succulent_a_1_rel" : ARG0 e, ARG1 p.
+  "_succulent_n_1_rel" : ARG0 x.
+  "_succumb_v_1_rel" : ARG0 e, ARG1 p.
+  "_succumb_v_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_such+as_x_h_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_such+that_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_such_a_1_rel" : ARG0 e, ARG1 u.
+  "_suck_v_1_rel" : ARG0 e, ARG1 p.
+  "_suck_v_2_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suck_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suck_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suck_v_up_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_sucker_n_for_rel" : ARG0 x, ARG1 x.
+  "_sucky_a_1_rel" : ARG0 e, ARG1 p.
+  "_sudden_a_1_rel" : ARG0 e, ARG1 p.
+  "_sudden_a_1_rel" : ARG0 e, ARG1 e.
+  "_sue_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suffer_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suffer_v_from_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suffer_v_through_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sufferer_n_1_rel" : ARG0 x.
+  "_suffering_n_1_rel" : ARG0 x.
+  "_suffice_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_sufficient_a_for_rel" : ARG0 e, ARG1 e.
+  "_sufficient_a_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sufficiently_x_deg_rel" : ARG0 e, ARG1 u.
+  "_suffix_n_1_rel" : ARG0 x.
+  "_suffocate_v_1_rel" : ARG0 e, ARG1 p.
+  "_suffocate_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suffrage_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_suggest_v_1_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_suggest_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_suggestion_n_of_rel" : ARG0 x, ARG1 u.
+  "_suicide_n_1_rel" : ARG0 x.
+  "_suit_n_of_rel" : ARG0 x, ARG1 x.
+  "_suit_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suitability_n_1_rel" : ARG0 x.
+  "_suitable_a_1_rel" : ARG0 e, ARG1 h, ARG2 u.
+  "_suitable_a_for-as_rel" : ARG0 e, ARG1 e.
+  "_suitable_a_for-as_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suitcase_n_of_rel" : ARG0 x, ARG1 x.
+  "_suite_n_1_rel" : ARG0 x.
+  "_suited_a_1_rel" : ARG0 e, ARG1 p.
+  "_suitor_n_1_rel" : ARG0 x.
+  "_sulfate_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sullen_a_1_rel" : ARG0 e, ARG1 e.
+  "_sullen_a_1_rel" : ARG0 e, ARG1 p.
+  "_sullenness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sully_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sulphate_n_1_rel" : ARG0 x.
+  "_sulphur_n_1_rel" : ARG0 x.
+  "_sulphuric_a_1_rel" : ARG0 e, ARG1 p.
+  "_sultan_n_1_rel" : ARG0 x.
+  "_sum_n_of_rel" : ARG0 x, ARG1 x.
+  "_sum_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_summarize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_summary_n_1_rel" : ARG0 x.
+  "_summary_n_of_rel" : ARG0 x, ARG1 x.
+  "_summer_v_1_rel" : ARG0 e, ARG1 p.
+  "_summertime_a_1_rel" : ARG0 e, ARG1 e.
+  "_summery_a_1_rel" : ARG0 e, ARG1 p.
+  "_summit_n_1_rel" : ARG0 x.
+  "_summon_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_summon_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_summons_n_1_rel" : ARG0 x.
+  "_sumptuous_a_1_rel" : ARG0 e, ARG1 p.
+  "_sun+baked_a_1_rel" : ARG0 e, ARG1 p.
+  "_sun_n_1_rel" : ARG0 x.
+  "_sun_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sunbathe_v_1_rel" : ARG0 e, ARG1 p.
+  "_sunbeam_n_1_rel" : ARG0 x.
+  "_sunblock_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sunder_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sundew_n_1_rel" : ARG0 x.
+  "_sundry_a_1_rel" : ARG0 e, ARG1 p.
+  "_sunglasses_n_1_rel" : ARG0 x { NUM pl }.
+  "_sunken_a_1_rel" : ARG0 e, ARG1 p.
+  "_sunlight_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sunlit_a_1_rel" : ARG0 e, ARG1 p.
+  "_sunny_a_1_rel" : ARG0 e, [ ARG1 p ].
+  "_sunny_a_1_rel" : ARG0 e, ARG1 e.
+  "_sunrise_n_1_rel" : ARG0 x.
+  "_sunscreen_n_1_rel" : ARG0 x.
+  "_sunset_n_1_rel" : ARG0 x.
+  "_sunshine_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_suntan_n_1_rel" : ARG0 x.
+  "_super+bowl_n_1_rel" : ARG0 x.
+  "_super_a_1_rel" : ARG0 e, ARG1 p.
+  "_super_x_deg_rel" : ARG0 e, ARG1 u.
+  "_superb_a_1_rel" : ARG0 e, ARG1 p.
+  "_superb_a_1_rel" : ARG0 e, ARG1 e.
+  "_superficial_a_1_rel" : ARG0 e, ARG1 e.
+  "_superficial_a_1_rel" : ARG0 e, ARG1 p.
+  "_superficies_n_1_rel" : ARG0 x.
+  "_superfluous_a_1_rel" : ARG0 e, ARG1 e.
+  "_superfluous_a_1_rel" : ARG0 e, ARG1 p.
+  "_superhuman_a_1_rel" : ARG0 e, ARG1 p.
+  "_superhuman_n_1_rel" : ARG0 x.
+  "_superimpose_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_superintendent_n_1_rel" : ARG0 x.
+  "_superior_a_1_rel" : ARG0 e, ARG1 p.
+  "_superior_n_1_rel" : ARG0 x.
+  "_superiority_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_supermarket_n_1_rel" : ARG0 x.
+  "_supernatural_a_1_rel" : ARG0 e, ARG1 p.
+  "_superposed_a_1_rel" : ARG0 e, ARG1 p.
+  "_supersede_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_superstition_n_1_rel" : ARG0 x.
+  "_superstitious_a_1_rel" : ARG0 e, ARG1 p.
+  "_superstitious_a_1_rel" : ARG0 e, ARG1 e.
+  "_supervise_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_supervision_n_of_rel" : ARG0 x, ARG1 x.
+  "_supervisor_n_of_rel" : ARG0 x, ARG1 x.
+  "_supper_n_1_rel" : ARG0 x.
+  "_supple_a_1_rel" : ARG0 e, ARG1 p.
+  "_supplement_n_of_rel" : ARG0 x, ARG1 x.
+  "_supplement_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_supplementary_a_1_rel" : ARG0 e, ARG1 p.
+  "_supplier_n_of_rel" : ARG0 x, ARG1 x.
+  "_supply_n_1_rel" : ARG0 x.
+  "_supply_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_support_n_of_rel" : ARG0 x, ARG1 x.
+  "_support_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_supporter_n_of_rel" : ARG0 x, ARG1 x.
+  "_supportive_a_1_rel" : ARG0 e, ARG1 p.
+  "_suppose_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_suppose_v_1_rel" : ARG0 e { PROG + }, ARG1 p, ARG2 h.
+  "_suppose_v_1_rel" : ARG0 e { PERF + }, ARG1 p, ARG2 h.
+  "_supposed_a_1_rel" : ARG0 e, ARG1 u, [ ARG2 h ].
+  "_supposition_n_1_rel" : ARG0 x.
+  "_suppress_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suppression_n_1_rel" : ARG0 x.
+  "_supreme_a_1_rel" : ARG0 e, ARG1 p.
+  "_supremes_n_1_rel" : ARG0 x { NUM pl }.
+  "_surcharge_n_of_rel" : ARG0 x, ARG1 x.
+  "_sure_a_1_rel" : ARG0 e, ARG1 x.
+  "_sure_a_1_rel" : ARG0 e, ARG1 h.
+  "_sure_a_1_rel" : ARG0 e, ARG1 e.
+  "_sure_a_of_rel" : ARG0 e, ARG1 u, ARG2 h.
+  "_sure_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_surf_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_surf_v_1_rel" : ARG0 e, ARG1 p.
+  "_surface_n_1_rel" : ARG0 x.
+  "_surface_v_1_rel" : ARG0 e, ARG1 p.
+  "_surfeit_n_1_rel" : ARG0 x.
+  "_surfeit_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_surge_n_1_rel" : ARG0 x.
+  "_surge_v_1_rel" : ARG0 e, ARG1 p.
+  "_surgeon_n_1_rel" : ARG0 x.
+  "_surgery_n_1_rel" : ARG0 x.
+  "_surgical_a_1_rel" : ARG0 e, ARG1 p.
+  "_surname_n_1_rel" : ARG0 x.
+  "_surpass_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_surplus_n_of_rel" : ARG0 x, ARG1 x.
+  "_surprise_a_1_rel" : ARG0 e, ARG1 h.
+  "_surprise_n_1_rel" : ARG0 x.
+  "_surprise_v_1_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_surprised_a_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_surprising_a_1_rel" : ARG0 e, ARG1 e.
+  "_surprising_a_1_rel" : ARG0 e, ARG1 p.
+  "_surrender_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_surrender_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_surreptitious_a_1_rel" : ARG0 e, ARG1 e.
+  "_surround_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_surroundings_n_1_rel" : ARG0 x { NUM pl }.
+  "_surveillance_n_of_rel" : ARG0 x { NUM sg, DIV + }, ARG1 x.
+  "_survey_n_1_rel" : ARG0 x.
+  "_survey_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_surveyor_n_1_rel" : ARG0 x.
+  "_survival_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_survive_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_survivor_n_1_rel" : ARG0 x.
+  "_susceptibility_n_1_rel" : ARG0 x.
+  "_susceptible_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sushi_n_1_rel" : ARG0 x.
+  "_suspect_a_1_rel" : ARG0 e, ARG1 p.
+  "_suspect_n_1_rel" : ARG0 x.
+  "_suspect_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suspect_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_suspend_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_suspension_n_1_rel" : ARG0 x.
+  "_suspicion_n_1_rel" : ARG0 x, [ ARG1 h ].
+  "_suspicious_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sustain_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sustenance_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_sw_n_of_rel" : ARG0 x, ARG1 x.
+  "_swabian_n_1_rel" : ARG0 x.
+  "_swallow_n_1_rel" : ARG0 x.
+  "_swallow_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swallow_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swallow_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swamp_n_1_rel" : ARG0 x.
+  "_swamp_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swan_n_1_rel" : ARG0 x.
+  "_swan_v_1_rel" : ARG0 e, ARG1 p.
+  "_swap_n_of_rel" : ARG0 x, ARG1 x.
+  "_swap_v_for_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_swarm_n_of_rel" : ARG0 x, ARG1 x.
+  "_swarm_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swarm_v_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sway_n_1_rel" : ARG0 x.
+  "_sway_v_1_rel" : ARG0 e, ARG1 p.
+  "_sway_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swear_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swear_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_swear_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swear_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swear_v_to_rel" : ARG0 e, ARG1 p, ARG2 h, ARG3 x.
+  "_swear_v_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sweat_n_1_rel" : ARG0 x.
+  "_sweat_v_1_rel" : ARG0 e, ARG1 p.
+  "_sweat_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sweat_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sweater_n_1_rel" : ARG0 x.
+  "_sweats_n_1_rel" : ARG0 x { NUM pl }.
+  "_sweaty_a_1_rel" : ARG0 e, ARG1 p.
+  "_swede_n_1_rel" : ARG0 x.
+  "_swedish_a_1_rel" : ARG0 e, ARG1 p.
+  "_swedish_n_1_rel" : ARG0 x.
+  "_sweep_n_1_rel" : ARG0 x.
+  "_sweep_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sweep_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_sweet_a_to_rel" : ARG0 e, ARG1 e.
+  "_sweet_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_sweet_n_1_rel" : ARG0 x.
+  "_sweetness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_swell_a_1_rel" : ARG0 e, ARG1 p.
+  "_swell_n_1_rel" : ARG0 x.
+  "_swell_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swell_v_up_rel" : ARG0 e, ARG1 p.
+  "_swerve_v_1_rel" : ARG0 e, ARG1 p.
+  "_swift_a_1_rel" : ARG0 e, ARG1 p.
+  "_swift_a_1_rel" : ARG0 e, ARG1 e.
+  "_swig_n_1_rel" : ARG0 x.
+  "_swig_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swim_n_1_rel" : ARG0 x.
+  "_swim_v_1_rel" : ARG0 e, ARG1 p.
+  "_swimmer_n_1_rel" : ARG0 x.
+  "_swimming+pool_n_1_rel" : ARG0 x.
+  "_swimming_a_1_rel" : ARG0 e, ARG1 p.
+  "_swindle_n_1_rel" : ARG0 x.
+  "_swindle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swing_n_1_rel" : ARG0 x.
+  "_swing_v_1_rel" : ARG0 e, ARG1 p.
+  "_swing_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swirl_n_of_rel" : ARG0 x, ARG1 x.
+  "_swirl_v_1_rel" : ARG0 e, ARG1 p.
+  "_swirl_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_swiss_a_1_rel" : ARG0 e, ARG1 p.
+  "_swiss_n_1_rel" : ARG0 x.
+  "_switch_n_1_rel" : ARG0 x.
+  "_switch_v_1_rel" : ARG0 e, ARG1 p.
+  "_switch_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_switch_v_from-to_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_switch_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_switch_v_on_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_switchback_n_1_rel" : ARG0 x.
+  "_switchboard_n_1_rel" : ARG0 x.
+  "_sword_n_1_rel" : ARG0 x.
+  "_syllable_n_1_rel" : ARG0 x.
+  "_syllogism_n_1_rel" : ARG0 x.
+  "_symbol_n_of_rel" : ARG0 x, ARG1 x.
+  "_symbolic_a_1_rel" : ARG0 e, ARG1 e.
+  "_symbolic_a_1_rel" : ARG0 e, ARG1 p.
+  "_symbolical_a_1_rel" : ARG0 e, ARG1 p.
+  "_symbolize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_symmetric_a_1_rel" : ARG0 e, ARG1 p.
+  "_symmetrical_a_1_rel" : ARG0 e, ARG1 p.
+  "_symmetry_n_1_rel" : ARG0 x.
+  "_sympathetic_a_1_rel" : ARG0 e, ARG1 p.
+  "_sympathy_n_1_rel" : ARG0 x.
+  "_symphonic_a_1_rel" : ARG0 e, ARG1 p.
+  "_symphony_n_of_rel" : ARG0 x, ARG1 x.
+  "_symposium_n_1_rel" : ARG0 x.
+  "_symptom_n_1_rel" : ARG0 x.
+  "_synagogue_n_1_rel" : ARG0 x.
+  "_synchronize_v_with_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_syncline_n_1_rel" : ARG0 x.
+  "_syndrome_n_1_rel" : ARG0 x.
+  "_synonym_n_1_rel" : ARG0 x.
+  "_synonymous_a_1_rel" : ARG0 e, ARG1 p.
+  "_synopsis_n_1_rel" : ARG0 x.
+  "_syntactic_a_1_rel" : ARG0 e, ARG1 p.
+  "_syntax_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_synthesis_n_of_rel" : ARG0 x, ARG1 x.
+  "_synthesize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_synthetic_a_1_rel" : ARG0 e, ARG1 p.
+  "_synthetic_n_1_rel" : ARG0 x.
+  "_synthroid_n_1_rel" : ARG0 x.
+  "_syriac_a_1_rel" : ARG0 e, ARG1 p.
+  "_syringe_n_1_rel" : ARG0 x.
+  "_system_n_of_rel" : ARG0 x { NUM pl }, [ ARG1 x ].
+  "_system_n_of_rel" : ARG0 x, ARG1 x.
+  "_systematic_a_1_rel" : ARG0 e, ARG1 p.
+  "_systematical_a_1_rel" : ARG0 e, ARG1 e.
+  "_t_n_1_rel" : ARG0 x.
+  "_tab_n_1_rel" : ARG0 x.
+  "_table_n_1_rel" : ARG0 x.
+  "_table_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tablecloth_n_1_rel" : ARG0 x.
+  "_tablet_n_1_rel" : ARG0 x.
+  "_taboo_n_1_rel" : ARG0 x.
+  "_tabs_n_i_rel" : ARG0 x { NUM pl }.
+  "_tack_n_1_rel" : ARG0 x.
+  "_tack_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ], [ ARG3 h ].
+  "_tack_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tack_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tackle_n_1_rel" : ARG0 x.
+  "_tackle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tactic_n_1_rel" : ARG0 x.
+  "_tactical_a_1_rel" : ARG0 e, ARG1 p.
+  "_tadpole_n_1_rel" : ARG0 x.
+  "_taffrail_n_1_rel" : ARG0 x.
+  "_tag_n_1_rel" : ARG0 x.
+  "_tag_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tail_n_1_rel" : ARG0 x.
+  "_tail_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tail_v_off_rel" : ARG0 e, ARG1 p.
+  "_tailings_n_1_rel" : ARG0 x { NUM pl }.
+  "_tailor_n_1_rel" : ARG0 x.
+  "_tailor_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 h.
+  "_tailor_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_taiwanese_a_1_rel" : ARG0 e, ARG1 p.
+  "_taiwanese_n_1_rel" : ARG0 x { NUM pl }.
+  "_take_n_1_rel" : ARG0 x.
+  "_take_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 u.
+  "_take_v_2_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 u ].
+  "_take_v_aback_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_along_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_around_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_back_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_i_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_take_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_off_rel" : ARG0 e, ARG1 p.
+  "_take_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_out+of_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_take_v_out_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 x ].
+  "_take_v_over_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_take_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_take_v_x-off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_takeoff_n_1_rel" : ARG0 x.
+  "_takeover_n_of_rel" : ARG0 x, ARG1 x.
+  "_taker_n_of_rel" : ARG0 x, ARG1 x.
+  "_takings_n_1_rel" : ARG0 x { NUM pl }.
+  "_tale_n_1_rel" : ARG0 x.
+  "_talent_n_1_rel" : ARG0 x.
+  "_talented_a_1_rel" : ARG0 e, ARG1 p.
+  "_talk_n_of-on_rel" : ARG0 x, ARG1 x.
+  "_talk_v_about_rel" : ARG0 e, ARG1 p.
+  "_talk_v_into_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_talk_v_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_talk_v_over_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tall_a_1_rel" : ARG0 e, ARG1 p.
+  "_talon_n_1_rel" : ARG0 x.
+  "_talus_n_1_rel" : ARG0 x.
+  "_tame_a_1_rel" : ARG0 e, ARG1 p.
+  "_tame_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tamp_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tamper_v_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tan_n_1_rel" : ARG0 x.
+  "_tan_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tangible_a_1_rel" : ARG0 e, ARG1 p.
+  "_tangle_n_1_rel" : ARG0 x.
+  "_tangle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tangle_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tango_n_1_rel" : ARG0 x.
+  "_tango_v_1_rel" : ARG0 e, ARG1 p.
+  "_tank_n_1_rel" : ARG0 x.
+  "_tank_v_1_rel" : ARG0 e, ARG1 p.
+  "_tank_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tanker_n_1_rel" : ARG0 x.
+  "_tanned_a_1_rel" : ARG0 e, ARG1 p.
+  "_tantalize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tap_n_of_rel" : ARG0 x, ARG1 x.
+  "_tap_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tap_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tape_n_1_rel" : ARG0 x.
+  "_tape_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tapeline_n_1_rel" : ARG0 x.
+  "_taper_v_1_rel" : ARG0 e, ARG1 p.
+  "_taper_v_off_rel" : ARG0 e, ARG1 p.
+  "_tardiness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_target_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_target_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tarn_n_1_rel" : ARG0 x.
+  "_tart_a_1_rel" : ARG0 e, ARG1 p.
+  "_tart_n_1_rel" : ARG0 x.
+  "_task_n_1_rel" : ARG0 x.
+  "_task_n_of_rel" : ARG0 x, ARG1 x.
+  "_taste_n_of_rel" : ARG0 x, ARG1 x.
+  "_taste_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_taste_v_to_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_tasteful_a_1_rel" : ARG0 e, ARG1 e.
+  "_tasteful_a_1_rel" : ARG0 e, ARG1 p.
+  "_tasty_a_1_rel" : ARG0 e, ARG1 p.
+  "_taw_n_1_rel" : ARG0 x.
+  "_tax_n_1_rel" : ARG0 x.
+  "_tax_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_taxation_n_of_rel" : ARG0 x { NUM sg, DIV + }, ARG1 x.
+  "_taxi_n_1_rel" : ARG0 x.
+  "_taxi_v_1_rel" : ARG0 e, ARG1 p.
+  "_tbah_n_1_rel" : ARG0 x.
+  "_tea+time_n_1_rel" : ARG0 x.
+  "_tea_n_1_rel" : ARG0 x.
+  "_teach_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_teach_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_teacher_n_of_rel" : ARG0 x, ARG1 x.
+  "_teaching_n_1_rel" : ARG0 x.
+  "_teal_n_1_rel" : ARG0 x.
+  "_teal_n_kind_rel" : ARG0 x { NUM sg, DIV + }.
+  "_team_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_team_v_up_rel" : ARG0 e, ARG1 p.
+  "_tear_n_1_rel" : ARG0 x.
+  "_tear_v_1_rel" : ARG0 e, ARG1 p.
+  "_tear_v_apart_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tear_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tear_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tear_v_open_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tear_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tearjerker_n_1_rel" : ARG0 x.
+  "_tease_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tease_v_apart_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tease_v_open_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tease_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tech_a_1_rel" : ARG0 e, ARG1 p.
+  "_technical_a_1_rel" : ARG0 e, ARG1 e.
+  "_technical_a_1_rel" : ARG0 e, ARG1 p.
+  "_technicality_n_1_rel" : ARG0 x.
+  "_technique_n_1_rel" : ARG0 x.
+  "_technological_a_1_rel" : ARG0 e, ARG1 p.
+  "_technology_n_1_rel" : ARG0 x.
+  "_tecra_n_1_rel" : ARG0 x.
+  "_tedious_a_for_rel" : ARG0 e, ARG1 u, ARG2 u.
+  "_tee+shirt_n_1_rel" : ARG0 x.
+  "_teem_v_1_rel" : ARG0 e, ARG1 p.
+  "_teen_n_1_rel" : ARG0 x.
+  "_teenage_a_1_rel" : ARG0 e, ARG1 p.
+  "_teenager_n_1_rel" : ARG0 x.
+  "_teethe_v_1_rel" : ARG0 e, ARG1 p.
+  "_telecom_n_1_rel" : ARG0 x.
+  "_telecommunications_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_telegraph_n_1_rel" : ARG0 x.
+  "_telegraph_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_telegraph_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_telegraphic_a_1_rel" : ARG0 e, ARG1 p.
+  "_telephone_n_1_rel" : ARG0 x.
+  "_telephone_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_telesales_n_1_rel" : ARG0 x { NUM pl }.
+  "_telescope_n_1_rel" : ARG0 x.
+  "_telescope_v_1_rel" : ARG0 e, ARG1 p.
+  "_televise_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_television_n_1_rel" : ARG0 x.
+  "_tell_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_tell_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 x ].
+  "_tell_v_about_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_tell_v_by_rel" : ARG0 e, ARG1 p, ARG2 h, ARG3 x.
+  "_tell_v_of_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_temper_n_1_rel" : ARG0 x.
+  "_temper_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_temperament_n_1_rel" : ARG0 x.
+  "_temperate_a_1_rel" : ARG0 e, ARG1 p.
+  "_temperature_n_of_rel" : ARG0 x, ARG1 x.
+  "_tempest_n_1_rel" : ARG0 x.
+  "_temple_n_1_rel" : ARG0 x.
+  "_tempo_n_1_rel" : ARG0 x.
+  "_temporal_a_1_rel" : ARG0 e, ARG1 p.
+  "_temporary_a_1_rel" : ARG0 e, ARG1 e.
+  "_temporary_a_1_rel" : ARG0 e, ARG1 p.
+  "_tempt_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_temptation_n_1_rel" : ARG0 x.
+  "_tempting_a_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_tempting_a_1_rel" : ARG0 e, ARG1 e.
+  "_ten+four_a_1_rel" : ARG0 e, ARG1 h.
+  "_tenacious_a_1_rel" : ARG0 e, ARG1 p.
+  "_tenant_n_1_rel" : ARG0 x.
+  "_tend_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tendency_n_to_rel" : ARG0 x, ARG1 h.
+  "_tendency_n_to_rel" : ARG0 x, ARG1 x.
+  "_tender_a_1_rel" : ARG0 e, ARG1 p.
+  "_tender_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tender_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tenderness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tendril_n_1_rel" : ARG0 x.
+  "_tenement_n_1_rel" : ARG0 x.
+  "_tennis_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tenor_n_1_rel" : ARG0 x.
+  "_tense_a_1_rel" : ARG0 e, ARG1 e.
+  "_tense_a_1_rel" : ARG0 e, ARG1 p.
+  "_tense_n_1_rel" : ARG0 x.
+  "_tense_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tense_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tension_n_1_rel" : ARG0 x.
+  "_tent_n_1_rel" : ARG0 x.
+  "_tent_v_1_rel" : ARG0 e, ARG1 p.
+  "_tentacle_n_1_rel" : ARG0 x.
+  "_tentative_a_1_rel" : ARG0 e, ARG1 e.
+  "_tentative_a_1_rel" : ARG0 e, ARG1 p.
+  "_tenure_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tepid_a_1_rel" : ARG0 e, ARG1 e.
+  "_tepid_a_1_rel" : ARG0 e, ARG1 p.
+  "_term_n_of_rel" : ARG0 x, ARG1 x.
+  "_term_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_terminal_n_1_rel" : ARG0 x.
+  "_terminate_v_1_rel" : ARG0 e, ARG1 p.
+  "_terminate_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_termination_n_of_rel" : ARG0 x, ARG1 x.
+  "_terminology_n_1_rel" : ARG0 x.
+  "_terminus_n_of_rel" : ARG0 x, ARG1 x.
+  "_termite_n_1_rel" : ARG0 x.
+  "_terrace_n_1_rel" : ARG0 x.
+  "_terraced_a_1_rel" : ARG0 e, ARG1 p.
+  "_terrain_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_terrane_n_1_rel" : ARG0 x.
+  "_terrible_a_1_rel" : ARG0 e, ARG1 e.
+  "_terrible_a_for_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_terribly_x_deg_rel" : ARG0 e, ARG1 u.
+  "_terrific_a_for_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_terrific_a_for_rel" : ARG0 e, ARG1 e.
+  "_terrify_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_territorial_a_1_rel" : ARG0 e, ARG1 p.
+  "_territory_n_1_rel" : ARG0 x.
+  "_terror_n_1_rel" : ARG0 x.
+  "_terrorist_n_1_rel" : ARG0 x.
+  "_tessellated_a_1_rel" : ARG0 e, ARG1 p.
+  "_test_n_of_rel" : ARG0 x, ARG1 x.
+  "_test_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_test_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_testament_n_1_rel" : ARG0 x.
+  "_testamentary_a_1_rel" : ARG0 e, ARG1 p.
+  "_testicle_n_1_rel" : ARG0 x.
+  "_testify_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_testify_v_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_testimony_n_1_rel" : ARG0 x.
+  "_testis_n_1_rel" : ARG0 x.
+  "_teutonic_a_1_rel" : ARG0 e, ARG1 p.
+  "_text_n_of_rel" : ARG0 x, ARG1 x.
+  "_textile_n_1_rel" : ARG0 x.
+  "_textual_a_1_rel" : ARG0 e, ARG1 p.
+  "_texture_n_1_rel" : ARG0 x.
+  "_texture_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thai_a_1_rel" : ARG0 e, ARG1 p.
+  "_thai_n_1_rel" : ARG0 x.
+  "_thalassemia_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_thank_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_thank_v_for_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_thankful_a_for_rel" : ARG0 e, ARG1 e.
+  "_thankful_a_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thanks+so+much_a_1_rel" : ARG0 e, ARG1 h.
+  "_thanks_a_1_rel" : ARG0 e, ARG1 h.
+  "_thanks_n_1_rel" : ARG0 x { NUM pl }.
+  "_that+is_a_1_rel" : ARG0 e, ARG1 h.
+  "_that_x_deg_rel" : ARG0 e, ARG1 u.
+  "_thatch_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_thatch_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thaw_n_1_rel" : ARG0 x.
+  "_thaw_v_1_rel" : ARG0 e, ARG1 p.
+  "_thaw_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_the+case_a_1_rel" : ARG0 e, ARG1 h.
+  "_the+same_a_1_rel" : ARG0 e, ARG1 u.
+  "_theater_n_1_rel" : ARG0 x.
+  "_theatrical_a_1_rel" : ARG0 e, ARG1 p.
+  "_theft_n_of_rel" : ARG0 x, ARG1 x.
+  "_theme_n_of_rel" : ARG0 x, ARG1 x.
+  "_then_a_1_rel" : ARG0 e, ARG1 e.
+  "_then_a_1_rel" : ARG0 e, ARG1 h.
+  "_thence_a_1_rel" : ARG0 e, ARG1 e.
+  "_theological_a_1_rel" : ARG0 e, ARG1 p.
+  "_theology_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_theoretical_a_1_rel" : ARG0 e, ARG1 p.
+  "_theoretical_a_1_rel" : ARG0 e, ARG1 e.
+  "_theorist_n_1_rel" : ARG0 x.
+  "_theory_n_of_rel" : ARG0 x, ARG1 x.
+  "_therapeutic_a_1_rel" : ARG0 e, ARG1 p.
+  "_therapist_n_1_rel" : ARG0 x.
+  "_therapy_n_1_rel" : ARG0 x.
+  "_thereafter_a_1_rel" : ARG0 e, ARG1 e.
+  "_thereby_a_1_rel" : ARG0 e, ARG1 h.
+  "_therefore_a_1_rel" : ARG0 e, ARG1 h.
+  "_therefore_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_thermal_a_1_rel" : ARG0 e, ARG1 p.
+  "_thermometer_n_1_rel" : ARG0 x.
+  "_thermophilic_a_1_rel" : ARG0 e, ARG1 p.
+  "_thermos_n_1_rel" : ARG0 x.
+  "_thermostat_n_1_rel" : ARG0 x.
+  "_thermostated_a_1_rel" : ARG0 e, ARG1 p.
+  "_thesis_n_1_rel" : ARG0 x.
+  "_thick_a_1_rel" : ARG0 e, ARG1 p.
+  "_thick_a_1_rel" : ARG0 e, ARG1 e.
+  "_thick_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_thicken_v_1_rel" : ARG0 e, ARG1 p.
+  "_thicken_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thicket_n_1_rel" : ARG0 x.
+  "_thickness_n_1_rel" : ARG0 x.
+  "_thief_n_1_rel" : ARG0 x.
+  "_thieve_v_1_rel" : ARG0 e, ARG1 p.
+  "_thigh_n_1_rel" : ARG0 x.
+  "_thin_a_1_rel" : ARG0 e, ARG1 p.
+  "_thin_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thin_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_thing_n_of-about_rel" : ARG0 x, ARG1 u.
+  "_think_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 u ].
+  "_think_v_about_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_think_v_loc_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_think_v_of_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_think_v_through_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_think_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thinker_n_1_rel" : ARG0 x.
+  "_thinkpad_n_1_rel" : ARG0 x.
+  "_third_a_1_rel" : ARG0 e, ARG1 h.
+  "_third_n_of_rel" : ARG0 x, ARG1 x.
+  "_thirdly_a_1_rel" : ARG0 e, ARG1 e.
+  "_thirst_n_for_rel" : ARG0 x, ARG1 x.
+  "_thirst_v_for-after_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_this_x_deg_rel" : ARG0 e, ARG1 u.
+  "_thistle_n_1_rel" : ARG0 x.
+  "_thong_n_1_rel" : ARG0 x.
+  "_thorax_n_1_rel" : ARG0 x.
+  "_thorn_n_1_rel" : ARG0 x.
+  "_thorough_a_1_rel" : ARG0 e, ARG1 p.
+  "_thorough_a_1_rel" : ARG0 e, ARG1 e.
+  "_thoroughfare_n_1_rel" : ARG0 x.
+  "_though_a_1_rel" : ARG0 e, ARG1 h.
+  "_though_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_thought_n_of_rel" : ARG0 x, ARG1 x.
+  "_thought_n_of_rel" : ARG0 x, ARG1 h.
+  "_thoughtful_a_1_rel" : ARG0 e, ARG1 e.
+  "_thoughtful_a_1_rel" : ARG0 e, ARG1 p.
+  "_thoughtless_a_1_rel" : ARG0 e, ARG1 p.
+  "_thousander_n_1_rel" : ARG0 x.
+  "_thread_n_of_rel" : ARG0 x, ARG1 x.
+  "_thread_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_threadbare_a_1_rel" : ARG0 e, ARG1 p.
+  "_threadlike_a_1_rel" : ARG0 e, ARG1 p.
+  "_threat_n_1_rel" : ARG0 x.
+  "_threaten_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_threaten_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_threaten_v_with_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_threatening_a_1_rel" : ARG0 e, ARG1 e.
+  "_three+d+cinema_n_1_rel" : ARG0 x.
+  "_three-dimensional_a_1_rel" : ARG0 e, ARG1 p.
+  "_threshold_n_of_rel" : ARG0 x, ARG1 x.
+  "_thrill_n_1_rel" : ARG0 x.
+  "_thrill_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thriller_n_1_rel" : ARG0 x.
+  "_thrilling_a_for_rel" : ARG0 e, ARG1 h, ARG2 u.
+  "_thrive_v_1_rel" : ARG0 e, ARG1 p.
+  "_thrive_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_throat_n_1_rel" : ARG0 x.
+  "_throb_n_1_rel" : ARG0 x.
+  "_throb_v_1_rel" : ARG0 e, ARG1 p.
+  "_throne_n_1_rel" : ARG0 x.
+  "_throng_n_of_rel" : ARG0 x, ARG1 x.
+  "_throng_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_through_a_1_rel" : ARG0 e, ARG1 p.
+  "_throughput_n_1_rel" : ARG0 x.
+  "_throw_n_1_rel" : ARG0 x.
+  "_throw_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_throw_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_throw_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_throw_v_open_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_throw_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_throw_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_thrust_n_1_rel" : ARG0 x.
+  "_thrust_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ], [ ARG3 h ].
+  "_thrust_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thumb_n_1_rel" : ARG0 x.
+  "_thumb_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thumb_v_through_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thumbs+down_n_1_rel" : ARG0 x.
+  "_thumbs+up_n_1_rel" : ARG0 x.
+  "_thump_n_1_rel" : ARG0 x.
+  "_thump_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_thunder_n_1_rel" : ARG0 x.
+  "_thunder_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ], [ ARG3 u ].
+  "_thunder_v_2_rel" : ARG0 e.
+  "_thunderstorm_n_1_rel" : ARG0 x.
+  "_thus+far_a_1_rel" : ARG0 e, ARG1 e.
+  "_thus_a_1_rel" : ARG0 e, ARG1 h.
+  "_thwart_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tic_n_1_rel" : ARG0 x.
+  "_tick_n_1_rel" : ARG0 x.
+  "_tick_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tick_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_ticket_n_1_rel" : ARG0 x.
+  "_ticket_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tidbit_n_1_rel" : ARG0 x.
+  "_tide_n_of_rel" : ARG0 x, ARG1 x.
+  "_tidings_n_1_rel" : ARG0 x { NUM pl }.
+  "_tidy_a_1_rel" : ARG0 e, ARG1 p.
+  "_tidy_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tidy_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tie_n_1_rel" : ARG0 x.
+  "_tie_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tie_v_in_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tie_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tie_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tier_n_1_rel" : ARG0 x.
+  "_tierce_n_1_rel" : ARG0 x.
+  "_tight_a_1_rel" : ARG0 e, ARG1 p.
+  "_tight_a_1_rel" : ARG0 e, ARG1 e.
+  "_tighten_v_1_rel" : ARG0 e, ARG1 p.
+  "_tighten_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tighten_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tights_n_1_rel" : ARG0 x { NUM pl }.
+  "_tile_n_1_rel" : ARG0 x.
+  "_tile_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_till_n_1_rel" : ARG0 x.
+  "_till_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tiller_n_1_rel" : ARG0 x.
+  "_tilt_n_of_rel" : ARG0 x, ARG1 x.
+  "_tilt_v_1_rel" : ARG0 e, ARG1 p.
+  "_tilt_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_timber_n_1_rel" : ARG0 x.
+  "_timberland_n_1_rel" : ARG0 x.
+  "_timberline_n_1_rel" : ARG0 x.
+  "_time+and+again_a_1_rel" : ARG0 e, ARG1 e.
+  "_time+consuming_a_1_rel" : ARG0 e, ARG1 p.
+  "_time+saving_a_1_rel" : ARG0 e, ARG1 p.
+  "_time+wise_a_1_rel" : ARG0 e, ARG1 e.
+  "_time-elapsed_a_1_rel" : ARG0 e, ARG1 p.
+  "_time_a_expl-for_rel" : ARG0 e, ARG1 h, ARG2 u.
+  "_time_a_expl-for_rel" : ARG0 e, ARG1 x.
+  "_time_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_time_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_timeline_n_1_rel" : ARG0 x.
+  "_timely_a_1_rel" : ARG0 e, ARG1 p.
+  "_timepiece_n_1_rel" : ARG0 x.
+  "_timeport_n_1_rel" : ARG0 x.
+  "_timespan_n_1_rel" : ARG0 x.
+  "_timetable_n_of_rel" : ARG0 x, ARG1 x.
+  "_timetable_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_timewise_a_1_rel" : ARG0 e, ARG1 p.
+  "_timid_a_1_rel" : ARG0 e, ARG1 e.
+  "_timing_n_1_rel" : ARG0 x.
+  "_tin_n_1_rel" : ARG0 x.
+  "_tine_n_1_rel" : ARG0 x.
+  "_tinge_n_1_rel" : ARG0 x.
+  "_tinge_v_with_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_tinned_a_1_rel" : ARG0 e, ARG1 p.
+  "_tint_n_of_rel" : ARG0 x, ARG1 x.
+  "_tint_v_1_rel" : ARG0 e, ARG1 p.
+  "_tint_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tiny_a_1_rel" : ARG0 e, ARG1 p.
+  "_tip_n_1_rel" : ARG0 x.
+  "_tip_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_tip_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_tip_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tip_v_over_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tipsy_a_1_rel" : ARG0 e, ARG1 p.
+  "_tire_n_1_rel" : ARG0 x.
+  "_tire_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tire_v_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tire_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tired_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tiresome_a_1_rel" : ARG0 e, ARG1 p.
+  "_tiresome_a_1_rel" : ARG0 e, ARG1 e.
+  "_tiring_a_1_rel" : ARG0 e, ARG1 p.
+  "_tisane_n_1_rel" : ARG0 x.
+  "_tissue_n_1_rel" : ARG0 x.
+  "_titanium_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_title_n_of_rel" : ARG0 x, ARG1 x.
+  "_title_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_to+and+fro_a_1_rel" : ARG0 e, ARG1 e.
+  "_to+date_a_1_rel" : ARG0 e, ARG1 e.
+  "_to+make+sure_a_1_rel" : ARG0 e, ARG1 e.
+  "_to+no+avail_a_1_rel" : ARG0 e, ARG1 e.
+  "_to+the+contrary_a_1_rel" : ARG0 e, ARG1 h.
+  "_toast_n_1_rel" : ARG0 x.
+  "_toast_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tobacco_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_today_a_1_rel" : ARG0 e, ARG1 e.
+  "_toddler_n_1_rel" : ARG0 x.
+  "_toe_n_1_rel" : ARG0 x.
+  "_toe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_toft_n_1_rel" : ARG0 x.
+  "_toil_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_toil_v_1_rel" : ARG0 e, ARG1 p.
+  "_toilet_n_1_rel" : ARG0 x.
+  "_toiletry_n_1_rel" : ARG0 x.
+  "_token_a_1_rel" : ARG0 e, ARG1 p.
+  "_token_n_1_rel" : ARG0 x.
+  "_tolerable_a_1_rel" : ARG0 e, ARG1 p.
+  "_tolerable_a_1_rel" : ARG0 e, ARG1 e.
+  "_tolerance_n_for_rel" : ARG0 x, ARG1 x.
+  "_tolerant_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tolerate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_toll+free_a_1_rel" : ARG0 e, ARG1 p.
+  "_toll_n_1_rel" : ARG0 x.
+  "_tomato_n_1_rel" : ARG0 x.
+  "_tomb_n_1_rel" : ARG0 x.
+  "_tomfoolery_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_ton_n_1_rel" : ARG0 x.
+  "_tone_n_of_rel" : ARG0 x, ARG1 x.
+  "_tone_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tone_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tongue-tied_a_1_rel" : ARG0 e, ARG1 p.
+  "_tongue_n_1_rel" : ARG0 x.
+  "_too+bad_a_1_rel" : ARG0 e, ARG1 h.
+  "_too_a_also_rel" : ARG0 e, ARG1 h.
+  "_tool_n_1_rel" : ARG0 x.
+  "_toot_n_of_rel" : ARG0 x, ARG1 x.
+  "_tooth_n_1_rel" : ARG0 x.
+  "_top+of+the+line_a_1_rel" : ARG0 e, ARG1 p.
+  "_top_a_1_rel" : ARG0 e, ARG1 p.
+  "_top_n_1_rel" : ARG0 x.
+  "_top_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_topaz_n_1_rel" : ARG0 x.
+  "_topgallant_n_1_rel" : ARG0 x.
+  "_topic_n_of_rel" : ARG0 x, ARG1 x.
+  "_topmast_n_1_rel" : ARG0 x.
+  "_topographic_a_1_rel" : ARG0 e, ARG1 p.
+  "_topography_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_topsoil_n_1_rel" : ARG0 x.
+  "_torch_n_1_rel" : ARG0 x.
+  "_torment_n_1_rel" : ARG0 x.
+  "_torment_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tornado_n_1_rel" : ARG0 x.
+  "_torpedo_n_1_rel" : ARG0 x.
+  "_torpedo_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_torpidness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_torrent_n_1_rel" : ARG0 x.
+  "_tortoise_n_1_rel" : ARG0 x.
+  "_torture_n_of_rel" : ARG0 x, ARG1 x.
+  "_torture_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_toss_n_of_rel" : ARG0 x, ARG1 x.
+  "_toss_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_toss_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_total_a_1_rel" : ARG0 e, ARG1 e.
+  "_total_a_1_rel" : ARG0 e, ARG1 p.
+  "_total_n_of_rel" : ARG0 x, ARG1 x.
+  "_total_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_totality_n_1_rel" : ARG0 x.
+  "_tote_n_1_rel" : ARG0 x.
+  "_tote_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_totter_n_1_rel" : ARG0 x { NUM sg }.
+  "_totter_v_1_rel" : ARG0 e, ARG1 p.
+  "_touch_n_1_rel" : ARG0 x.
+  "_touch_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_touch_v_down_rel" : ARG0 e, ARG1 p.
+  "_tough_a_for_rel" : ARG0 e, ARG1 u, [ ARG2 u ].
+  "_tough_a_for_rel" : ARG0 e, ARG1 x.
+  "_toughbook_n_1_rel" : ARG0 x.
+  "_tour_n_1_rel" : ARG0 x.
+  "_tour_n_of_rel" : ARG0 x, ARG1 x.
+  "_tour_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tourism_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tourist_n_1_rel" : ARG0 x.
+  "_touristic_a_1_rel" : ARG0 e, ARG1 p.
+  "_tournament_n_of_rel" : ARG0 x, ARG1 x.
+  "_tourniquet_n_1_rel" : ARG0 x.
+  "_towel_n_1_rel" : ARG0 x.
+  "_towel_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_towel_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tower_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_tower_v_1_rel" : ARG0 e, ARG1 p.
+  "_towline_n_1_rel" : ARG0 x.
+  "_town_n_1_rel" : ARG0 x.
+  "_township_n_1_rel" : ARG0 x.
+  "_toxic_a_1_rel" : ARG0 e, ARG1 p.
+  "_toxin_n_1_rel" : ARG0 x.
+  "_toy_n_1_rel" : ARG0 x.
+  "_toy_v_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trace-elemental_a_1_rel" : ARG0 e, ARG1 p.
+  "_trace_n_of_rel" : ARG0 x, ARG1 x.
+  "_trace_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trace_v_back_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_trace_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_track+meet_n_1_rel" : ARG0 x.
+  "_track_n_1_rel" : ARG0 x.
+  "_track_n_i_rel" : ARG0 x.
+  "_track_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_track_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tract_n_of_rel" : ARG0 x, ARG1 x.
+  "_tractable_a_1_rel" : ARG0 e, ARG1 p.
+  "_traction_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tractor_n_1_rel" : ARG0 x.
+  "_tradable_a_1_rel" : ARG0 e, ARG1 p.
+  "_trade_n_of_rel" : ARG0 x, ARG1 x.
+  "_trade_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trade_v_in_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 x ].
+  "_trademark_n_1_rel" : ARG0 x.
+  "_trademark_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trader_n_1_rel" : ARG0 x.
+  "_tradesman_n_1_rel" : ARG0 x.
+  "_tradition_n_1_rel" : ARG0 x.
+  "_traditional_a_1_rel" : ARG0 e, ARG1 e.
+  "_traditional_a_1_rel" : ARG0 e, ARG1 p.
+  "_traffic_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_traffic_v_1_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_traffic_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tragedy_n_1_rel" : ARG0 x.
+  "_tragic_a_1_rel" : ARG0 e, ARG1 e.
+  "_tragic_a_1_rel" : ARG0 e, ARG1 p.
+  "_trail_n_1_rel" : ARG0 x.
+  "_trail_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trail_v_off_rel" : ARG0 e, ARG1 p.
+  "_trailhead_n_1_rel" : ARG0 x.
+  "_train_n_of_rel" : ARG0 x, ARG1 x.
+  "_train_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_train_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_trainee_n_1_rel" : ARG0 x.
+  "_trainer_n_1_rel" : ARG0 x.
+  "_trait_n_1_rel" : ARG0 x.
+  "_tram_n_1_rel" : ARG0 x.
+  "_tramp_n_1_rel" : ARG0 x.
+  "_tramp_v_1_rel" : ARG0 e, ARG1 p.
+  "_trample_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tramway_n_1_rel" : ARG0 x.
+  "_tranquil_a_1_rel" : ARG0 e, ARG1 p.
+  "_tranquility_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_transact_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_transaction_n_1_rel" : ARG0 x.
+  "_transcend_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_transcribe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_transcriber_n_1_rel" : ARG0 x.
+  "_transcript_n_of_rel" : ARG0 x, ARG1 x.
+  "_transcription_n_1_rel" : ARG0 x.
+  "_transfer_n_of_rel" : ARG0 x, ARG1 x.
+  "_transfer_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_transfer_v_from-to_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_transform_n_1_rel" : ARG0 x.
+  "_transform_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_transform_v_into_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_transformation_n_of_rel" : ARG0 x, ARG1 x.
+  "_transformer_n_1_rel" : ARG0 x.
+  "_transit_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_transition_n_1_rel" : ARG0 x.
+  "_transitional_a_1_rel" : ARG0 e, ARG1 p.
+  "_transitive_a_1_rel" : ARG0 e, ARG1 p.
+  "_transitive_n_1_rel" : ARG0 x.
+  "_transitory_a_1_rel" : ARG0 e, ARG1 e.
+  "_translate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_translate_v_into_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_translate_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_translation_n_1_rel" : ARG0 x.
+  "_translator_n_1_rel" : ARG0 x.
+  "_transmission_n_of_rel" : ARG0 x, ARG1 x.
+  "_transmit_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_transmute_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_transparent_a_1_rel" : ARG0 e, ARG1 p.
+  "_transplant_n_of_rel" : ARG0 x, ARG1 x.
+  "_transplant_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_transport_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_transport_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_transportation_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_transverse_a_1_rel" : ARG0 e, ARG1 p.
+  "_trap_n_1_rel" : ARG0 x.
+  "_trap_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_trapdoor_n_1_rel" : ARG0 x.
+  "_trapper_n_1_rel" : ARG0 x.
+  "_trappings_n_1_rel" : ARG0 x { NUM pl }.
+  "_trash_n_1_rel" : ARG0 x.
+  "_travail_n_1_rel" : ARG0 x.
+  "_travel_n_1_rel" : ARG0 x.
+  "_travel_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_traveler_n_1_rel" : ARG0 x.
+  "_travelers+check_n_1_rel" : ARG0 x.
+  "_traveller_n_1_rel" : ARG0 x.
+  "_travelogue_n_1_rel" : ARG0 x.
+  "_traverse_n_1_rel" : ARG0 x.
+  "_traverse_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tray_n_1_rel" : ARG0 x.
+  "_treacherous_a_1_rel" : ARG0 e, ARG1 p.
+  "_tread_n_1_rel" : ARG0 x.
+  "_tread_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_treasure_n_1_rel" : ARG0 x.
+  "_treasured_a_1_rel" : ARG0 e, ARG1 p.
+  "_treasurer_n_1_rel" : ARG0 x.
+  "_treasury_n_1_rel" : ARG0 x.
+  "_treat_n_1_rel" : ARG0 x.
+  "_treat_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_treat_v_as_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_treat_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_treat_v_with_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_treatise_n_1_rel" : ARG0 x.
+  "_treatment_n_of_rel" : ARG0 x, ARG1 x.
+  "_treaty_n_1_rel" : ARG0 x.
+  "_treble_n_1_rel" : ARG0 x.
+  "_treble_v_1_rel" : ARG0 e, ARG1 p.
+  "_treble_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tree_n_of_rel" : ARG0 x, ARG1 x.
+  "_trek_n_1_rel" : ARG0 x.
+  "_trek_v_1_rel" : ARG0 e, ARG1 p.
+  "_trekker_n_1_rel" : ARG0 x.
+  "_tremble_v_1_rel" : ARG0 e, ARG1 p.
+  "_tremendous_a_1_rel" : ARG0 e, ARG1 p.
+  "_trench_n_1_rel" : ARG0 x.
+  "_trend_n_1_rel" : ARG0 x.
+  "_trendy_a_1_rel" : ARG0 e, ARG1 p.
+  "_trespass_v_1_rel" : ARG0 e, ARG1 p.
+  "_tri+mode_n_1_rel" : ARG0 x.
+  "_trial_n_1_rel" : ARG0 x.
+  "_triangle_n_1_rel" : ARG0 x.
+  "_triangular_a_1_rel" : ARG0 e, ARG1 p.
+  "_triband_n_1_rel" : ARG0 x.
+  "_tribe_n_1_rel" : ARG0 x.
+  "_tribunal_n_1_rel" : ARG0 x.
+  "_tributary_n_1_rel" : ARG0 x.
+  "_tribute_n_1_rel" : ARG0 x.
+  "_trick_n_1_rel" : ARG0 x.
+  "_trick_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_tricky_a_1_rel" : ARG0 e, ARG1 p.
+  "_trifle_n_1_rel" : ARG0 x.
+  "_trifle_v_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trifler_n_1_rel" : ARG0 x.
+  "_trifling_a_1_rel" : ARG0 e, ARG1 p.
+  "_trigger_n_1_rel" : ARG0 x.
+  "_trigger_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trijet_n_1_rel" : ARG0 x.
+  "_trim_a_1_rel" : ARG0 e, ARG1 p.
+  "_trim_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_trim_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trim_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trim_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trim_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trimmings_n_1_rel" : ARG0 x { NUM pl }.
+  "_trinitarian_a_1_rel" : ARG0 e, ARG1 p.
+  "_trinitarian_n_1_rel" : ARG0 x.
+  "_trinity_n_1_rel" : ARG0 x.
+  "_trio_n_1_rel" : ARG0 x.
+  "_trip_n_of_rel" : ARG0 x, [ ARG1 u ].
+  "_trip_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trip_v_over_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_triple_n_1_rel" : ARG0 x.
+  "_triple_v_1_rel" : ARG0 e, ARG1 p.
+  "_triple_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_triplet_n_1_rel" : ARG0 x.
+  "_triumph_n_1_rel" : ARG0 x.
+  "_triumph_v_1_rel" : ARG0 e, ARG1 p.
+  "_triumphant_a_1_rel" : ARG0 e, ARG1 p.
+  "_trivial_a_1_rel" : ARG0 e, ARG1 p.
+  "_triviality_n_1_rel" : ARG0 x.
+  "_troll_n_1_rel" : ARG0 x.
+  "_trolley_n_1_rel" : ARG0 x.
+  "_troop_n_1_rel" : ARG0 x.
+  "_trophy_n_1_rel" : ARG0 x.
+  "_tropical_a_1_rel" : ARG0 e, ARG1 p.
+  "_trot_n_1_rel" : ARG0 x.
+  "_trot_v_1_rel" : ARG0 e, ARG1 p.
+  "_trouble_n_1_rel" : ARG0 x.
+  "_trouble_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_trouble_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_troubled_a_1_rel" : ARG0 e, ARG1 u, [ ARG2 h ].
+  "_troublemaker_n_1_rel" : ARG0 x.
+  "_troublesome_a_1_rel" : ARG0 e, ARG1 p.
+  "_trough_n_1_rel" : ARG0 x.
+  "_trousers_n_1_rel" : ARG0 x { NUM pl }.
+  "_trout_n_1_rel" : ARG0 x.
+  "_truck_n_1_rel" : ARG0 x.
+  "_trudge_v_1_rel" : ARG0 e, ARG1 p.
+  "_true_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_true_a_of_rel" : ARG0 e, ARG1 e.
+  "_true_a_of_rel" : ARG0 e, ARG1 h.
+  "_trump_n_1_rel" : ARG0 x.
+  "_trump_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trumpet_n_1_rel" : ARG0 x.
+  "_trumpet_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_trunk_n_1_rel" : ARG0 x.
+  "_trust_n_1_rel" : ARG0 x.
+  "_trust_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_trust_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_trustee_n_1_rel" : ARG0 x.
+  "_trustworthy_a_1_rel" : ARG0 e, ARG1 p.
+  "_truth_n_1_rel" : ARG0 x.
+  "_try_n_1_rel" : ARG0 x.
+  "_try_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_try_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_try_v_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_try_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tsar_n_1_rel" : ARG0 x.
+  "_ttab_n_1_rel" : ARG0 x.
+  "_tub_n_of_rel" : ARG0 x, ARG1 x.
+  "_tube_n_1_rel" : ARG0 x.
+  "_tubing_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tubular_a_1_rel" : ARG0 e, ARG1 p.
+  "_tuck_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_tuck_v_in_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tuckered+out_a_1_rel" : ARG0 e, ARG1 p.
+  "_tuckered_a_1_rel" : ARG0 e, ARG1 p.
+  "_tuft_n_of_rel" : ARG0 x, ARG1 x.
+  "_tug_n_1_rel" : ARG0 x.
+  "_tug_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tug_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tug_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tuition_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tulip_n_1_rel" : ARG0 x.
+  "_tumble_n_1_rel" : ARG0 x.
+  "_tumble_v_1_rel" : ARG0 e, ARG1 p.
+  "_tumbler_n_1_rel" : ARG0 x.
+  "_tummy_n_1_rel" : ARG0 x.
+  "_tumor_n_1_rel" : ARG0 x.
+  "_tundra+like_a_1_rel" : ARG0 e, ARG1 p.
+  "_tundra_a_1_rel" : ARG0 e, ARG1 p.
+  "_tundra_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tune_n_1_rel" : ARG0 x.
+  "_tune_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tune_v_in_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tune_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tune_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_tungsten_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_tunnel_n_1_rel" : ARG0 x.
+  "_turbulence_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_turbulent_a_1_rel" : ARG0 e, ARG1 p.
+  "_turf_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_turgite_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_turkey_n_1_rel" : ARG0 x.
+  "_turkish_a_1_rel" : ARG0 e, ARG1 p.
+  "_turmoil_n_1_rel" : ARG0 x.
+  "_turn+around_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_turn_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_turn_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_turn_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_turn_v_into_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_turn_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_turn_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_turn_v_over_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_turn_v_prd_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 h.
+  "_turn_v_prd_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_turn_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_turning_n_1_rel" : ARG0 x.
+  "_turnout_n_1_rel" : ARG0 x.
+  "_turnover_n_1_rel" : ARG0 x.
+  "_turntable_n_1_rel" : ARG0 x.
+  "_turquoise_n_1_rel" : ARG0 x.
+  "_turret_n_1_rel" : ARG0 x.
+  "_tutor_n_of_rel" : ARG0 x, ARG1 x.
+  "_tutor_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_tutorial_n_1_rel" : ARG0 x.
+  "_tv_n_1_rel" : ARG0 x.
+  "_tweed_n_1_rel" : ARG0 x.
+  "_twice_a_1_rel" : ARG0 e, ARG1 e.
+  "_twice_x_deg_rel" : ARG0 e, ARG1 u.
+  "_twiddle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_twig_n_1_rel" : ARG0 x.
+  "_twilight_n_1_rel" : ARG0 x.
+  "_twin_n_1_rel" : ARG0 x.
+  "_twin_v_1_rel" : ARG0 e, ARG1 p.
+  "_twin_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_twine_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_twine_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_twinkle_n_1_rel" : ARG0 x.
+  "_twinkle_v_1_rel" : ARG0 e, ARG1 p.
+  "_twinkling_n_of_rel" : ARG0 x, ARG1 x.
+  "_twist_n_1_rel" : ARG0 x.
+  "_twist_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_twist_v_into_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_twitch_n_1_rel" : ARG0 x.
+  "_twitch_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_two-dimensional_a_1_rel" : ARG0 e, ARG1 p.
+  "_tyne_n_1_rel" : ARG0 x.
+  "_type_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_type_n_of-n_rel" : ARG0 x, [ ARG1 x ].
+  "_type_n_of_rel" : ARG0 x { NUM pl, DIV - }, ARG1 x.
+  "_type_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_type_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_type_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_type_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_typewritten_a_1_rel" : ARG0 e, ARG1 p.
+  "_typhoid_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_typical_a_of_rel" : ARG0 e, ARG1 e.
+  "_typical_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_typo_n_1_rel" : ARG0 x.
+  "_tyro_n_1_rel" : ARG0 x.
+  "_tyvek_n_1_rel" : ARG0 x.
+  "_ugly_a_1_rel" : ARG0 e, ARG1 p.
+  "_uh+huh_a_1_rel" : ARG0 e, ARG1 h.
+  "_uh_x_rel" : ARG0 e, ARG1 h.
+  "_ukulele_n_1_rel" : ARG0 x.
+  "_ulcer_n_1_rel" : ARG0 x.
+  "_ulcerative_a_1_rel" : ARG0 e, ARG1 p.
+  "_ultimate_a_1_rel" : ARG0 e, ARG1 p.
+  "_ultimate_a_1_rel" : ARG0 e, ARG1 e.
+  "_ultra_a_1_rel" : ARG0 e, ARG1 p.
+  "_um_a_1_rel" : ARG0 e, ARG1 h.
+  "_umbrella_n_1_rel" : ARG0 x.
+  "_umlaut_n_1_rel" : ARG0 x.
+  "_unabashed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unable_a_1_rel" : ARG0 e, ARG1 u, [ ARG2 h ].
+  "_unacceptable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unacceptable_a_1_rel" : ARG0 e, ARG1 e.
+  "_unaccustomed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unaffected_a_1_rel" : ARG0 e, ARG1 p.
+  "_unaltered_a_1_rel" : ARG0 e, ARG1 p.
+  "_unanimity_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_unavailable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unavoidable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unaware_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unawares_a_1_rel" : ARG0 e, ARG1 p.
+  "_unbalance_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unbearable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unbeatable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unbelievable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unbelievably_x_deg_rel" : ARG0 e, ARG1 u.
+  "_unborn_a_1_rel" : ARG0 e, ARG1 p.
+  "_unborn_n_1_rel" : ARG0 x { NUM pl }.
+  "_unbounded_a_1_rel" : ARG0 e, ARG1 p.
+  "_unbranched_a_1_rel" : ARG0 e, ARG1 p.
+  "_unbreakable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unbroken_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncertain_a_1_rel" : ARG0 e, ARG1 h.
+  "_uncertain_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_uncertainty_n_1_rel" : ARG0 x, [ ARG1 h ].
+  "_unchanged_a_1_rel" : ARG0 e, ARG1 p.
+  "_unchanging_a_1_rel" : ARG0 e, ARG1 p.
+  "_unchaste_a_1_rel" : ARG0 e, ARG1 p.
+  "_unchristian_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncle_n_1_rel" : ARG0 x.
+  "_unclear_a_1_rel" : ARG0 e, ARG1 p.
+  "_unclimbable_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncombined_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncomfortable_a_1_rel" : ARG0 e, ARG1 e.
+  "_uncomfortable_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncommon_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncommon_a_1_rel" : ARG0 e, ARG1 e.
+  "_uncomplicated_a_1_rel" : ARG0 e, ARG1 p.
+  "_unconcentrated_a_1_rel" : ARG0 e, ARG1 p.
+  "_unconfirmed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unconscious_a_1_rel" : ARG0 e, ARG1 p.
+  "_unconsidered_a_1_rel" : ARG0 e, ARG1 p.
+  "_unconsolidated_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncool_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncouth_a_1_rel" : ARG0 e, ARG1 p.
+  "_uncover_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_uncultivated_a_1_rel" : ARG0 e, ARG1 p.
+  "_undecided_a_1_rel" : ARG0 e, ARG1 p.
+  "_undecomposed_a_1_rel" : ARG0 e, ARG1 p.
+  "_undefined_a_1_rel" : ARG0 e, ARG1 p.
+  "_undeliverable_a_1_rel" : ARG0 e, ARG1 p.
+  "_undemanding_a_1_rel" : ARG0 e, ARG1 p.
+  "_under_x_deg_rel" : ARG0 e, ARG1 u.
+  "_underbrush_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_undercurrent_n_1_rel" : ARG0 x.
+  "_underdose_n_1_rel" : ARG0 x.
+  "_underestimate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_undergarment_n_1_rel" : ARG0 x.
+  "_undergo_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_undergrad_n_1_rel" : ARG0 x.
+  "_undergraduate_n_1_rel" : ARG0 x.
+  "_underground_a_1_rel" : ARG0 e, ARG1 p.
+  "_underlie_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_underline_n_1_rel" : ARG0 x.
+  "_underline_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_undermine_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_underofficer_n_1_rel" : ARG0 x.
+  "_underpants_n_1_rel" : ARG0 x { NUM pl }.
+  "_underscore_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_undersheriff_n_1_rel" : ARG0 x.
+  "_undershirt_n_1_rel" : ARG0 x.
+  "_underside_n_1_rel" : ARG0 x.
+  "_understand_v_by_rel" : ARG0 e, ARG1 p, ARG2 h, ARG3 x.
+  "_understand_v_by_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_understandable_a_1_rel" : ARG0 e, ARG1 p.
+  "_understanding_n_of_rel" : ARG0 x, ARG1 x.
+  "_undertake_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_undertake_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_undertaking_n_1_rel" : ARG0 x.
+  "_undertone_n_1_rel" : ARG0 x.
+  "_underwater_a_1_rel" : ARG0 e, ARG1 p.
+  "_underway_a_1_rel" : ARG0 e, ARG1 p.
+  "_underwear_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_underwrite_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_underwriter_n_1_rel" : ARG0 x.
+  "_undesirable_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_undetermined_a_1_rel" : ARG0 e, ARG1 p.
+  "_undisturbed_a_1_rel" : ARG0 e, ARG1 p.
+  "_undivided_a_1_rel" : ARG0 e, ARG1 p.
+  "_undo_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_undock_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_undoubted_a_1_rel" : ARG0 e, ARG1 p.
+  "_undulate_v_1_rel" : ARG0 e, ARG1 p.
+  "_uneasiness_n_1_rel" : ARG0 x.
+  "_uneasy_a_1_rel" : ARG0 e, ARG1 p.
+  "_unembarrassed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unemployed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unemployed_n_1_rel" : ARG0 x { NUM pl }.
+  "_unemployment_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_unenclosed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unequal_a_1_rel" : ARG0 e, ARG1 p.
+  "_unequal_a_1_rel" : ARG0 e, ARG1 e.
+  "_unevaluated_a_1_rel" : ARG0 e, ARG1 p.
+  "_uneven_a_1_rel" : ARG0 e, ARG1 p.
+  "_unexpected_a_1_rel" : ARG0 e, ARG1 e.
+  "_unexpected_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfailing_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfair_a_to_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_unfamiliar_a_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unfashionable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfavorable_a_1_rel" : ARG0 e, ARG1 e.
+  "_unfavorable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfilled_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfinished_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfold_v_1_rel" : ARG0 e, ARG1 p.
+  "_unfold_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unforgettable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfortunate_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfortunate_a_1_rel" : ARG0 e, ARG1 e.
+  "_unfriendly_a_1_rel" : ARG0 e, ARG1 p.
+  "_unfrozen_a_1_rel" : ARG0 e, ARG1 p.
+  "_ungulate_a_1_rel" : ARG0 e, ARG1 p.
+  "_unhappy_a_1_rel" : ARG0 e, ARG1 u, [ ARG2 h ].
+  "_unhappy_a_1_rel" : ARG0 e, ARG1 e.
+  "_unharmed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unheard+of_a_1_rel" : ARG0 e, ARG1 p.
+  "_unheeded_a_1_rel" : ARG0 e, ARG1 p.
+  "_unhurried_a_1_rel" : ARG0 e, ARG1 e.
+  "_unhurried_a_1_rel" : ARG0 e, ARG1 p.
+  "_uniform_a_1_rel" : ARG0 e, ARG1 p.
+  "_uniform_n_1_rel" : ARG0 x.
+  "_uniformed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unify_v_1_rel" : ARG0 e, ARG1 p.
+  "_unify_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unimaginable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unimpaired_a_1_rel" : ARG0 e, ARG1 p.
+  "_unimportant_a_1_rel" : ARG0 e, ARG1 p.
+  "_unimpressed_a_with_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_uninclosed_a_1_rel" : ARG0 e, ARG1 p.
+  "_uninhabited_a_1_rel" : ARG0 e, ARG1 p.
+  "_unintended_a_1_rel" : ARG0 e, ARG1 p.
+  "_uninteresting_a_1_rel" : ARG0 e, ARG1 p.
+  "_uninteresting_a_1_rel" : ARG0 e, ARG1 e.
+  "_union_n_of_rel" : ARG0 x, ARG1 x.
+  "_unionist_n_1_rel" : ARG0 x.
+  "_unique_a_1_rel" : ARG0 e, ARG1 e.
+  "_unique_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unit_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_unite_v_1_rel" : ARG0 e, ARG1 p.
+  "_unite_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_united_a_1_rel" : ARG0 e, ARG1 p.
+  "_unity_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_univalve_n_1_rel" : ARG0 x.
+  "_universal_a_1_rel" : ARG0 e, ARG1 p.
+  "_universal_a_1_rel" : ARG0 e, ARG1 e.
+  "_universe_n_of_rel" : ARG0 x, ARG1 x.
+  "_university_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_unknown_a_1_rel" : ARG0 e, ARG1 p.
+  "_unknown_n_1_rel" : ARG0 x.
+  "_unlawful_a_1_rel" : ARG0 e, ARG1 p.
+  "_unleash_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unless_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_unlikely_a_for_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_unlimited_a_1_rel" : ARG0 e, ARG1 p.
+  "_unlink_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unlock_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unlucky_a_1_rel" : ARG0 e, ARG1 e.
+  "_unlucky_a_1_rel" : ARG0 e, ARG1 p.
+  "_unmarked_a_1_rel" : ARG0 e, ARG1 p.
+  "_unmarried_a_1_rel" : ARG0 e, ARG1 p.
+  "_unmixed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unmotivated_a_1_rel" : ARG0 e, ARG1 p.
+  "_unnatural_a_1_rel" : ARG0 e, ARG1 p.
+  "_unnecessary_a_for_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_unnecessary_a_for_rel" : ARG0 e, ARG1 e.
+  "_unobstructed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unoccupied_a_1_rel" : ARG0 e, ARG1 p.
+  "_unofficial_a_1_rel" : ARG0 e, ARG1 p.
+  "_unpack_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unpaved_a_1_rel" : ARG0 e, ARG1 p.
+  "_unpleasant_a_1_rel" : ARG0 e, ARG1 e.
+  "_unpleasant_a_1_rel" : ARG0 e, ARG1 p.
+  "_unpliant_a_1_rel" : ARG0 e, ARG1 p.
+  "_unplowed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unpolished_a_1_rel" : ARG0 e, ARG1 p.
+  "_unpopular_a_1_rel" : ARG0 e, ARG1 p.
+  "_unprecedented_a_1_rel" : ARG0 e, ARG1 p.
+  "_unpredictable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unprepared_a_1_rel" : ARG0 e, ARG1 p.
+  "_unproblematic_a_1_rel" : ARG0 e, ARG1 p.
+  "_unproblematical_a_1_rel" : ARG0 e, ARG1 e.
+  "_unproductive_a_1_rel" : ARG0 e, ARG1 e.
+  "_unproductive_a_1_rel" : ARG0 e, ARG1 p.
+  "_unqualified_a_1_rel" : ARG0 e, ARG1 e.
+  "_unrealistic_a_1_rel" : ARG0 e, ARG1 p.
+  "_unrealistic_a_1_rel" : ARG0 e, ARG1 e.
+  "_unreasonable_a_for_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_unregenerate_a_1_rel" : ARG0 e, ARG1 p.
+  "_unrelated_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unrelenting_a_1_rel" : ARG0 e, ARG1 p.
+  "_unreliable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unremoved_a_1_rel" : ARG0 e, ARG1 p.
+  "_unreschedulable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unrest_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_unrestrained_a_1_rel" : ARG0 e, ARG1 p.
+  "_unrestrained_a_1_rel" : ARG0 e, ARG1 e.
+  "_unrestricted_a_1_rel" : ARG0 e, ARG1 p.
+  "_unrivaled_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsafe_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsatisfactory_a_1_rel" : ARG0 e, ARG1 h.
+  "_unsatisfactory_a_for_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_unsatisfied_a_1_rel" : ARG0 e, ARG1 p.
+  "_unscrew_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unseasonable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unseasonable_a_1_rel" : ARG0 e, ARG1 e.
+  "_unseasoned_a_1_rel" : ARG0 e, ARG1 p.
+  "_unseen_a_1_rel" : ARG0 e, ARG1 p.
+  "_unselfish_a_1_rel" : ARG0 e, ARG1 e.
+  "_unselfish_a_1_rel" : ARG0 e, ARG1 p.
+  "_unserviced_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsettled_a_1_rel" : ARG0 e, ARG1 p.
+  "_unshaven_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsheathe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unskillful_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsolicited_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsophisticated_a_1_rel" : ARG0 e, ARG1 p.
+  "_unspecified_a_1_rel" : ARG0 e, ARG1 p.
+  "_unspoiled_a_1_rel" : ARG0 e, ARG1 p.
+  "_unstaffed_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsteady_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsubdued_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsubscribe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unsubstantial_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsuccessful_a_1_rel" : ARG0 e, ARG1 e.
+  "_unsuccessful_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsuitable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsuitable_a_1_rel" : ARG0 e, ARG1 e.
+  "_unsullied_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsupported_a_1_rel" : ARG0 e, ARG1 p.
+  "_unsure_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unsurpassed_a_1_rel" : ARG0 e, ARG1 p.
+  "_untamed_a_1_rel" : ARG0 e, ARG1 p.
+  "_untie_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_until_x_h_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_untimely_a_1_rel" : ARG0 e, ARG1 p.
+  "_untouched_a_1_rel" : ARG0 e, ARG1 p.
+  "_unusable_a_1_rel" : ARG0 e, ARG1 p.
+  "_unused_a_1_rel" : ARG0 e, ARG1 p.
+  "_unusual_a_1_rel" : ARG0 e, ARG1 p.
+  "_unusual_a_1_rel" : ARG0 e, ARG1 e.
+  "_unusually_x_deg_rel" : ARG0 e, ARG1 u.
+  "_unveil_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unwanted_a_1_rel" : ARG0 e, ARG1 p.
+  "_unwieldy_a_for_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_unwilling_a_1_rel" : ARG0 e, ARG1 u, [ ARG2 h ].
+  "_unwise_a_1_rel" : ARG0 e, ARG1 p.
+  "_unworthy_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_unyielding_a_1_rel" : ARG0 e, ARG1 p.
+  "_up+front_a_about_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_up+to+date_a_1_rel" : ARG0 e, ARG1 p.
+  "_up+to+par_a_1_rel" : ARG0 e, ARG1 u.
+  "_up+to_x_deg_rel" : ARG0 e, ARG1 u.
+  "_upcoming_a_1_rel" : ARG0 e, ARG1 p.
+  "_update_n_1_rel" : ARG0 x.
+  "_update_n_of_rel" : ARG0 x, ARG1 x.
+  "_update_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_updraft_n_1_rel" : ARG0 x.
+  "_upgradable_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_upgrade_n_of_rel" : ARG0 x, ARG1 x.
+  "_upgrade_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_uphill_a_1_rel" : ARG0 e, ARG1 p.
+  "_uphill_n_1_rel" : ARG0 x.
+  "_uphold_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_uplands_n_1_rel" : ARG0 x { NUM pl }.
+  "_upper_a_1_rel" : ARG0 e, ARG1 p.
+  "_upright_a_1_rel" : ARG0 e, ARG1 p.
+  "_upright_n_1_rel" : ARG0 x.
+  "_uprightness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_upscale_a_1_rel" : ARG0 e, ARG1 p.
+  "_upset_a_1_rel" : ARG0 e, ARG1 u, [ ARG2 h ].
+  "_upset_n_1_rel" : ARG0 x.
+  "_upset_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_upshot_n_of_rel" : ARG0 x, ARG1 x.
+  "_upside+down_a_1_rel" : ARG0 e, ARG1 p.
+  "_upside_n_1_rel" : ARG0 x.
+  "_upstairs_n_1_rel" : ARG0 x { NUM pl }.
+  "_upstream_a_1_rel" : ARG0 e, ARG1 p.
+  "_upsurge_n_1_rel" : ARG0 x.
+  "_upswing_n_1_rel" : ARG0 x.
+  "_upward_a_1_rel" : ARG0 e, ARG1 p.
+  "_upwards_a_1_rel" : ARG0 e, ARG1 p.
+  "_uranium_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_urban_a_1_rel" : ARG0 e, ARG1 p.
+  "_urbane_a_1_rel" : ARG0 e, ARG1 p.
+  "_urbanite_n_1_rel" : ARG0 x.
+  "_urethra_n_1_rel" : ARG0 x.
+  "_urge_n_for_rel" : ARG0 x, [ ARG1 h ].
+  "_urge_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_urge_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_urge_v_to_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 h.
+  "_urgency_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_urgent_a_for_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_urgent_a_for_rel" : ARG0 e, ARG1 e.
+  "_urine_n_1_rel" : ARG0 x.
+  "_url_n_1_rel" : ARG0 x.
+  "_usable_a_1_rel" : ARG0 e, ARG1 p.
+  "_usage_n_of_rel" : ARG0 x, ARG1 x.
+  "_usd_n_1_rel" : ARG0 x { NUM pl }.
+  "_use_n_of_rel" : ARG0 x, ARG1 x.
+  "_use_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_use_v_as_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_use_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_used_a_1_rel" : ARG0 e, ARG1 p.
+  "_used_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_useful_a_1_rel" : ARG0 e, ARG1 p.
+  "_useful_a_1_rel" : ARG0 e, ARG1 e.
+  "_usefulness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_useless_a_1_rel" : ARG0 e, ARG1 p.
+  "_useless_a_1_rel" : ARG0 e, ARG1 e.
+  "_user+friendly_a_1_rel" : ARG0 e, ARG1 p.
+  "_user+manual_n_1_rel" : ARG0 x.
+  "_user_n_of_rel" : ARG0 x, ARG1 x.
+  "_usher_n_1_rel" : ARG0 x.
+  "_usher_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_usher_v_in_rel" : ARG0 e, ARG1 p.
+  "_usher_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_usual_a_1_rel" : ARG0 e, ARG1 p.
+  "_usurp_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_usury_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_utensil_n_1_rel" : ARG0 x.
+  "_utility_n_1_rel" : ARG0 x.
+  "_utilize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_utmost_a_1_rel" : ARG0 e, ARG1 p.
+  "_utmost_n_1_rel" : ARG0 x.
+  "_utter_a_1_rel" : ARG0 e, ARG1 u.
+  "_utter_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_utterance_n_1_rel" : ARG0 x.
+  "_uv_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_v+crack_n_1_rel" : ARG0 x.
+  "_v+neck_n_1_rel" : ARG0 x.
+  "_v+t_n_1_rel" : ARG0 x.
+  "_v_n_1_rel" : ARG0 x.
+  "_vacancy_n_1_rel" : ARG0 x.
+  "_vacant_a_1_rel" : ARG0 e, ARG1 p.
+  "_vacate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vacation_n_1_rel" : ARG0 x.
+  "_vacation_v_1_rel" : ARG0 e, ARG1 p.
+  "_vaccine_n_1_rel" : ARG0 x.
+  "_vacuum_n_1_rel" : ARG0 x.
+  "_vacuum_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vague_a_1_rel" : ARG0 e, ARG1 e.
+  "_vague_a_1_rel" : ARG0 e, ARG1 p.
+  "_vagueness_n_about_rel" : ARG0 x { NUM sg, DIV + }, ARG1 x.
+  "_vain_a_1_rel" : ARG0 e, ARG1 p.
+  "_vain_a_1_rel" : ARG0 e, ARG1 e.
+  "_vaio_n_1_rel" : ARG0 x.
+  "_vale_n_1_rel" : ARG0 x.
+  "_valedictory_a_1_rel" : ARG0 e, ARG1 p.
+  "_valedictory_n_1_rel" : ARG0 x.
+  "_valiant_a_1_rel" : ARG0 e, ARG1 p.
+  "_valid_a_1_rel" : ARG0 e, ARG1 p.
+  "_validate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_validity_n_1_rel" : ARG0 x.
+  "_valley_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_valor_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_valuable_a_to-for_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_valuables_n_1_rel" : ARG0 x { NUM pl }.
+  "_valuation_n_1_rel" : ARG0 x.
+  "_value_n_1_rel" : ARG0 x.
+  "_value_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_valueless_a_1_rel" : ARG0 e, ARG1 p.
+  "_valve_n_1_rel" : ARG0 x.
+  "_van_n_1_rel" : ARG0 x.
+  "_vanish_v_1_rel" : ARG0 e, ARG1 p.
+  "_vanity_n_1_rel" : ARG0 x.
+  "_vantage_n_1_rel" : ARG0 x.
+  "_vapor_n_1_rel" : ARG0 x.
+  "_variable_a_1_rel" : ARG0 e, ARG1 p.
+  "_variable_a_1_rel" : ARG0 e, ARG1 e.
+  "_variable_n_1_rel" : ARG0 x.
+  "_variance_n_1_rel" : ARG0 x.
+  "_variant_n_1_rel" : ARG0 x.
+  "_variation_n_of_rel" : ARG0 x, ARG1 x.
+  "_varied_a_1_rel" : ARG0 e, ARG1 p.
+  "_variegate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_variety_n_of-n_rel" : ARG0 x, ARG1 x.
+  "_various_a_1_rel" : ARG0 e, ARG1 p.
+  "_various_a_1_rel" : ARG0 e, ARG1 e.
+  "_vary_v_1_rel" : ARG0 e, ARG1 p.
+  "_vary_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vase_n_1_rel" : ARG0 x.
+  "_vassal_n_1_rel" : ARG0 x.
+  "_vast_a_1_rel" : ARG0 e, ARG1 e.
+  "_vast_a_1_rel" : ARG0 e, ARG1 p.
+  "_vastness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_vat_n_1_rel" : ARG0 x.
+  "_vaudeville_n_1_rel" : ARG0 x.
+  "_vcr_n_1_rel" : ARG0 x.
+  "_vector_n_1_rel" : ARG0 x.
+  "_vector_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_veer_v_1_rel" : ARG0 e, ARG1 p.
+  "_vegetable_n_1_rel" : ARG0 x.
+  "_vegetarian_a_1_rel" : ARG0 e, ARG1 p.
+  "_vegetarian_n_1_rel" : ARG0 x.
+  "_vegetation_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_vehemence_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_vehicle_n_1_rel" : ARG0 x.
+  "_vehicular_a_1_rel" : ARG0 e, ARG1 p.
+  "_veil_n_1_rel" : ARG0 x.
+  "_veil_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vein_n_1_rel" : ARG0 x.
+  "_velocity_n_1_rel" : ARG0 x.
+  "_velvet_n_1_rel" : ARG0 x.
+  "_vendor_n_of_rel" : ARG0 x, ARG1 x.
+  "_venerable_a_1_rel" : ARG0 e, ARG1 p.
+  "_vent_n_1_rel" : ARG0 x.
+  "_vent_v_1_rel" : ARG0 e, ARG1 p.
+  "_vent_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_ventilate_v_1_rel" : ARG0 e, ARG1 p.
+  "_ventilate_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_ventilation_n_of_rel" : ARG0 x, ARG1 x.
+  "_ventral_a_1_rel" : ARG0 e, ARG1 p.
+  "_venture_n_1_rel" : ARG0 x.
+  "_venture_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_venture_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_venue_n_1_rel" : ARG0 x.
+  "_veracity_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_verb_n_1_rel" : ARG0 x.
+  "_verbal_a_1_rel" : ARG0 e, ARG1 p.
+  "_verbose_a_1_rel" : ARG0 e, ARG1 p.
+  "_verdant_a_1_rel" : ARG0 e, ARG1 p.
+  "_verdict_n_1_rel" : ARG0 x.
+  "_verge_n_1_rel" : ARG0 x.
+  "_verge_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_verification_n_of_rel" : ARG0 x, ARG1 x.
+  "_verify_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_verify_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_veritable_a_1_rel" : ARG0 e, ARG1 u.
+  "_versatile_a_1_rel" : ARG0 e, ARG1 p.
+  "_verse_n_1_rel" : ARG0 x.
+  "_verse_v_in_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_versification_n_1_rel" : ARG0 x.
+  "_versify_v_1_rel" : ARG0 e, ARG1 p.
+  "_version_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_vertebrate_a_1_rel" : ARG0 e, ARG1 p.
+  "_vertebrate_n_1_rel" : ARG0 x.
+  "_vertical_a_1_rel" : ARG0 e, ARG1 p.
+  "_vertigo_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_very+much_a_1_rel" : ARG0 e, ARG1 e.
+  "_very_a_1_rel" : ARG0 e, ARG1 p.
+  "_very_x_deg_rel" : ARG0 e, ARG1 u.
+  "_vesicant_n_1_rel" : ARG0 x.
+  "_vessel_n_1_rel" : ARG0 x.
+  "_vest_n_1_rel" : ARG0 x.
+  "_vest_v_with_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_vestige_n_1_rel" : ARG0 x.
+  "_vet_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_veteran_a_1_rel" : ARG0 e, ARG1 p.
+  "_veteran_n_of_rel" : ARG0 x, ARG1 x.
+  "_veterinarian_n_1_rel" : ARG0 x.
+  "_veterinary_a_1_rel" : ARG0 e, ARG1 p.
+  "_veterinary_n_1_rel" : ARG0 x.
+  "_veto_n_1_rel" : ARG0 x.
+  "_veto_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vexation_n_1_rel" : ARG0 x.
+  "_vhs_n_1_rel" : ARG0 x.
+  "_vi_n_1_rel" : ARG0 x.
+  "_viable_a_1_rel" : ARG0 e, ARG1 p.
+  "_viaduct_n_1_rel" : ARG0 x.
+  "_vibrant_a_1_rel" : ARG0 e, ARG1 p.
+  "_vibrate_v_1_rel" : ARG0 e, ARG1 p.
+  "_vibration_n_of_rel" : ARG0 x, ARG1 x.
+  "_vicar_n_1_rel" : ARG0 x.
+  "_vice_n_1_rel" : ARG0 x.
+  "_vice_president_n_of_rel" : ARG0 x, ARG1 x.
+  "_vicinity_n_of_rel" : ARG0 x, ARG1 x.
+  "_vicious_a_1_rel" : ARG0 e, ARG1 p.
+  "_vicissitude_n_1_rel" : ARG0 x.
+  "_victim_n_of_rel" : ARG0 x, ARG1 x.
+  "_victor_n_1_rel" : ARG0 x.
+  "_victorian_a_1_rel" : ARG0 e, ARG1 p.
+  "_victorian_n_1_rel" : ARG0 x.
+  "_victory_n_1_rel" : ARG0 x.
+  "_vidda_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_video_n_of_rel" : ARG0 x, ARG1 x.
+  "_vietnamese_a_1_rel" : ARG0 e, ARG1 p.
+  "_vietnamese_n_1_rel" : ARG0 x { NUM pl }.
+  "_view_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_view_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_viewer_n_of_rel" : ARG0 x, ARG1 x.
+  "_viewfinder_n_1_rel" : ARG0 x.
+  "_viewpoint_n_1_rel" : ARG0 x.
+  "_vigor_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_vigorous_a_1_rel" : ARG0 e, ARG1 p.
+  "_vigorous_a_1_rel" : ARG0 e, ARG1 e.
+  "_vii_n_1_rel" : ARG0 x.
+  "_viii_n_1_rel" : ARG0 x.
+  "_villa_n_1_rel" : ARG0 x.
+  "_village_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_villager_n_1_rel" : ARG0 x.
+  "_villain_n_1_rel" : ARG0 x.
+  "_vindicate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vinegar_n_1_rel" : ARG0 x.
+  "_vineyard_n_1_rel" : ARG0 x.
+  "_vintage_a_1_rel" : ARG0 e, ARG1 p.
+  "_vintage_n_1_rel" : ARG0 x.
+  "_violate_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_violence_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_violent_a_1_rel" : ARG0 e, ARG1 p.
+  "_violent_a_1_rel" : ARG0 e, ARG1 e.
+  "_violet_n_1_rel" : ARG0 x.
+  "_violin_n_1_rel" : ARG0 x.
+  "_viral_a_1_rel" : ARG0 e, ARG1 p.
+  "_virgin_n_1_rel" : ARG0 x.
+  "_virginal_a_1_rel" : ARG0 e, ARG1 p.
+  "_virtual_a_1_rel" : ARG0 e, ARG1 p.
+  "_virtually_x_deg_rel" : ARG0 e, ARG1 u.
+  "_virtue_n_of_rel" : ARG0 x, ARG1 x.
+  "_virtuous_a_1_rel" : ARG0 e, ARG1 p.
+  "_virus_n_1_rel" : ARG0 x.
+  "_visibility_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_visible_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vision_n_1_rel" : ARG0 x.
+  "_visit_n_to_rel" : ARG0 x, ARG1 x.
+  "_visit_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_visitor_n_of_rel" : ARG0 x, ARG1 x.
+  "_visor_n_1_rel" : ARG0 x.
+  "_vista_n_1_rel" : ARG0 x.
+  "_visual_a_1_rel" : ARG0 e, ARG1 p.
+  "_visual_a_1_rel" : ARG0 e, ARG1 e.
+  "_visual_n_1_rel" : ARG0 x.
+  "_visualize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_visualize_v_as_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_visualize_v_understand_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_vital_a_for_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_vitality_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_vitally_x_rel" : ARG0 e, ARG1 u.
+  "_vitamin_n_1_rel" : ARG0 x.
+  "_vitreous_a_1_rel" : ARG0 e, ARG1 p.
+  "_vitriol_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_vivacity_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_vivid_a_1_rel" : ARG0 e, ARG1 e.
+  "_vivid_a_1_rel" : ARG0 e, ARG1 p.
+  "_vocable_n_1_rel" : ARG0 x.
+  "_vocabulary_n_1_rel" : ARG0 x.
+  "_vocal_a_1_rel" : ARG0 e, ARG1 p.
+  "_vocalization_n_of_rel" : ARG0 x, ARG1 x.
+  "_vocalize_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vocals_n_1_rel" : ARG0 x { NUM pl }.
+  "_vocation_n_1_rel" : ARG0 x.
+  "_vocational_a_1_rel" : ARG0 e, ARG1 p.
+  "_vogue_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_voice_n_1_rel" : ARG0 x.
+  "_voice_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_voicemail_n_1_rel" : ARG0 x.
+  "_void_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_void_n_1_rel" : ARG0 x.
+  "_volatile_a_1_rel" : ARG0 e, ARG1 p.
+  "_volatile_n_1_rel" : ARG0 x.
+  "_volatility_n_1_rel" : ARG0 x.
+  "_volcanic_a_1_rel" : ARG0 e, ARG1 p.
+  "_volcano_n_1_rel" : ARG0 x.
+  "_vole_n_1_rel" : ARG0 x.
+  "_vole_n_kind_rel" : ARG0 x { NUM sg, DIV + }.
+  "_voltage_n_of_rel" : ARG0 x, ARG1 x.
+  "_volume_n_of_rel" : ARG0 x, ARG1 x.
+  "_voluntary_a_1_rel" : ARG0 e, ARG1 p.
+  "_voluntary_a_1_rel" : ARG0 e, ARG1 e.
+  "_volunteer_n_1_rel" : ARG0 x.
+  "_volunteer_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_volunteer_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vote_n_1_rel" : ARG0 x.
+  "_vote_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ], [ ARG3 x ].
+  "_vote_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_vote_v_against_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vote_v_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_voter_n_1_rel" : ARG0 x.
+  "_voucher_n_1_rel" : ARG0 x.
+  "_vow_n_1_rel" : ARG0 x.
+  "_vow_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_vowel_n_1_rel" : ARG0 x.
+  "_voyage_n_of_rel" : ARG0 x, ARG1 x.
+  "_vulgar_a_1_rel" : ARG0 e, ARG1 p.
+  "_vulgar_n_1_rel" : ARG0 x { NUM sg }.
+  "_vulnerability_n_1_rel" : ARG0 x.
+  "_vulnerable_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_vx_n_1_rel" : ARG0 x.
+  "_wacky_a_1_rel" : ARG0 e, ARG1 p.
+  "_wade_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_waffle_n_1_rel" : ARG0 x.
+  "_waffle_v_1_rel" : ARG0 e, ARG1 p.
+  "_wage_n_1_rel" : ARG0 x.
+  "_wage_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wager_n_1_rel" : ARG0 x, [ ARG1 h ].
+  "_wager_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x, ARG4 h.
+  "_wagon_n_1_rel" : ARG0 x.
+  "_wail_n_1_rel" : ARG0 x.
+  "_wail_v_1_rel" : ARG0 e, ARG1 p.
+  "_waist_n_1_rel" : ARG0 x.
+  "_wait_a_1_rel" : ARG0 e, ARG1 h.
+  "_wait_n_1_rel" : ARG0 x.
+  "_wait_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_wait_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wait_v_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wait_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_waiter_n_1_rel" : ARG0 x.
+  "_waive_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_waiver_n_of_rel" : ARG0 x, ARG1 x.
+  "_wake_n_1_rel" : ARG0 x.
+  "_wake_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wake_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_walk_n_1_rel" : ARG0 x.
+  "_walk_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_walk_v_over_rel" : ARG0 e, ARG1 p.
+  "_walker_n_1_rel" : ARG0 x.
+  "_walkie+talkie_n_1_rel" : ARG0 x.
+  "_walkman_n_1_rel" : ARG0 x.
+  "_walkway_n_1_rel" : ARG0 x.
+  "_wall_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_wall_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wall_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wallet_n_1_rel" : ARG0 x.
+  "_waltz_n_1_rel" : ARG0 x.
+  "_waltz_v_1_rel" : ARG0 e, ARG1 p.
+  "_wand_n_1_rel" : ARG0 x.
+  "_wander_v_1_rel" : ARG0 e, ARG1 p.
+  "_wander_v_off_rel" : ARG0 e, ARG1 p.
+  "_wander_v_up_rel" : ARG0 e, ARG1 p.
+  "_wanderer_n_1_rel" : ARG0 x.
+  "_want_n_of_rel" : ARG0 x, ARG1 x.
+  "_want_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_want_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_want_v_back_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wanted_a_1_rel" : ARG0 e, ARG1 p.
+  "_wanton_a_1_rel" : ARG0 e, ARG1 p.
+  "_war_n_1_rel" : ARG0 x.
+  "_war_v_1_rel" : ARG0 e, ARG1 p.
+  "_warbler_n_1_rel" : ARG0 x.
+  "_warbler_n_kind_rel" : ARG0 x { NUM sg, DIV + }.
+  "_ward_n_1_rel" : ARG0 x.
+  "_ward_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_ward_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_warden_n_1_rel" : ARG0 x.
+  "_wardrobe_n_1_rel" : ARG0 x.
+  "_ware_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_warehouse_n_of_rel" : ARG0 x, ARG1 x.
+  "_warehouse_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wares_n_1_rel" : ARG0 x { NUM pl }.
+  "_warfare_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_warlike_a_1_rel" : ARG0 e, ARG1 p.
+  "_warm+up_n_1_rel" : ARG0 x.
+  "_warm_a_1_rel" : ARG0 e, [ ARG1 p ].
+  "_warm_a_1_rel" : ARG0 e, ARG1 e.
+  "_warm_v_1_rel" : ARG0 e, ARG1 p.
+  "_warm_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_warm_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_warmth_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_warn_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_warn_v_of_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_warning_n_of_rel" : ARG0 x, ARG1 x.
+  "_warp_n_1_rel" : ARG0 x.
+  "_warp_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_warrant_n_1_rel" : ARG0 x.
+  "_warrant_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_warrant_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_warranty_n_1_rel" : ARG0 x.
+  "_warrior_n_1_rel" : ARG0 x.
+  "_wartime_n_1_rel" : ARG0 x.
+  "_wary_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wash_n_1_rel" : ARG0 x.
+  "_wash_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wash_v_away_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wash_v_down_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wash_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wash_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_washer_n_of_rel" : ARG0 x, ARG1 x.
+  "_waste_n_of_rel" : ARG0 x, ARG1 x.
+  "_waste_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wasteland_n_1_rel" : ARG0 x.
+  "_watch_n_1_rel" : ARG0 x.
+  "_watch_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_watch_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_watch_v_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_watch_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_watchful_a_1_rel" : ARG0 e, ARG1 p.
+  "_watchman_n_1_rel" : ARG0 x.
+  "_water+ski_v_1_rel" : ARG0 e, ARG1 p.
+  "_water-filled_a_1_rel" : ARG0 e, ARG1 p.
+  "_water-repellent_a_1_rel" : ARG0 e, ARG1 p.
+  "_water-saturated_a_1_rel" : ARG0 e, ARG1 p.
+  "_water_n_1_rel" : ARG0 x.
+  "_water_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_watercourse_n_1_rel" : ARG0 x.
+  "_waterfall_n_1_rel" : ARG0 x.
+  "_waterlogged_a_1_rel" : ARG0 e, ARG1 p.
+  "_waterpower_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_waterproof_a_1_rel" : ARG0 e, ARG1 p.
+  "_waterproof_n_1_rel" : ARG0 x.
+  "_waterproof_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_waterproofing_n_1_rel" : ARG0 x.
+  "_watershed-controlled_a_1_rel" : ARG0 e, ARG1 p.
+  "_watershed_n_1_rel" : ARG0 x.
+  "_waterside_n_1_rel" : ARG0 x.
+  "_watertight_a_1_rel" : ARG0 e, ARG1 p.
+  "_waterway_n_1_rel" : ARG0 x.
+  "_watery_a_1_rel" : ARG0 e, ARG1 p.
+  "_watt_n_1_rel" : ARG0 x.
+  "_wave_n_of_rel" : ARG0 x, ARG1 x.
+  "_wave_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_waveform_n_1_rel" : ARG0 x.
+  "_wavelike_a_1_rel" : ARG0 e, ARG1 p.
+  "_wavy_a_1_rel" : ARG0 e, ARG1 p.
+  "_wax_n_1_rel" : ARG0 x.
+  "_wax_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wax_v_to_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_way+too_x_deg_rel" : ARG0 e, ARG1 u.
+  "_way_n_of_rel" : ARG0 x, ARG1 x.
+  "_way_n_of_rel" : ARG0 x, ARG1 h.
+  "_way_n_to_rel" : ARG0 x, [ ARG1 x ].
+  "_way_x_deg_rel" : ARG0 e, ARG1 u.
+  "_wayfarer_n_1_rel" : ARG0 x.
+  "_ways_n_1_rel" : ARG0 x { DIV + }.
+  "_wayside_n_1_rel" : ARG0 x.
+  "_weak_a_1_rel" : ARG0 e, ARG1 p.
+  "_weak_a_1_rel" : ARG0 e, ARG1 e.
+  "_weaken_v_1_rel" : ARG0 e, ARG1 p.
+  "_weaken_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weakness_n_1_rel" : ARG0 x.
+  "_wealth_n_of_rel" : ARG0 x, ARG1 x.
+  "_wealthy_a_1_rel" : ARG0 e, ARG1 p.
+  "_wean_v_1_rel" : ARG0 e, ARG1 p.
+  "_wean_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weapon_n_1_rel" : ARG0 x.
+  "_weapon_n_1_rel" : ARG0 x { NUM pl }.
+  "_wear+and+tear_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wear_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wear_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wear_v_away_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wear_v_off_rel" : ARG0 e, ARG1 p.
+  "_wear_v_on_rel" : ARG0 e, ARG1 p.
+  "_wear_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wear_v_thin_rel" : ARG0 e, ARG1 p.
+  "_wearer_n_1_rel" : ARG0 x.
+  "_weariness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_weary_a_1_rel" : ARG0 e, ARG1 e.
+  "_weary_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weasel_n_1_rel" : ARG0 x.
+  "_weather+beaten_a_1_rel" : ARG0 e, ARG1 p.
+  "_weather_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_weather_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weatherbreaker_n_1_rel" : ARG0 x.
+  "_weathering_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_weave_n_1_rel" : ARG0 x.
+  "_weave_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_weave_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  "_weaver_n_1_rel" : ARG0 x.
+  "_web_n_of_rel" : ARG0 x, ARG1 x.
+  "_webbed_a_1_rel" : ARG0 e, ARG1 p.
+  "_webbing_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_webcam_n_1_rel" : ARG0 x.
+  "_webmaster_n_1_rel" : ARG0 x.
+  "_webpage_n_1_rel" : ARG0 x.
+  "_website_n_1_rel" : ARG0 x.
+  "_wed_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wed_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_wedding_n_of_rel" : ARG0 x, ARG1 x.
+  "_wedge_n_of_rel" : ARG0 x, ARG1 x.
+  "_wedge_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wedge_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wedlock_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wee_a_1_rel" : ARG0 e, ARG1 p.
+  "_weed_n_1_rel" : ARG0 x.
+  "_weed_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weed_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_week_n_1_rel" : ARG0 x.
+  "_weekday_n_1_rel" : ARG0 x.
+  "_weekend_n_of_rel" : ARG0 x, [ ARG1 u ].
+  "_weekend_n_of_rel" : ARG0 i { NUM sg, GEND n, DIV - }.
+  "_weekend_n_of_rel" : ARG0 i { NUM pl }.
+  "_weekly_a_1_rel" : ARG0 e, ARG1 p.
+  "_weekly_a_1_rel" : ARG0 e, ARG1 e.
+  "_weekly_n_1_rel" : ARG0 x.
+  "_weep_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weigh_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weigh_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weight_n_of_rel" : ARG0 x, ARG1 x.
+  "_weight_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weighting_n_1_rel" : ARG0 x.
+  "_weighty_a_1_rel" : ARG0 e, ARG1 p.
+  "_weird_a_1_rel" : ARG0 e, ARG1 p.
+  "_welcome_a_1_rel" : ARG0 e, ARG1 p.
+  "_welcome_n_1_rel" : ARG0 x.
+  "_welcome_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_weld_n_1_rel" : ARG0 x.
+  "_weld_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_welfare_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_well+known_a_1_rel" : ARG0 e, ARG1 p.
+  "_well+off_a_1_rel" : ARG0 e, ARG1 p.
+  "_well_a_1_rel" : ARG0 e, ARG1 e.
+  "_well_a_1_rel" : ARG0 e, ARG1 h.
+  "_well_a_2_rel" : ARG0 e, ARG1 u.
+  "_well_n_1_rel" : ARG0 x.
+  "_well_v_up_rel" : ARG0 e, ARG1 p.
+  "_well_x_deg_rel" : ARG0 e, ARG1 u.
+  "_welsh_a_1_rel" : ARG0 e, ARG1 p.
+  "_welsh_n_1_rel" : ARG0 x.
+  "_wend_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_west_n_1_rel" : ARG0 x.
+  "_westbound_a_1_rel" : ARG0 e, ARG1 p.
+  "_westerly_a_1_rel" : ARG0 e, ARG1 p.
+  "_western_a_1_rel" : ARG0 e, ARG1 p.
+  "_westward_a_1_rel" : ARG0 e, ARG1 p.
+  "_wet_a_1_rel" : ARG0 e, [ ARG1 p ].
+  "_wet_v_1_rel" : ARG0 e, ARG1 p.
+  "_wet_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wetness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_whale_n_1_rel" : ARG0 x.
+  "_whale_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whalebone_n_1_rel" : ARG0 x.
+  "_whaler_n_1_rel" : ARG0 x.
+  "_whaling_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wharf_n_1_rel" : ARG0 x.
+  "_what+of_x_rel" : ARG0 e, ARG1 h.
+  "_whatever_a_1_rel" : ARG0 e, ARG1 h.
+  "_whatnot_n_1_rel" : ARG0 x.
+  "_whatsover_a_1_rel" : ARG0 e, ARG1 e.
+  "_wheat_n_1_rel" : ARG0 x.
+  "_wheel_n_1_rel" : ARG0 x.
+  "_wheel_v_1_rel" : ARG0 e, ARG1 p.
+  "_wheel_v_in_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wheel_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wheelbarrow_n_1_rel" : ARG0 x.
+  "_wheelhouse_n_1_rel" : ARG0 x.
+  "_when_x_subord_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_whenever_x_subord_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_where_x_subord_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_whereabouts_n_of_rel" : ARG0 x { NUM pl }, ARG1 x.
+  "_whereas_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_whereby_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_wherever_x_subord_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_whether+or+not_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_whether_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_whiffletree_n_1_rel" : ARG0 x.
+  "_while_n_1_rel" : ARG0 x.
+  "_while_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_whilst_x_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_whip_n_1_rel" : ARG0 x.
+  "_whip_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whip_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whip_v_off_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whip_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whirl_n_1_rel" : ARG0 x.
+  "_whirl_v_1_rel" : ARG0 e, ARG1 p.
+  "_whirl_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whirlpool_n_of_rel" : ARG0 x, ARG1 x.
+  "_whisker_n_1_rel" : ARG0 x.
+  "_whisky_n_1_rel" : ARG0 x.
+  "_whisper_n_1_rel" : ARG0 x.
+  "_whisper_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_whisper_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whist_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_whistle_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whistle_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_white_a_1_rel" : ARG0 e, ARG1 p.
+  "_white_n_1_rel" : ARG0 x.
+  "_whiteboard_n_1_rel" : ARG0 x.
+  "_whiten_v_1_rel" : ARG0 e, ARG1 p.
+  "_whiten_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whiteness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_whitewash_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_whitewash_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_whitish_a_1_rel" : ARG0 e, ARG1 p.
+  "_whoa_a_1_rel" : ARG0 e, ARG1 h.
+  "_whole_a_1_rel" : ARG0 e, ARG1 p.
+  "_whole_n_1_rel" : ARG0 x.
+  "_wholesale_a_1_rel" : ARG0 e, ARG1 p.
+  "_wholly_x_deg_rel" : ARG0 e, ARG1 u.
+  "_whoops_a_1_rel" : ARG0 e, ARG1 h.
+  "_whortleberry_n_1_rel" : ARG0 x.
+  "_why+not_x_rel" : ARG0 e, ARG1 h.
+  "_why_x_rel" : ARG0 e, ARG1 h.
+  "_wicca_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wicked_a_1_rel" : ARG0 e, ARG1 p.
+  "_wicket_n_1_rel" : ARG0 x.
+  "_wide+ranging_a_1_rel" : ARG0 e, ARG1 p.
+  "_wide_a_1_rel" : ARG0 e, ARG1 e.
+  "_wide_a_1_rel" : ARG0 e, ARG1 p.
+  "_wide_x_deg_rel" : ARG0 e, ARG1 u.
+  "_widen_v_1_rel" : ARG0 e, ARG1 p.
+  "_widen_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_widespread_a_1_rel" : ARG0 e, ARG1 p.
+  "_widget_n_1_rel" : ARG0 x.
+  "_widow_n_1_rel" : ARG0 x.
+  "_widow_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_width_n_of_rel" : ARG0 x, ARG1 x.
+  "_wife_n_of_rel" : ARG0 x, ARG1 x.
+  "_wilco_a_1_rel" : ARG0 e, ARG1 h.
+  "_wild_a_1_rel" : ARG0 e, ARG1 p.
+  "_wild_a_1_rel" : ARG0 e, ARG1 e.
+  "_wilderness+rich_a_1_rel" : ARG0 e, ARG1 p.
+  "_wilderness_n_1_rel" : ARG0 x.
+  "_wildlife_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wilds_n_1_rel" : ARG0 x { NUM pl }.
+  "_will_n_1_rel" : ARG0 x.
+  "_will_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_willie_n_1_rel" : ARG0 x.
+  "_willing_a_1_rel" : ARG0 e, ARG1 u, [ ARG2 h ].
+  "_willingness_n_1_rel" : ARG0 x, [ ARG1 h ].
+  "_willow_n_1_rel" : ARG0 x.
+  "_wilt_v_1_rel" : ARG0 e, ARG1 p.
+  "_wilt_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_win_n_1_rel" : ARG0 x.
+  "_win_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wince_n_1_rel" : ARG0 x.
+  "_wince_v_1_rel" : ARG0 e, ARG1 p.
+  "_winch_n_1_rel" : ARG0 x.
+  "_winch_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_winch_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wind_n_1_rel" : ARG0 x.
+  "_wind_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wind_v_down_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wind_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_windblown_a_1_rel" : ARG0 e, ARG1 p.
+  "_windbreaker_n_1_rel" : ARG0 x.
+  "_windgear_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_window_n_1_rel" : ARG0 x.
+  "_windowpane_n_1_rel" : ARG0 x.
+  "_windproof_a_1_rel" : ARG0 e, ARG1 p.
+  "_windproof_n_1_rel" : ARG0 x.
+  "_windsurf_v_1_rel" : ARG0 e, ARG1 p.
+  "_windsurfing_n_1_rel" : ARG0 x.
+  "_windswept_a_1_rel" : ARG0 e, ARG1 p.
+  "_windward_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_windy_a_1_rel" : ARG0 e, [ ARG1 p ].
+  "_wine_n_1_rel" : ARG0 x.
+  "_wing_n_1_rel" : ARG0 x.
+  "_wing_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wingspan_n_1_rel" : ARG0 x.
+  "_wink_n_1_rel" : ARG0 x.
+  "_wink_v_1_rel" : ARG0 e, ARG1 p.
+  "_wink_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_winner_n_of_rel" : ARG0 x, ARG1 x.
+  "_winnings_n_1_rel" : ARG0 x { NUM pl }.
+  "_winnow_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_winnow_v_out_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_winter_v_1_rel" : ARG0 e, ARG1 p.
+  "_wintry_a_1_rel" : ARG0 e, ARG1 p.
+  "_wipe_n_1_rel" : ARG0 x.
+  "_wipe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x, [ ARG3 h ].
+  "_wipe_v_off_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wipe_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wipe_v_up_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wire_n_1_rel" : ARG0 x.
+  "_wire_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wire_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_wireless_a_1_rel" : ARG0 e, ARG1 p.
+  "_wireless_n_1_rel" : ARG0 x.
+  "_wisdom_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wise_a_for_rel" : ARG0 e, ARG1 p, ARG2 u.
+  "_wise_a_for_rel" : ARG0 e, ARG1 e.
+  "_wise_a_for_rel" : ARG0 e, ARG1 x.
+  "_wish_n_1_rel" : ARG0 x, [ ARG1 h ].
+  "_wish_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ], [ ARG3 x ].
+  "_wish_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_wit_n_1_rel" : ARG0 x.
+  "_witch_hazel_n_1_rel" : ARG0 x.
+  "_witch_n_1_rel" : ARG0 x.
+  "_with_x_subord_rel" : ARG0 e, MAIN h, SUBORD h.
+  "_withdraw_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_withdraw_v_from_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_withdrawal_n_of_rel" : ARG0 x, ARG1 x.
+  "_withhold_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_withhold_v_from_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 x.
+  "_withstand_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_witness_n_1_rel" : ARG0 x.
+  "_witness_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wizard_n_1_rel" : ARG0 x.
+  "_woe_n_1_rel" : ARG0 x.
+  "_wok_n_1_rel" : ARG0 x.
+  "_wolf_n_1_rel" : ARG0 x.
+  "_wolf_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wolverine_n_1_rel" : ARG0 x.
+  "_wolverine_n_kind_rel" : ARG0 x { NUM sg, DIV + }.
+  "_woman_n_1_rel" : ARG0 x.
+  "_womanish_a_1_rel" : ARG0 e, ARG1 p.
+  "_womankind_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_womb_n_1_rel" : ARG0 x.
+  "_wonder_n_1_rel" : ARG0 x.
+  "_wonder_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 h ].
+  "_wonder_v_about_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wonder_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wonderful_a_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_wonderful_a_1_rel" : ARG0 e, ARG1 e.
+  "_wonderful_a_1_rel" : ARG0 e, ARG1 h.
+  "_wonderful_a_for_rel" : ARG0 e, ARG1 h.
+  "_wonderfully_x_deg_rel" : ARG0 e, ARG1 u.
+  "_wonderland_n_1_rel" : ARG0 x.
+  "_wonderment_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wont_a_1_rel" : ARG0 e, ARG1 u, ARG2 h.
+  "_wont_n_1_rel" : ARG0 x { NUM sg }.
+  "_wood_n_1_rel" : ARG0 x.
+  "_woodcutting_n_1_rel" : ARG0 x.
+  "_wooded_a_1_rel" : ARG0 e, ARG1 p.
+  "_wooden_a_1_rel" : ARG0 e, ARG1 p.
+  "_woodland_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_woodlands_n_1_rel" : ARG0 x { NUM pl }.
+  "_woods_n_1_rel" : ARG0 x { NUM pl }.
+  "_woody_a_1_rel" : ARG0 e, ARG1 p.
+  "_wool_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_woolen_a_1_rel" : ARG0 e, ARG1 p.
+  "_woolen_n_1_rel" : ARG0 x.
+  "_woollen_a_1_rel" : ARG0 e, ARG1 p.
+  "_woollens_n_1_rel" : ARG0 x { NUM pl }.
+  "_word_n_of_rel" : ARG0 x, ARG1 h.
+  "_word_n_of_rel" : ARG0 x, ARG1 x.
+  "_word_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_work+related_a_1_rel" : ARG0 e, ARG1 p.
+  "_work_n_1_rel" : ARG0 x.
+  "_work_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_work_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_work_v_on_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_work_v_out_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_work_v_through_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_workable_a_1_rel" : ARG0 e, ARG1 p.
+  "_workaholic_a_1_rel" : ARG0 e, ARG1 p.
+  "_workaholic_n_1_rel" : ARG0 x.
+  "_workday_n_1_rel" : ARG0 x.
+  "_worker_n_1_rel" : ARG0 x.
+  "_workforce_n_1_rel" : ARG0 x.
+  "_working_a_1_rel" : ARG0 e, ARG1 p.
+  "_workings_n_1_rel" : ARG0 x { NUM pl }.
+  "_workman_n_1_rel" : ARG0 x.
+  "_workmanship_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_workout_n_1_rel" : ARG0 x.
+  "_workplace_n_1_rel" : ARG0 x.
+  "_works_n_1_rel" : ARG0 x { NUM pl }.
+  "_workshop_n_1_rel" : ARG0 x.
+  "_workstation_n_1_rel" : ARG0 x.
+  "_world-famous_a_1_rel" : ARG0 e, ARG1 p.
+  "_world-renowned_a_1_rel" : ARG0 e, ARG1 p.
+  "_world-weary_a_1_rel" : ARG0 e, ARG1 p.
+  "_world-wide_a_1_rel" : ARG0 e, ARG1 p.
+  "_world_n_of_rel" : ARG0 x, ARG1 x.
+  "_worldly_a_1_rel" : ARG0 e, ARG1 p.
+  "_worldwide_a_1_rel" : ARG0 e, ARG1 p.
+  "_worldwide_a_1_rel" : ARG0 e, ARG1 e.
+  "_worm_n_1_rel" : ARG0 x.
+  "_worm_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, ARG3 h.
+  "_worried_a_1_rel" : ARG0 e, ARG1 u, ARG2 h.
+  "_worried_a_about_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_worried_a_about_rel" : ARG0 e, ARG1 e.
+  "_worry_n_1_rel" : ARG0 x.
+  "_worry_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_worry_v_1_rel" : ARG0 e, ARG1 p, ARG2 h.
+  "_worry_v_about_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_worsen_v_1_rel" : ARG0 e, ARG1 p.
+  "_worship_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_worship_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_worshiper_n_1_rel" : ARG0 x.
+  "_wort_n_1_rel" : ARG0 x.
+  "_worth_a_1_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_worth_n_of_rel" : ARG0 x, ARG1 x.
+  "_worthiness_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_worthless_a_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_worthwhile_a_1_rel" : ARG0 e, ARG1 p.
+  "_worthy_a_of_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wound_n_1_rel" : ARG0 x.
+  "_wound_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wow_a_1_rel" : ARG0 e, ARG1 h.
+  "_wrangling_n_1_rel" : ARG0 x.
+  "_wrap+up_n_1_rel" : ARG0 x.
+  "_wrap_n_1_rel" : ARG0 x.
+  "_wrap_v_1_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 h ].
+  "_wrap_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wrath_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_wreak_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wreath_n_1_rel" : ARG0 x.
+  "_wreath_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wreathe_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wreck_n_1_rel" : ARG0 x.
+  "_wreck_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wrecked_a_1_rel" : ARG0 e, ARG1 p.
+  "_wrench_n_1_rel" : ARG0 x.
+  "_wrench_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wrest_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wrest_v_away_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wrestle_v_1_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_wretched_a_1_rel" : ARG0 e, ARG1 p.
+  "_wriggle_n_1_rel" : ARG0 x.
+  "_wriggle_v_1_rel" : ARG0 e, ARG1 p.
+  "_wrinkle_n_1_rel" : ARG0 x.
+  "_wrinkle_v_1_rel" : ARG0 e, ARG1 p.
+  "_wrinkle_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wrist_n_1_rel" : ARG0 x.
+  "_writ_n_1_rel" : ARG0 x.
+  "_write+off_n_1_rel" : ARG0 x.
+  "_write_v_back_rel" : ARG0 e, ARG1 p, [ ARG2 x ].
+  "_write_v_down_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_write_v_in_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_write_v_to_rel" : ARG0 e, ARG1 p, [ ARG2 u ], [ ARG3 h ].
+  "_write_v_to_rel" : ARG0 e, ARG1 p, ARG2 u, [ ARG3 x ].
+  "_write_v_to_rel" : ARG0 e, ARG1 p, ARG2 h, [ ARG3 x ].
+  "_write_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_writer_n_of_rel" : ARG0 x, [ ARG1 x ].
+  "_writing+up_n_1_rel" : ARG0 x.
+  "_writing_a_1_rel" : ARG0 e, ARG1 p.
+  "_writings_n_1_rel" : ARG0 x { NUM pl }.
+  "_wrong_a_1_rel" : ARG0 e, ARG1 e.
+  "_wrong_a_with_rel" : ARG0 e, ARG1 p, [ ARG2 u ].
+  "_wrong_a_with_rel" : ARG0 e, ARG1 e.
+  "_wrong_n_1_rel" : ARG0 x.
+  "_wrong_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_wrongful_a_1_rel" : ARG0 e, ARG1 p.
+  "_wrongful_a_1_rel" : ARG0 e, ARG1 e.
+  "_wry_a_1_rel" : ARG0 e, ARG1 p.
+  "_x_n_1_rel" : ARG0 x.
+  "_yacht_n_1_rel" : ARG0 x.
+  "_yard_n_1_rel" : ARG0 x.
+  "_yarn_n_1_rel" : ARG0 x.
+  "_yawn_n_1_rel" : ARG0 x.
+  "_yawn_v_1_rel" : ARG0 e, ARG1 p.
+  "_yay_a_1_rel" : ARG0 e, ARG1 h.
+  "_yea_n_1_rel" : ARG0 x.
+  "_yeah_a_1_rel" : ARG0 e, ARG1 h.
+  "_year-round_a_1_rel" : ARG0 e, ARG1 e.
+  "_year_n_1_rel" : ARG0 x { NUM pl }.
+  "_year_n_1_rel" : ARG0 x.
+  "_yearbook_n_1_rel" : ARG0 x.
+  "_yearly_a_1_rel" : ARG0 e, ARG1 e.
+  "_yearly_a_1_rel" : ARG0 e, ARG1 p.
+  "_yearn_v_for_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_yell_n_of_rel" : ARG0 x, ARG1 x.
+  "_yell_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_yell_v_at_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_yellow_a_1_rel" : ARG0 e, ARG1 p.
+  "_yellow_n_1_rel" : ARG0 x.
+  "_yellow_v_1_rel" : ARG0 e, ARG1 p.
+  "_yellow_v_cause_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_yellowish_a_1_rel" : ARG0 e, ARG1 p.
+  "_yen_n_1_rel" : ARG0 x.
+  "_yen_n_1_rel" : ARG0 x { NUM pl }.
+  "_yep_a_1_rel" : ARG0 e, ARG1 h.
+  "_yes_a_1_rel" : ARG0 e, ARG1 h.
+  "_yet_a_1_rel" : ARG0 e, ARG1 e.
+  "_yet_x_deg_rel" : ARG0 e, ARG1 u.
+  "_yew_n_1_rel" : ARG0 x.
+  "_yield_n_1_rel" : ARG0 x.
+  "_yield_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_yield_v_to_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_yield_v_up_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_yo_a_1_rel" : ARG0 e, ARG1 h.
+  "_yoga_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_yogurt_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_yoke_n_1_rel" : ARG0 x.
+  "_yoke_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_young_a_1_rel" : ARG0 e, ARG1 p.
+  "_young_n_1_rel" : ARG0 x { NUM pl }.
+  "_youngster_n_1_rel" : ARG0 x.
+  "_youth_n_1_rel" : ARG0 x.
+  "_yuan_n_1_rel" : ARG0 x.
+  "_yuck_a_1_rel" : ARG0 e, ARG1 h.
+  "_yugoslav_a_1_rel" : ARG0 e, ARG1 p.
+  "_yugoslav_n_1_rel" : ARG0 x.
+  "_yum_a_1_rel" : ARG0 e, ARG1 h.
+  "_yup_a_1_rel" : ARG0 e, ARG1 h.
+  "_zeal_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_zebra_n_1_rel" : ARG0 x.
+  "_zenith_n_1_rel" : ARG0 x.
+  "_zeppelin_n_1_rel" : ARG0 x.
+  "_zero_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_zest_n_for_rel" : ARG0 x, ARG1 x.
+  "_zinc_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_zip_n_nothing_rel" : ARG0 x { NUM sg, DIV + }.
+  "_zip_v_1_rel" : ARG0 e, ARG1 p, ARG2 x.
+  "_zipper_n_1_rel" : ARG0 x.
+  "_zodiac_n_1_rel" : ARG0 x.
+  "_zone_n_of_rel" : ARG0 x, ARG1 x.
+  "_zoo_n_1_rel" : ARG0 x.
+  "_zooid_n_1_rel" : ARG0 x.
+  "_zoology_n_1_rel" : ARG0 x { NUM sg, DIV + }.
+  "_zoom_n_1_rel" : ARG0 x.
+  "_zoom_v_1_rel" : ARG0 e, ARG1 p.
+  "_årdaler_n_1_rel" : ARG0 x.
+  "guess_rel" : ARG0 x.

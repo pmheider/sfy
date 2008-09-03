@@ -1,0 +1,209 @@
+(in-package :sfy)
+
+;; TODO:  perhaps, generalize this to switching one switches all
+(if (not *sfy-chess-mode*)
+    (setf *sfy-chess-mode* t))
+(if *sfy-isa-mode*
+    (setf *sfy-isa-mode* nil))
+
+;;
+;; Inspired by the following demo:
+;;   http://comp.ling.utexas.edu/wiki/doku.php/openccg/grammars/chess
+;;
+;; As many of the original constructions as possible are repeated to create a
+;; standard for comparison.  The problem of a chess game description has many
+;; linguistically interesting aspects:
+;;
+;;   - some pieces can be uniquely identified (e.g., Black's queen)
+;;   - others can be intentionally underspecified (e.g., a pawn is threatened)
+;;   - valid constructions can be semantically impossible (e.g., Black moves
+;;     his dead queen to D9)
+;;   - world knowledge, implicitly referenced above, can resolve ambiguity
+;;     problems (.e.g, Black's black bishop)
+;;
+;; 
+;; Summarized from the page list above, this demo will showcase certain types
+;; of interaction relating to:
+;;   - individual pieces (the queen, a rook, the pawns)
+;;   - simple moves (the white king moved)
+;;   - captures (White captured black's queen)
+;;   - pawn promotion (Black made the pawn a queen)
+;;
+;; Initially, we will restrict ourselves to the same six verbs used by CCG:
+;;   - capture (Transitive)
+;;   - threaten (Transitive)
+;;   - take (Transitive)
+;;   - move (Transitive)
+;;   - move (Intransitive) 
+;;   - make (Ditransitive)
+;; 
+;; The original nouns include all the piece names and player names (i.e.,
+;; "Black" and "White")
+;;
+;; "Left", "right", and "center" are used to describe a piece location.  Also,
+;; "black" and "white" can be used as adjectives.
+;;
+;; The original test test is below:
+;; # Stuff you might say about a chess match...
+;;    the pawns:1
+;;    blacks pawn:1
+;;    a white king:1
+;;    whites left rook:1
+;;    the black pawn moved:1
+;;    a queen captured the pawn:1
+;;    blacks rook threatens the king:1
+;;    the rook that captured the pawn:1
+;;    White made a pawn a queen:1
+;;    Black captured a bishop:1
+;;    a bishop threatens blacks king:1
+;;    black pawns threatened the king:1
+;; # Stuff you might not...
+;;    Black made a pawn a king pawn:0
+;;    the rook that captured:0
+;;    the blacks left queen:0
+;;    a pawns:0
+;;    the kings:0
+;;    white queens:0
+
+;;;; The original tests can be run in Sfy by uncommenting the following line
+;(load "chess-game-parse-test.demo")
+
+;;
+;; Finally, the ontology of pieces detailed in the lexicon may also be useful
+;; to adapt for SNePS:
+;;   ontology: sem-obj {
+;;     piece {
+;;       capital {
+;;         prime { king }
+;;         queen
+;;         bishop
+;;         knight
+;;         rook
+;;       }
+;;       pawn
+;;     }
+;;     player
+;;   }					;
+;;
+;; It is unclear what "capital" and "prime" refer to.
+;;
+
+;; Now that the parser has been tested, we can start to build the game board
+;; and pieces.
+
+;;;; The chess piece [[piece]] is of the type [[type]]
+;;;; (The type from the set {king, queen, rook, bishop, knight, pawn})
+(snepslog::tell "define-frame hasType(nil piece type)")
+
+;;;; The player [[owner]] currently controls the chess piece [[piece]]
+(snepslog::tell "define-frame ownedBy(nil piece owner)")
+
+;;;; The chess piece [[piece]] is of the color [[color]] (i.e., black or white)
+(snepslog::tell "define-frame hasColor(nil piece color)")
+
+;;;; The chess piece [[piece]] is in the [[rank]]th row and the [[file]]th
+;;;; column.
+;;;; (Rank ranges from 1 to 8 and file ranges from a to h.)
+(snepslog::tell "define-frame hasPosition(nil piece rank file)")
+
+;;;; In the current game of chess, it is the turn of player [[color]].
+(snepslog::tell "define-frame currentTurn(nil color)")
+
+;; Add two WHENEVERDO rules that alternate the game-state between the two 
+(snepslog::tell 
+ "wheneverdo(currentTurn(white),disbelieve(currentTurn(black))).") 
+(snepslog::tell 
+ "wheneverdo(currentTurn(black),disbelieve(currentTurn(white))).") 
+
+;; We also want to seed the KB with the two possible turns 
+(snepslog::tell "currentTurn(black)!")
+(snepslog::tell "currentTurn(white)!")
+
+(defun instantiate-chess-piece (type owner color rank file)
+  (let ((piece (intern (gensym (format nil "~A" type)))))
+    
+    (snepslog::tell (format nil "hasType(~A, ~A)." piece type))
+    (snepslog::tell (format nil "ownedBy(~A, ~A)." piece owner))
+    (snepslog::tell (format nil "hasColor(~A, ~A)." piece color))
+    (snepslog::tell (format nil "hasPosition(~A, ~A, ~A)." piece rank file))
+    )
+  )
+
+(instantiate-chess-piece "queen" "white" "white" "1" "d")
+(instantiate-chess-piece "pawn" "white" "white" "2" "d")
+
+(instantiate-chess-piece "queen" "black" "black" "8" "d")
+(instantiate-chess-piece "pawn" "black" "black" "7" "d")
+
+;; We can preemptively load the case-frames associated with the piece types
+;; so that any processing done or searching for those types will be done using
+;; existant frames
+(check-frame "BISHOP_N_1_REL")
+(check-frame "BLACK_N_1_REL")
+(check-frame "CASTLE_N_1_REL")
+(check-frame "KING_N_OF_REL")
+(check-frame "KNIGHT_N_1_REL")
+(check-frame "PAWN_N_1_REL")
+(check-frame "QUEEN_N_OF_REL")
+(check-frame "WHITE_N_1_REL")
+;;TODO:  (sfy::check-frame "ROOK_N_1_REL")
+
+;; We also want to load the needed verbs for the same reason.
+(check-frame "CAPTURE_V_1_REL")
+(check-frame "MAKE_V_1_REL")
+(check-frame "MOVE_V_1_REL")
+(check-frame "TAKE_V_1_REL")
+(check-frame "THREATEN_V_1_REL")
+
+;; Finally, TO and FROM are used with the verb MOVE
+(check-frame "FROM_P_REL")
+(check-frame "TO_P_REL")
+
+;; Commands to run at the start of a new game
+(defparameter *current-chess-move* '())
+(snepslog::tell "currentTurn(white)!")
+(setf *current-turn-white* t)
+(setf *current-turn* "white")
+
+(defun resolve-chess-move ()
+  
+  (let ((verb-description (car (cdr (assoc sfy::'verb
+				      *current-chess-move*))))
+	(subject-description (cdr (assoc sfy::'subject
+					 *current-chess-move*)))
+	(indirect-object-description  (cdr (assoc sfy::'indirect-object
+						  *current-chess-move*)))
+	(object-description  (cdr (assoc sfy::'object
+					 *current-chess-move*)))
+	(prep-TO-description  (cdr (assoc sfy::'to
+					  *current-chess-move*)))
+	(prep-FROM-description  (cdr (assoc sfy::'from
+					    *current-chess-move*))))
+
+    (demo-mode-only
+     (format nil "New ~A construction~%" verb-description))
+
+    (cond
+     ((string-equal verb-description "CAPTURE")
+      (perform-capture subject-description object-description))
+     )
+    )
+  
+  (demo-mode-only 
+   (format nil "  current-chess-move:  ~A~%" *current-chess-move*)) 
+  
+  (setf *current-chess-move* '())
+  )
+
+(defun perform-capture (subject-description object-description)
+  (demo-mode-only
+   (format nil
+	   "  Piece ~A (~A) must be white and owned by white (i.e., alive).~%"
+	   (car subject-description)
+	   (car (cdr subject-description))))
+  
+  (demo-mode-only
+   (format nil "  Piece ~A (~A) must be black and owned by black (i.e., alive).  It will now be owned by white.~%"
+	   (car object-description)
+	   (car (cdr object-description))))
+    )

@@ -1,0 +1,14 @@
+  arg0_n_1_rel : ARG0 x.
+  arg1_n_1_rel : ARG0 x, ARG1 x.
+  arg2_n_1_rel : ARG0 x, ARG1 x, ARG2 x.
+  arg0_v_1_rel : ARG0 e.
+  arg1_v_1_rel : ARG0 e, ARG1 p.
+  arg2_v_1_rel : ARG0 e, ARG1 p, ARG2 x.
+  arg2_v_1_rel : ARG0 e, ARG1 p, ARG2 h.
+  arg3_v_1_rel : ARG0 e, ARG1 p, ARG2 u, ARG3 u.
+  arg3_v_1_rel : ARG0 e, ARG1 p, ARG2 x, ARG3 x.
+  arg_v_1_rel : ARG0 e, ARG1 p, ARG2 u, ARG3 h, ARG x
+  arg0_a_1_rel : ARG0 e.
+  arg1_a_1_rel : ARG0 e, ARG1 p.
+  arg1_a_1_rel : ARG0 e, ARG1 e.
+  arg2_a_1_rel : ARG0 e, ARG1 u, ARG2 h.

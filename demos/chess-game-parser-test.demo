@@ -1,0 +1,77 @@
+;; This file is dependent on CHESS-GAME.DEMO
+
+;;;; NO PARSES FOUND ;;;;
+;;    the pawns
+(sfy::parse "the pawns")
+
+;;    blacks pawn
+(sfy::parse "black's pawn")
+;;;; NO PARSES FOUND ;;;;
+(sfy::parse "blacks pawn")
+
+
+;;;; NO PARSES FOUND ;;;;
+;;    a white king
+(sfy::parse "a white king")
+
+;;;; NO PARSES FOUND ;;;;
+;;    whites left rook
+(sfy::parse "whites left rook")
+(sfy::parse "White's left rook")
+
+;;    the black pawn moved
+(sfy::parse "the black pawn moved")
+
+;;    a queen captured the pawn
+(sfy::parse "a queen captured the pawn")
+
+;;;; NO PARSES FOUND ;;;;
+;;    blacks rook threatens the king
+(sfy::parse "blacks rook threatens the king")
+(sfy::parse "black's rook threatens the king")
+
+;;;; NO PARSES FOUND ;;;;
+;;    the rook that captured the pawn
+(sfy::parse "the rook that captured the pawn")
+
+;;    White made a pawn a queen
+(sfy::parse "White made a pawn a queen")
+
+;;    Black captured a bishop
+(sfy::parse "Black captured a bishop")
+
+;;    a bishop threatens blacks king
+(sfy::parse "a bishop threatens blacks king")
+(sfy::parse "a bishop threatens black's king")
+
+;;    black pawns threatened the king
+(sfy::parse "black pawns threatened the king")
+
+;;    Black made a pawn a king pawn
+(sfy::parse "Black made a pawn a king pawn")
+
+;;;; NO PARSES FOUND ;;;;
+;;    the rook that captured
+(sfy::parse "the rook that captured")
+
+;;;; NO PARSES FOUND ;;;;
+;;    the blacks left queen
+(sfy::parse "the blacks left queen")
+
+;;;; NO PARSES FOUND ;;;;
+;;    a pawns
+(sfy::parse "a pawns")
+
+;;;; NO PARSES FOUND ;;;;
+;;    the kings
+(sfy::parse "the kings")
+
+;;;; NO PARSES FOUND ;;;;
+;;    white queens
+(sfy::parse "white queens")
+
+(snepslog::tell "list-wffs")
+
+;; Now that you have a taste for what the parsing looks like, we can clear
+;; the knowledge base to make room for some more interesting examples.
+(snepslog::tell "clearkb.")

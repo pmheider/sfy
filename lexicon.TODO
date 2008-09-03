@@ -1,0 +1,71 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;  PULL-WORDNET-ENTRY
+;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;; integrate get-all-synonyms
+(defun pull-wordnet-entry (word-forms)
+  (setf lexical-entry "")
+  
+  (loop
+      for word-token in word-forms
+      do
+	(snepslog::get-wn-word-info word-token t)
+	(let ((synset-list
+	       (snewnet::get-synsets-for-word word-token)))
+	  (if (car synset-list)
+	      (setf lexical-entry
+		(format nil "~A~A~%" lexical-entry 
+			(format nil "~A_n1 := n_-_c_le &~%[ STEM < \"~A\" >,~%SYNSEM [ LKEYS.KEYREL.PRED \"_~A_n_1_rel\",~%PHON.ONSET voc ] ]." word-token word-token word-token)))
+	    (format t "~%Noun form found~%"))
+	  (if (car (cdr synset-list))
+	      (format t "~%Verb form found~%"))
+	  (if (car (cdr (cdr synset-list)))
+	      (format t "~%Adjective form found~%"))
+	  (if (car (cdr (cdr (cdr synset-list))))
+	      (format t "~%Adverb form found~%"))
+	  )
+	)
+  
+  (if lexical-entry
+      (write-new-lexicon-to-file lexical-entry))
+  
+  )
+;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;
+;;;;  PULL-WORDNET-ENTRY
+;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;; integrate get-all-synonyms
+(defun pull-wordnet-entry (word-forms)
+  (setf lexical-entry "")
+  
+  (loop
+      for word-token in word-forms
+      do
+	(snepslog::get-wn-word-info word-token t)
+	(let ((synset-list
+	       (snewnet::get-synsets-for-word word-token)))
+	  (if (car synset-list)
+	      (setf lexical-entry
+		(format nil "~A~A~%" lexical-entry 
+			(format nil "~A_n1 := n_-_c_le &~%[ STEM < \"~A\" >,~%SYNSEM [ LKEYS.KEYREL.PRED \"_~A_n_1_rel\",~%PHON.ONSET voc ] ]." word-token word-token word-token)))
+	    (format t "~%Noun form found~%"))
+	  (if (car (cdr synset-list))
+	      (format t "~%Verb form found~%"))
+	  (if (car (cdr (cdr synset-list)))
+	      (format t "~%Adjective form found~%"))
+	  (if (car (cdr (cdr (cdr synset-list))))
+	      (format t "~%Adverb form found~%"))
+	  )
+	)
+  
+;;  (if lexical-entry
+;;     (write-new-lexicon-to-file lexical-entry))
+  
+  )

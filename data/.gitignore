@@ -1,0 +1,17 @@
+####
+# Ignore the following data files
+####
+
+# The following (4) are stored copies of old outputs
+1a.txt
+1b.txt
+2.txt
+3.txt
+
+# The next file is a place-holder for batch-rteX.txt, where
+# the X represents a particular RTE competition
+batch-rte.txt
+
+# The final (2) files will be rewritten with each run of (sfy::batch-rte)
+rte-answers.txt
+rte-score.txt

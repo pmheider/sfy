@@ -1,0 +1,52 @@
+
+(in-package :sfy)
+(use-package :excl)
+
+(if (not *sfy-isa-mode*)
+    (setf *sfy-isa-mode* t))
+(if *sfy-chess-mode*
+    (setf *sfy-chess-mode* nil))
+
+(defparameter *current-isa* '())
+
+;; The referant [[instance]] is a generalized refering string for the
+;; larger class [[lexeme]].
+(snepslog::tell "define-frame lexItem(nil instance lexeme).")
+
+;; The class [[sub-type]] is a sub-type of the class [[super-type]].
+(snepslog::tell "define-frame subSuperType(nil sub-type super-type).")
+
+(check-frame "BE_V_ID_REL")
+
+(check-frame "ELEPHANT_N_1_REL")
+(check-frame "ANIMAL_N_1_REL")
+(check-frame "CANARY_N_1_REL")
+(check-frame "BIRD_N_1_REL")
+
+(defun resolve-isa ()
+  (if (< 2 (length *current-isa*))
+      (let ((sub-type (car (cdr (assoc sfy::'subject
+				       *current-isa*))))
+	    (super-type (car (cdr (assoc sfy::'object
+					 *current-isa*)))))
+	
+	(demo-mode-only
+	 (format nil
+		 "New ISA construction~%  subSuperType(~A, ~A)~%"
+		 sub-type
+		 super-type))
+	
+	(snepslog::tell
+	 (format nil "subSuperType(~A, ~A)." sub-type super-type))
+		
+	)
+    (demo-mode-only
+     (format nil "WARNING:  Malformed ISA construction.~%"))
+    )
+  
+  (demo-mode-only
+   (format nil "  current-isa:  ~A~%" *current-isa*))
+  
+  (setf *current-isa* '())
+
+  )
